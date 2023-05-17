@@ -1,0 +1,23 @@
+name: vits2
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pytorch=2.0
+  - pytorch-cuda=11.7
+  - torchaudio
+  - torchvision
+  - tensorboard=2.12
+  - cython=0.29
+  - numpy=1.23
+  - matplotlib=3.7
+  - scikit-learn
+  - regex
+  - numba
+  - unidecode
+  - pip:
+      - librosa==0.10
+      - phonemizer==3.2.1

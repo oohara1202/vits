@@ -27,15 +27,32 @@ We also provide the [pretrained models](https://drive.google.com/drive/folders/1
 ## Pre-requisites
 0. Python >= 3.6
 0. Clone this repository
-0. Install python requirements. Please refer [requirements.txt](requirements.txt)
-    1. You may need to install espeak first: `apt-get install espeak`
+0. Install python requirements. Please refer [requirements.txt](requirements.txt) or [env_conda.yml](env_conda.yml)
+    1. If you use pip:
+       ``` bash
+       $ pip install -r requirements
+       ```
+    1. If you use conda, and create new env named 'vits' (recommended):
+       ``` bash
+       $ conda env create -n vits -f env_conda.yml
+       ```
+    1. You may need to install espeak first. Please contact your administrator to run: `apt-get install espeak`
 0. Download datasets
-    1. Download and extract the LJ Speech dataset, then rename or create a link to the dataset folder: `ln -s /path/to/LJSpeech-1.1/wavs DUMMY1`
+    1. Download and extract the LJ Speech dataset, then rename or create a link to the dataset folder:
+       ``` bash
+       $ ls /path/to/LJSpeech-1.1   # here is your original database
+       README metadata.csv wavs
+       $ ls -1          # current directory is your work (forked) directory
+       LICENSE   README.md  ...
+       $ mkdir DUMMY1
+       $ ln -s /path/to/LJSpeech-1.1/wavs/*.wav DUMMY1/
+       ```
     1. For mult-speaker setting, download and extract the VCTK dataset, and downsample wav files to 22050 Hz. Then rename or create a link to the dataset folder: `ln -s /path/to/VCTK-Corpus/downsampled_wavs DUMMY2`
 0. Build Monotonic Alignment Search and run preprocessing if you use your own datasets.
 ```sh
 # Cython-version Monotonoic Alignment Search
 cd monotonic_align
+mkdir monotonic_align
 python setup.py build_ext --inplace
 
 # Preprocessing (g2p) for your own datasets. Preprocessed phonemes for LJ Speech and VCTK have been already provided.
