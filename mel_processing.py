@@ -7,6 +7,8 @@ import torch.nn.functional as F
 import torch.utils.data
 import numpy as np
 import librosa
+import logging
+logging.getLogger('numba').setLevel(logging.WARNING)
 import librosa.util as librosa_util
 from librosa.util import normalize, pad_center, tiny
 from scipy.signal import get_window
