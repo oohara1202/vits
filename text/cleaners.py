@@ -48,9 +48,9 @@ def expand_abbreviations(text):
     text = re.sub(regex, replacement, text)
   return text
 
-
-def expand_numbers(text):
-  return normalize_numbers(text)
+# 関数不足のためコメントアウト
+# def expand_numbers(text):
+#   return normalize_numbers(text)
 
 
 def lowercase(text):
@@ -97,4 +97,13 @@ def english_cleaners2(text):
   text = expand_abbreviations(text)
   phonemes = phonemize(text, language='en-us', backend='espeak', strip=True, preserve_punctuation=True, with_stress=True)
   phonemes = collapse_whitespace(phonemes)
+  return phonemes
+
+
+# スペース区切りの音素・韻律記号をリストに変換
+# 子音の一部が2文字のため
+# '^ k o [ N n i ch i 'w a $'
+# ['^', 'k', 'o', '[', 'N', 'n', 'i', 'ch', 'i', 'w', 'a', '$']
+def postprocess_japanese(text):
+  phonemes = text.split(' ')
   return phonemes
