@@ -1,5 +1,6 @@
 pretrained_models
 dataset
+generated_wav
 
 nohup.out
 
