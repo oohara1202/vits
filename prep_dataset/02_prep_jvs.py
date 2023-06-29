@@ -10,7 +10,7 @@ def main():
     VAL_NUM = 2   # validationとtestのデータ数
     TEST_NUM = 5  #
     dst_dirname = 'filelists'         # 出力ディレクトリ
-    dst_filename = 'jvs_audio_text'   # 出力ファイル名（一部）
+    dst_filename = 'jvs_audio_sid_text'   # 出力ファイル名（一部）
     ############################################
 
     # 'prep_dataset'内では実行しない
