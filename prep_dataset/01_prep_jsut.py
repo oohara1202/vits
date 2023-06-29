@@ -9,8 +9,8 @@ def main():
     jsut_dirname = 'jsut_ver1.1'  
     VAL_NUM = 250   # validationとtestのデータ数
     TEST_NUM = 250  #
-    dst_dirname = 'filelists'          # 出力ディレクトリ
-    dst_filename = 'jsut_audio_text'   # 出力ファイル名（一部）
+    dst_dirname = 'filelists/jsut'    # 出力ディレクトリ
+    dst_filename = 'jsut_audio_text'  # 出力ファイル名（一部）
     ############################################
 
     # 'prep_dataset'内では実行しない
