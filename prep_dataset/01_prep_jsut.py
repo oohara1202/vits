@@ -1,7 +1,7 @@
 import os
 from typing import Iterable, List, Optional, Union
 
-from utils import text_clean
+from utils import text_clean_single
 
 def main():
     ############################################
@@ -55,7 +55,7 @@ def main():
         # G2P後に保存
         savename = savename + '.cleaned'
         with open(os.path.join(savename), mode='w', encoding='utf-8') as f:
-            f.writelines(text_clean(filelist[t]))
+            f.writelines(text_clean_single(filelist[t]))
 
 if __name__ == '__main__':
     main()
