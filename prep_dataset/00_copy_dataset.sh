@@ -8,7 +8,7 @@ fi
 # check arguments
 if [ $# != 2 ]; then
     echo "Usage: $0 <db> <dirname>"
-    echo "e.g.: $0 /work/abelab4/s_koha/work/dataset/jsut_ver1.1-p1_22k jsut_ver1.1"
+    echo "e.g.: $0 /work/abelab4/s_koha/s_koha_work/dataset/jsut_ver1.1-p1_22k jsut_ver1.1"
     exit 1
 fi
 
