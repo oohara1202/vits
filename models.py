@@ -412,6 +412,8 @@ class SynthesizerTrn(nn.Module):
     n_speakers=0,
     gin_channels=0,
     use_sdp=True,
+    use_xvector=False,  # for x-vector conditioning
+    embed_dim=0,        # for x-vector conditioning
     **kwargs):
 
     super().__init__()
@@ -436,6 +438,9 @@ class SynthesizerTrn(nn.Module):
 
     self.use_sdp = use_sdp
 
+    self.use_xvector = use_xvector  # for x-vector conditioning
+    self.embed_dim = embed_dim      # for x-vector conditioning
+
     self.enc_p = TextEncoder(n_vocab,
         inter_channels,
         hidden_channels,
@@ -453,13 +458,19 @@ class SynthesizerTrn(nn.Module):
     else:
       self.dp = DurationPredictor(hidden_channels, 256, 3, 0.5, gin_channels=gin_channels)
 
-    if n_speakers > 1:
+    # change for x-vector conditioning
+    if use_xvector:
+      self.spemb_proj = torch.nn.Linear(embed_dim, gin_channels)
+    # single-speakerでもmulti-speakerでもx-vectorを使うためにif文を変更
+    elif n_speakers > 1:
       self.emb_g = nn.Embedding(n_speakers, gin_channels)
 
-  def forward(self, x, x_lengths, y, y_lengths, sid=None):
-
+  def forward(self, x, x_lengths, y, y_lengths, sid=None, embeds=None):
     x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
-    if self.n_speakers > 0:
+    # change for x-vector conditioning
+    if self.use_xvector:
+      g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
+    elif self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
     else:
       g = None
@@ -496,9 +507,12 @@ class SynthesizerTrn(nn.Module):
     o = self.dec(z_slice, g=g)
     return o, l_length, attn, ids_slice, x_mask, y_mask, (z, z_p, m_p, logs_p, m_q, logs_q)
 
-  def infer(self, x, x_lengths, sid=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
+  def infer(self, x, x_lengths, sid=None, embeds=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
     x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
-    if self.n_speakers > 0:
+    # change for x-vector conditioning
+    if self.use_xvector:
+      g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
+    elif self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
     else:
       g = None

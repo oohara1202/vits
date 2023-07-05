@@ -141,6 +141,13 @@ def load_filepaths_and_text(filename, split="|"):
   return filepaths_and_text
 
 
+# multi-speakerの場合にsidを抜く
+def load_filepaths_and_text_without_sid(filename, split="|"):
+  with open(filename, encoding='utf-8') as f:
+    filepaths_and_text = [[line.strip().split(split)[0], line.strip().split(split)[-1]] for line in f]
+  return filepaths_and_text
+
+
 def get_hparams(init=True):
   parser = argparse.ArgumentParser()
   parser.add_argument('-c', '--config', type=str, default="./configs/base.json",
