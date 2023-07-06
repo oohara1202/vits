@@ -50,9 +50,9 @@ class TextAudioLoader(torch.utils.data.Dataset):
         audiopaths_and_text_new = []
         lengths = []
         for audiopath, text in self.audiopaths_and_text:
-            if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
-                audiopaths_and_text_new.append([audiopath, text])
-                lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
+            # if self.min_text_len <= len(text) and len(text) <= self.max_text_len:  # すべてのデータを学習に用いる
+            audiopaths_and_text_new.append([audiopath, text])
+            lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_and_text = audiopaths_and_text_new
         self.lengths = lengths
 
@@ -187,9 +187,9 @@ class TextAudioSpeakerLoader(torch.utils.data.Dataset):
         audiopaths_sid_text_new = []
         lengths = []
         for audiopath, sid, text in self.audiopaths_sid_text:
-            if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
-                audiopaths_sid_text_new.append([audiopath, sid, text])
-                lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
+            # if self.min_text_len <= len(text) and len(text) <= self.max_text_len:  # すべてのデータを学習に用いる
+            audiopaths_sid_text_new.append([audiopath, sid, text])
+            lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_sid_text = audiopaths_sid_text_new
         self.lengths = lengths
 
@@ -447,9 +447,9 @@ class TextAudioXvectorLoader(torch.utils.data.Dataset):
         audiopaths_and_text_new = []
         lengths = []
         for audiopath, text in self.audiopaths_and_text:
-            if self.min_text_len <= len(text) and len(text) <= self.max_text_len:
-                audiopaths_and_text_new.append([audiopath, text])
-                lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
+            # if self.min_text_len <= len(text) and len(text) <= self.max_text_len:  # すべてのデータを学習に用いる
+            audiopaths_and_text_new.append([audiopath, text])
+            lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_and_text = audiopaths_and_text_new
         self.lengths = lengths
 
