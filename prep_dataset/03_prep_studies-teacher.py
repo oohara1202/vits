@@ -23,6 +23,8 @@ def main():
     studies_dir = os.path.join(basedir, studies_dirname)
     assert os.path.isdir(studies_dir)
 
+    os.makedirs(dst_dirname, exist_ok=True)
+
     # 出力するファイルリスト
     filelist = dict()
     filelist['val'] = list()

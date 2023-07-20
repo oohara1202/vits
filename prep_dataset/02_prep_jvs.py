@@ -20,6 +20,8 @@ def main():
     jvs_dir = os.path.join(basedir, jvs_dirname)
     assert os.path.isdir(jvs_dir)
 
+    os.makedirs(dst_dirname, exist_ok=True)
+
     # jvs001, jvs002などのディレクトリ名を取得
     dir_list = [f for f in os.listdir(jvs_dir) if os.path.isdir(os.path.join(jvs_dir, f))]
     dir_list.sort()

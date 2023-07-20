@@ -20,6 +20,8 @@ def main():
     jsut_dir = os.path.join(basedir, jsut_dirname)
     assert os.path.isdir(jsut_dir)
 
+    os.makedirs(dst_dirname, exist_ok=True)
+
     # basic5000, countersuffix26などのディレクトリ名を取得
     dir_list = [f for f in os.listdir(jsut_dir) if os.path.isdir(os.path.join(jsut_dir, f))]
     dir_list.sort()
