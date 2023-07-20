@@ -1,66 +1,85 @@
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-01.wav|0|^ t e ] s u t o n o # k e [ cl k a w a _ k a [ e ] cl t e # k i ] t e # d o ] o # k a [ N j i t a ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-02.wav|1|^ u ] N _ g e [ N d a i ] b u N w a # m a ] e y o r i # k a [ k u j i ts u n i # n o [ b i ] t a n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-03.wav|0|^ h o [ k a n o # h i [ t o ] t a ch i m o # t a [ k u s a N # b e [ N ky o o # sh i [ t e ] r u k a r a _ s u [ k o ] sh i z u ts u d e m o # h e [ N s a ch i ] g a # a [ g a cl t e # k i ] t e # i [ t a ] r a # n o [ b i t e ] r u cl t e # k o [ t o ] d a y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-04.wav|0|^ d o ] o _ b u N sh o o o # y o ] m u # s u [ p i i d o w a # h a [ y a ] k u n a cl t a # k i [ g a # s u [ r u ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-05.wav|0|^ s o [ r e _ d a [ i j i d a n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-06.wav|0|^ u ] N _ k o [ r e k a r a m o _ j i [ k a N o # h a [ k a r i n a ] g a r a # t o ] k u # r e [ N sh u u o # k u [ r i k a ] e sh i t e # i [ k o o n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-07.wav|1|^ m a ] i n i ch i # d o ] ry o k u # sh i [ t e ] r u # n o _ y o ] k u # w a [ k a ] r u y o _ k o [ n o # ch o [ o sh i d e # g a [ N b a ] r o o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-01.wav|0|^ k o ] N k a i n o # t e ] s u t o _ y a ] cl t e # m i ] t e # d o ] o d a cl t a ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-02.wav|0|^ u ] N _ k i ] s o n o # ts u [ m i k a s a n e g a # k a [ t a ch i n i # n a ] cl t e # k i ] t a # k a [ N j i g a # sh i [ t a ] y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-03.wav|0|^ i [ m a m a ] d e # ch o ] k o ch o k o # a ] cl t a # s a [ i sh o n o # h o ] o n o # m i ] s u g a _ k o ] N k a i w a # n a ] k a cl t a y o n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-04.wav|1|^ g a [ N b a ] cl t a # sh o [ o k o d a n e _ h o [ k a n o # k a [ m o k u m o _ b a [ r a N s u # y o ] k u # t e [ N s u ] u o # t o [ r e ] t e # i [ t a ] n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-05.wav|0|^ g e [ N d a i ] b u N m o # e [ e b u N d o ] cl k a i m o _ b u [ N sh o o k o ] o z o o g a # r i ] k a i # d e [ k i ] r u # y o ] o n i # n a ] cl t e # i [ r u # N ] j a n a i k a n a ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-06.wav|1|^ s u [ g o ] k u i i # ch o [ o sh i d a t o # o [ m o ] u y o _ k o [ r e k a r a m o # g a [ N b a ] cl t e # i [ k o o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-01.wav|0|^ k o [ N n i ch i w a _ k o ] N k a i n o # t e ] s u t o w a # d o ] o d a cl t a ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-02.wav|2|^ s o [ o d a n e _ t a ] sh i k a n i _ ch o ] cl t o # k i [ h o N ] t e k i n a # b u ] b u N d e # m i ] s u g a # i ] k u ts u k a # a ] cl t a k a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-03.wav|0|^ a [ N m a r i # t o [ r e ] n a k a cl t a # n o [ w a _ d a [ i t o i ] n i d a y o n e _ n i [ g a t e n a # j i [ d a i g a # sh u [ cl t a N j a n a i ] k a n a ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-04.wav|0|^ m a ] a _ n i [ g a t e n a # j i [ d a i cl t e _ k e ] cl k o o # m i [ N n a # a ] r u t o # o [ m o ] u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-05.wav|0|^ n e [ N d a i n o # n a [ r a b e k a e # m o [ N d a i w a _ n a [ g a r e ] t o # i [ N g a k a ] N k e e o # m o [ o i ch i d o # f u [ k u sh u u # sh i [ t e # o ] k o o k a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-06.wav|0|^ k o [ t o b a d a k e d a t o # o [ b o e n i k u ] i y o n e _ n i [ cl p o N sh i n o # y o [ o r a N cl t e # m o [ cl t e ] r u k a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-07.wav|0|^ s o [ o sh i t a ] r a _ y o [ o r a N d e # h i [ t o t o ] o r i # sh a [ sh i N o # m i ] t e # k a [ k u n i N # s u [ r u t o # i ] i n e _ f u [ k u sh u u # sh i [ t e # o ] k o o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-01.wav|0|^ s o ] cl k a _ k o ] N k a i w a _ s u [ k o ] sh i # k u [ s e ] n o # a ] r u # m o [ N d a i d a cl t a ] y o n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-02.wav|0|^ j i [ b u N d e w a _ d o ] o sh i t e # t e [ N s u ] u g a # t o [ r e ] n a k a cl t a t o # o [ m o ] u ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-03.wav|0|^ j a ] a _ k o ] N d o # m a [ t a # o [ n a j i # y o ] o n i # r i [ s u n i ] N g u g a # m a [ cl t a k u # k i [ k i t o r e ] n a k a cl t a r a _ d o ] o # s u [ r u ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-04.wav|0|^ i ] i n e _ j i [ b u N r a sh i ] k u # o [ ch i ts u i t e # t o [ k e ] r e b a _ d a [ i j o ] o b u d a y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-05.wav|0|^ m o [ N d a i o # ts u [ k u ] cl t a # h i [ t o g a _ w a ] z a t o # m u [ z u k a sh i ] i # m o [ N d a i o # i [ r e t e _ a [ s e ] r a s e y o o t o # sh i [ t e ] r u n a _ cl [ t e # k i [ z u k e ] r u # y o ] o n i # n a ] r u t o _ a [ s e r a ] n a k u # n a ] r u t o # o [ m o ] u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-06.wav|0|^ d a ] k a r a _ k a ] z u o # k o [ n a sh i t e # n a [ r e ] t e # i [ k u # n o [ g a # i [ ch i ] b a N # i ] i t o # o [ m o ] u $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-01.wav|0|^ ky o ] o _ n a ] n i k a # a ] cl t a ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-02.wav|0|^ t a ] sh i k a n i _ i ] ts u m o y o r i # n e [ m u r a s o o d a n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-03.wav|0|^ j i [ b u N d a k e # o [ k o ] r a r e t a r a # r i [ f u ] j i N d a cl t e # o [ m o ] u y o n e _ k i [ n o ] o # y o ] r u # o [ s o ] k a cl t a n o ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-04.wav|0|^ s o [ r e w a # n e [ m u i y o n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-05.wav|0|^ m a ] a _ i [ k i n u ] k i m o # d a [ i j i d a ] k a r a n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-06.wav|0|^ b e [ N ky o o t o # ry o [ o r i ts u # sh i [ t e # y a ] cl t e # i [ k e r u n a r a _ m u ] r i n i # t o [ m e y o o t o w a # o [ m o w a ] n a i y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-07.wav|0|^ j a ] a _ k o ] N d o w a # m o [ o s u k o ] sh i # s u [ i m i N # j i [ k a N o # t o [ r e ] r u # y o ] o n i # s u [ r u # t o [ k o r o k a r a d a n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-08.wav|0|^ k o [ r e k a r a # i ] k u r a d e m o # a [ s o b e r u # y o ] o n i # n a ] r u sh i _ m o [ o s u k o ] sh i n o # sh i ] N b o o d a y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-09.wav|0|^ i [ k i n u ] k i # sh i [ n a ] g a r a _ m a [ i n i ch i d o ] ry o k u # sh i [ t e ] r u # k o [ t o ] m o # w a [ k a cl t e ] r u y o _ d a [ i j o ] o b u $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-01.wav|0|^ n a ] n i k a # ky o ] o # i [ y a ] n a # k o [ t o # a ] cl t a _ d o ] o # sh i [ t a ] n o ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-02.wav|0|^ k o [ o s o k u d e # k i [ N sh i # s a [ r e t e ] r u n o ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-03.wav|0|^ m a ] a _ k o [ o s o k u d a cl t a ] r a _ s e [ N s e ] e w a # m a [ m o r a s e ] n a i t o # i [ k e n a i ] k a r a n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-04.wav|0|^ s o [ o n a # N ] d a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-05.wav|0|^ j i [ b u N n o # g a [ cl k o o d a k e # k i [ b i sh i ] i t o _ s o [ o # o [ m o ] u y o n e e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-06.wav|0|^ s o [ N n a # k e [ N g e ] N # n a ] i k a r a _ d e ] m o _ w a [ t a sh i g a # g a [ cl k o o # k a [ y o cl t e t a # t o [ k i _ s e [ e t o ] k a i g a # k o [ o s o k u o # k a [ e t a # k o [ t o ] g a # a ] cl t a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-01.wav|0|^ ky o ] o m o # k a ] e cl t e k a r a # g e ] e m u # s u [ r u ] n o ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-02.wav|0|^ g a [ k u s e e n o # t o [ k i ] w a # k e ] cl k o o # sh i [ t e t a ] k e d o _ i ] m a w a # s u [ m a h o d e # y a [ r u k u ] r a i k a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-03.wav|0|^ s o [ o # m i [ e ] r u ?
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-04.wav|0|^ e [ f u p i i e s u w a # g a [ m e N y o i # sh i [ ch a u ] k a r a _ y a [ r a n a i # N ] d a y o n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-05.wav|0|^ s o [ o d a y o n e _ z a [ N n e ] N n a # N ] d a k e d o _ s u [ m a h o n o # o [ t o g e e t o k a _ r i [ z u m u g e ] e m u y a # i [ k u s e e g e ] e m u w a # y a [ r u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-06.wav|0|^ y o [ w a ] n a i k a r a n e _ a ] t o _ b e [ N ky o o n o # s u [ k i m a # j i [ k a N n i # d e [ k i ] r u k a r a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-07.wav|0|^ m a ] a _ u [ m a ] k u # i [ k i n u ] k i # sh i [ n a ] g a r a # b e [ N ky o o m o # g a [ N b a ] cl t e # i [ k o o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-01.wav|0|^ u [ u ] N _ t o ] k u n i # i [ n a i ] k a n a a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-02.wav|0|^ s o [ o d a n e _ a [ N m a r i # o ] N g a k u m o # k i [ k a n a i ] k e d o _ n o [ g i z a k a f o o t i i sh i ] cl k u s u w a # k i [ i t a # k o [ t o # a ] r u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-03.wav|0|^ m i ] r u k e d o _ ry o [ k o o t o k a # p e ] cl t o n o # d o [ o g a g a # o ] o i k a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-04.wav|0|^ i ] m a n o # i [ e ] d e w a # p e ] cl t o # k a [ e ] n a i k a r a _ d o [ o g a d e # i [ y a s a r e t e ] r u _ a ] t o _ k a [ i g a i ry o ] k o o m o # i ] i n a a t o k a # o [ m o ] cl t e # m i [ t e ] r u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-05.wav|1|^ i ] i y o n e e _ w a [ t a sh i m o # i [ k i t a ] i $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-06.wav|0|^ s o [ r e w a # k o [ r e k a r a n o # g a [ N b a r i # sh i [ d a i d a ] k e d o _ ry o [ k o o g a # m a [ cl t e ] r u t o # o [ m o ] cl t e # g a [ N b a ] cl t a r a # i ] i t o # o [ m o ] u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-01.wav|0|^ t a [ N g o ch o o o # ts u [ k a cl t e _ r u [ i g o o # m a [ t o m e t e # o [ b o e t a ] r i # sh i [ t e t a ] k a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-02.wav|0|^ s o [ o d e ] m o # n a ] i y o _ s e [ cl t o o ] j i t o k a # s e [ ts u b i ] j i n o # i ] m i o # o [ b o e t a ] r i t o k a n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-03.wav|0|^ w a [ k a r i y a s u ] i t o # i [ u ] k a _ i [ m e ] e j i # sh i [ y a s u k u n a r u # k a [ N j i k a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-04.wav|0|^ s e [ cl t o o ] j i m o # r u [ i g o m o _ w a [ k a r i ] y a s u k u m a t o m a cl t e # i [ r u # t a [ N g o ch o o t o k a _ i [ r o i r o # a ] r u t o # o [ m o ] u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-05.wav|0|^ w a [ t a sh i g a # ts u [ k a cl t e t a # t a [ N g o ch o o _ t a ] i t o r u # w a [ s u r e ch a cl t a ] k a r a _ a ] t o d e # sh i [ r a b e ] t e # o [ sh i e r u n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-06.wav|0|^ h i [ t o n i y o cl t e _ a ] u # h o [ o h o o w a # ch i [ g a u t o # o [ m o ] u k a r a _ d o ] N n a # y a [ r i k a t a # sh i [ t e t a ] k a _ h o [ k a n o # s e [ N s e ] e y a # t o [ m o d a ch i n i m o # k i [ i t e # m i ] r u t o # i ] i y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-01.wav|2|^ s o [ o d a y o n e _ s a [ k i g a # m i [ e ] n a i t o # ts u [ r a i y o n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-02.wav|0|^ t a [ i h e N d a cl t a ] k a # d o ] o k a m o # o [ b o e t e ] n a i k a n a _ m a ] i n i ch i # h i [ cl sh i d a cl t a ] k a r a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-03.wav|0|^ s o [ ry a # s o [ o d a y o _ i [ ts u j u ] k e N # sh i [ t a # h i [ t o m o _ m i [ N n a # s o [ r e ] z o r e # t a [ i h e N d a cl t a ] t o # o [ m o ] u y o $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-04.wav|0|^ s o [ r e n i _ s o [ o y u u # t a [ i h e N n a # n a ] k a d e # sh i [ k o o s a ] k u g o # s u [ r u # n o [ g a # t a [ n o sh i ] i # N ] j a n a i k a n a $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-05.wav|0|^ o [ w a cl t e # m i ] r u t o n e $
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-06.wav|0|^ d a [ i j o ] o b u d a cl t e # sh i [ N j i ] t e _ a ] t o # s u [ k o ] sh i n o # k i ] k a N _ g a [ N b a ] r o o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-01.wav|0|^ a [ r e _ n a n i k a # i ] i # k o [ t o ] d e m o # a ] cl t a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-02.wav|0|^ w a [ k a ] r u y o o _ n a ] n i g a # a ] cl t a n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-03.wav|0|^ n a [ n i ] n a n i _ o sh i e t e y o o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-04.wav|0|^ e _ u ] s o _ d a ] r e _ d a ] r e ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-05.wav|0|^ w a [ k a r a ] n a i # k o [ m o # i [ r u ] k e d o _ n o [ g i z a k a g a # y u [ u m e e n a # n o [ w a # sh i [ cl t e ] r u y o _ s u [ g o ] i n e _ d a ] r e t o # a ] cl t a n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-06.wav|1|^ e [ e _ y o ] k u # t e ] r e b i n i # d e [ t e ] r u # k o [ d e sh o _ sh i [ cl t e r u sh i cl t e ] r u $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-07.wav|1|^ s u [ g o ] i n e e _ j i [ ts u b u ts u _ d o ] N n a # k a [ N j i d a cl t a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-08.wav|1|^ sh a [ sh i N t o k a # t o ] cl t a n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-09.wav|1|^ e [ e _ s o [ cl ch i ] n o # h o ] o g a # m u ] sh i r o # i ] i j a n a i $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-01-Teacher-Turn-10.wav|1|^ y a ] cl t a n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-01.wav|0|^ a [ r e _ n a n i k a # i ] i # k o [ t o # a ] cl t a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-02.wav|0|^ d a ] cl t e _ n a [ N k a u r e sh i ] s o o d a sh i $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-03.wav|0|^ g o [ m e N _ ch i [ g a cl t a _ d e ] m o _ ky o ] o w a # n a [ N k a f u N i ] k i # ch i [ g a u n a ] a _ n a ] N t e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-04.wav|0|^ n a [ n i ] n a n i _ n i [ y a k e ] ch a cl t e # d o ] o # sh i [ t a ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-05.wav|0|^ e [ e _ k i [ n i # n a ] r u n a a _ m o ] sh i # y o ] k e r e b a _ o [ sh i e t e y o o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-06.wav|1|^ h e ] e _ s u [ g o ] i n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-07.wav|0|^ u [ N ] u N $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-08.wav|1|^ e [ e _ s u [ g o ] i n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-09.wav|1|^ m i [ t a ] i # m i [ t a ] i $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-02-Teacher-Turn-10.wav|1|^ o [ n e g a i $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-01.wav|2|^ a [ r e _ d o ] o # sh i [ t a ] n o _ n a N k a g e N k i # n a ] i n e ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-02.wav|0|^ d o ] o # sh i [ t a ] a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-03.wav|0|^ w a [ t a sh i d e # i ] i n a r a _ h a [ n a sh i # k i [ k u y o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-04.wav|2|^ s o [ o d a cl t a # N ] d a _ g o [ ry o ] o sh i N w a n a N t e ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-05.wav|2|^ s o ] cl k a a _ d e ] m o _ h o [ N t o o n i # y a [ r i t a ] i # k o [ t o ] n a r a _ ch a [ N t o # o [ o e N # sh i [ t e # m o [ r a i t a ] i y o n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-06.wav|2|^ w a [ k a ] r u y o _ s e [ N s e ] e m o _ m u [ k a sh i # s o [ o y u u # k o [ t o # a ] cl t a sh i $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-07.wav|0|^ u ] N _ sh i ] N r o n o # k o [ t o ] w a _ s u [ N n a ] r i # m a [ t o m a r u # k o [ t o ] n o # h o ] o g a # s u [ k u n a ] i y o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-03-Teacher-Turn-08.wav|0|^ d a ] k a r a _ i [ cl sh o n i # k a [ N g a ] e t e # i [ k o o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-01.wav|0|^ a [ r e _ d o ] o # sh i [ t a ] n o _ ky o ] o w a # i ] ts u m o y o r i # g e ] N k i # n a ] i n e ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-02.wav|0|^ s o [ o _ n a [ r a ] i i k e d o _ d e ] m o _ n a ] n i k a # a ] cl t a r a # k i [ g a r u n i # i [ cl t e n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-03.wav|2|^ j i [ ts u ] w a # w a [ t a sh i _ k i [ n o ] o _ k a [ n a sh i ] i # k o [ t o ] g a # a ] cl t e s a _ s u [ m a h o g a # s u [ i b o ts u # sh i [ ch a cl t a # N ] d a y o n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-04.wav|2|^ sh u [ u r i ] d a i g a # t a [ k a ] i # m i ] t a i d e _ m a ] i cl t a y o o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-05.wav|0|^ s o [ o n a ] n o _ a [ n a ] t a m o _ s u [ m a h o g a # s u [ i b o ts u # sh i [ ch a cl ] t a t o k a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-06.wav|0|^ w a [ t a sh i d e # y o ] k e r e b a # n a ] N d e m o # k i [ k u y o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-07.wav|0|^ u ] N $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-08.wav|2|^ e ] cl _ s o [ o n a # N ] d a _ m u [ z u k a sh i ] i # by o [ o k i n a ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-09.wav|2|^ s o [ r e w a # ts u [ r a ] i n e _ w a [ t a sh i m o _ i [ n u ] o # k a ] cl t e t a # k o [ t o # a ] r u k a r a # w a [ k a ] r u y o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-10.wav|0|^ ts u [ r a ] i y o n e _ d e [ k i r u d a k e _ i [ cl sh o n i # i [ t e # a [ g e r u # n o [ g a # i ] i k a m o n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-01.wav|0|^ n a [ n i ] n a n i ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-02.wav|0|^ d o ] o # sh i [ t a ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-03.wav|0|^ e [ e _ s o [ r e w a # s a [ i n a ] N d a cl t a n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-04.wav|0|^ s o [ r e w a # y o ] k u n a i n e _ sh u [ cl p i N sh a n i # k u [ r e e m u # i [ r e t a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-05.wav|0|^ u ] w a a _ u [ N e e n i # ts u [ u h o o # sh i [ t a ] r a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-06.wav|0|^ d o ] o # i [ t a sh i m a ] sh i t e _ ch a [ N t o # t a [ i o o # sh i [ t e # k u [ r e r u t o # i ] i n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-01.wav|2|^ a [ r e _ ky o ] o w a # ch o ] cl t o # ts u [ k a r e t e ] r u ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-02.wav|0|^ d o ] o # sh i [ t a ] n o _ d a i j o o b u _ n e ts u w a n a i ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-03.wav|0|^ s o [ o n a # N ] d a _ n a ] n i g a # a ] cl t a n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-04.wav|0|^ e [ e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-05.wav|0|^ u ] w a a _ m o [ o d o o n i m o # n a [ r a ] n a # s o [ o n a ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-06.wav|0|^ ts u [ r a ] i n e e _ o [ k a ] a s a N _ w a [ k a r a ] n a k a cl t a # n o [ k a n a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-07.wav|0|^ s o [ o # n a ] N # d a ] a _ s o [ r e w a # m a [ i cl ch a u ] n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-08.wav|0|^ k o [ r e w a # m o ] o _ o [ k a ] a s a N n i # a [ t a r a sh i ] i # f u [ k u ] o # k a [ cl t e # m o [ r a u ] sh i k a # n a ] i n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-01.wav|0|^ n e ] e _ n a ] n i # m i [ t e ] r u n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-02.wav|0|^ h e ] e _ n o [ g i z a k a s u k i n a # N ] d a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-03.wav|0|^ m i [ N n a _ s u [ g o ] k u k a w a i i y o n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-04.wav|0|^ d a ] r e g a # o [ sh i n a ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-05.wav|0|^ a ] a _ b a [ r a ] e t i t o k a _ y o ] k u # d e [ t e ] r u y o n e ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-06.wav|0|^ sh i [ cl t e ] r u _ m e ] i N n o # m e ] N b a a n o # k o [ d a y o n e ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-07.wav|0|^ d e ] m o # ch o ] cl t o # i [ g a i d a ] n a _ a [ n a ] t a w a # s a [ i t o o # a ] s u k a t o k a g a # s u [ k i ] s o o n a n o n i n a $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-08.wav|0|^ s o [ o n a # N ] d a _ a [ n a ] t a w a _ f a [ N ] r e k i g a # n a [ g a ] i n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-09.wav|0|^ n a [ n i _ h a k o # o [ sh i cl t e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-10.wav|0|^ h e [ e _ b e [ N ky o o n i # n a ] cl t a _ m a [ t a # o [ sh i e t e n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-01.wav|0|^ n e [ e ] n e e _ a [ n a ] t a cl t e # o [ y a ] s u m i n o # h i [ w a # n a ] n i # sh i [ t e ] r u n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-02.wav|0|^ s o [ o # n a ] N # d a ] a _ d o ] N n a # h i [ t o o # ch e ] cl k u # sh i [ t e ] r u n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-03.wav|0|^ h e [ e _ i ] m a cl t e _ z a [ cl sh i y o ] r i # e [ s u e n u e ] s u d e # f a ] cl sh o N n o # j o [ o h o o ch e ] cl k u # s u [ r u # N ] d a n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-04.wav|0|^ s o ] cl k a _ e [ s u e n u e ] s u n a r a # d o [ o g a m o # a ] r u # m o ] N n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-05.wav|1|^ a ] a # t a ] sh i k a n i _ e [ s u e n u e ] s u n a r a # o [ k a n e # k a [ k a r a ] n a i # m o ] N n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-06.wav|0|^ n a [ r u h o d o _ h i [ t o n o # i ] k e N m o # w a [ k a ] cl ch a u # N ] d a _ s o [ r e w a # b e [ N ky o o n i # n a ] r u n e _ a [ n a ] t a w a # f a ] cl sh o N g a # s u [ k i ] n a n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-07.wav|0|^ k o ] N d o _ w a [ t a sh i m o # m i ] t e # m i ] y o o k a n a _ o [ s u s u m e n o # h i [ t o cl t e # i [ r u ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-08.wav|1|^ k o [ k o m i ] cl t e _ k i ] m u # t a ] k u n o # m u [ s u m e ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-09.wav|0|^ h e [ e _ a [ r i ] g a t o o _ s a [ cl s o k u _ k o ] N y a # m i ] t e # m i ] r u n e _ m a [ t a # i [ r o i r o # o [ sh i e t e n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-01.wav|0|^ e [ cl _ ky u u n i # d o ] o # sh i [ t a ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-02.wav|0|^ s o ] cl k a _ e [ r a ] i n e _ w a [ t a sh i n o # b a [ a i w a _ b e [ N ky o o g a # k i [ r a i d a cl t a ] k a r a k a n a a $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-03.wav|0|^ u ] N _ b e [ N ky o o g a # k i [ r a i d a cl t a # N ] d a k e d o _ a ] r u # t o [ k i _ k a [ y o cl t e # i [ t a # j u ] k u d e # s u [ g o ] k u # j u ] gy o o g a # o [ m o sh i r o ] i # s e [ N s e ] e n i # d e [ a ] cl t e _ s o [ r e k a r a # b e [ N ky o o g a # t a [ n o sh i ] k u n a cl t a n o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-04.wav|0|^ b e [ N ky o o g a # t a [ n o sh i ] k u n a cl t a r a # s e [ e s e k i m o # n o [ b i ] t e _ i [ r o N n a # s e [ N t a k u ] sh i g a # f u [ e ] t e _ d a [ i g a k u m o # j i [ y u ] u n i # e [ r a b e ] t e _ j i ] N s e e n o # k a [ n o o s e e g a # f u [ e ] t a n o n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-05.wav|0|^ s o [ r e d e _ b e [ N ky o o g a # t a [ n o sh i ] i k a _ t a [ n o sh i ] k u n a i k a d e # j i ] N s e e g a # k a [ w a cl ch a u n a r a _ t a [ n o sh i ] k u m a n a N d e # m o [ r a i t a ] i # n a ] cl t e # o [ m o ] u # y o ] o n i # n a ] cl t e _ w a [ t a sh i m o # k o ] o sh i n i # n a ] r o o cl t e # o [ m o ] cl t a # N ] d a $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-06.wav|0|^ t a [ n o sh i ] i y o _ m i [ N n a ] g a # s e [ e ch o o # sh i [ t e # i [ k u # y o [ o s u o # k o [ N n a n i # m a ] j i k a d e # k a [ N j i r a r e t e _ s u [ g o ] i # y a [ r i g a i g a # a ] r u y o $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-07.wav|1|^ d a ] k a r a _ s e ] e t o n o # m i [ N n a ] n i w a # s u [ g o ] i # k a ] N sh a # sh i [ t e ] r u y o _ m o [ ch i ] r o N _ a [ n a ] t a n i m o n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-08.wav|0|^ o [ o e N # sh i [ t e ] r u n e _ d a ] k a r a _ n a ] n i k a # k o [ m a ] cl t a # k o [ t o ] g a # a ] cl t a r a # n a ] N d e m o # s o [ o d a N # sh i [ t e n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-01.wav|0|^ u ] N _ d o ] o # sh i [ t a ] n o ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-02.wav|0|^ w a [ t a sh i g a # k o ] o sh i n i # n a ] cl t a # r i [ y u u ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-03.wav|0|^ s o [ o d a n a ] a _ w a [ t a sh i g a # b e [ N ky o o o # o [ sh i e r u # k o [ t o ] d e _ m i [ N n a ] g a # t a [ n o sh i ] N d e # b e [ N ky o o # sh i [ t e # k u [ r e t a ] r a # u [ r e sh i ] i n a cl t e # o [ m o ] cl t a k a r a k a n a $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-04.wav|0|^ w a [ t a sh i _ b e [ N ky o o cl t e # j i ] N s e e n o # k a [ n o o s e e o # h i [ r o g e r u t o # o [ m o ] u # N ] d a y o n e _ d a ] k a r a _ m i [ N n a ] g a # j i [ b u N r a sh i ] i # j i ] N s e e o # a [ y u ] m u # t a [ m e ] n o # o [ t e ts u d a ] i g a # d e [ k i ] r u t o # o [ m o ] u t o _ y a [ r i g a i o # k a [ N j i t e # u [ r e sh i ] k u n a r u # N ] d a y o n e $
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-05.wav|0|^ N [ N _ j i [ N s e e ] k a N cl t e # h i [ t o # s o [ r e ] z o r e d a t o # o [ m o ] u k e d o _ w a [ t a sh i w a # d a ] r e k a n o # y a ] k u n i t a ts u # i [ k i k a t a ] g a # sh i [ t a ] k a cl t a k a r a k a n a _ a [ n a ] t a w a ?
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-06.wav|0|^ j i ] N s e e cl t e _ j i [ b u N n o # t a [ m e ] n i # j i [ k o j i ] ts u g e N o # ts u [ i ky u u # s u [ r u # n o [ m o _ d a ] r e k a n o # t a [ m e ] n i # g a [ N b a ] r u # n o [ m o _ d o ] cl ch i d e m o # i ] i t o # o [ m o ] u # N ] d a _ a [ n a ] t a m o # j i [ b u N r a sh i ] i # i [ k i k a t a ] g a # m i [ ts u k a r u t o # i ] i n e $

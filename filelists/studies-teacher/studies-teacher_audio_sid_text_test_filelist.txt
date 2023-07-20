@@ -166,6 +166,145 @@ dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-Teacher-Turn-05.wav|0|�
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-Teacher-Turn-06.wav|0|そう、早寝早起きとか、朝食は食べるとか。こういう習慣をしっかりさせることが大事。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-Teacher-Turn-07.wav|0|朝型の生活にすると、脳が活性化するの。同じ時間に勉強する習慣も身に付くからね。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-Teacher-Turn-08.wav|0|うん。最大のパフォーマンスを発揮できるよう、頑張ってみて。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-01.wav|0|テストの結果は、返ってきてどう感じた？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-02.wav|1|うん、現代文は前より確実に伸びたね！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-03.wav|0|ほかの人たちもたくさん勉強してるから、少しずつでも偏差値が上がってきていたら伸びてるってことだよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-04.wav|0|どう？文章を読むスピードは速くなった気がする？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-05.wav|0|それ、大事だね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-06.wav|0|うん。これからも、時間を測りながら解く練習を繰り返していこうね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-07.wav|1|毎日努力してるの、よくわかるよ！この調子でがんばろう！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-01.wav|0|今回のテスト、やってみてどうだった？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-02.wav|0|うん、基礎の積み重ねが形になってきた感じがしたよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-03.wav|0|今までちょこちょこあった最初の方のミスが、今回はなかったよね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-04.wav|1|がんばった証拠だね！ほかの科目も、バランスよく点数を取れていたね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-05.wav|0|現代文も英文読解も、文章構造が理解できるようになっているんじゃないかな？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-Teacher-Turn-06.wav|1|すごくいい調子だと思うよ！これからもがんばっていこう！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-01.wav|0|こんにちは。今回のテストはどうだった？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-02.wav|2|そうだね、確かに、ちょっと基本的な部分でミスがいくつかあったかな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-03.wav|0|あんまり取れなかったのは、大問２だよね。苦手な時代が出たんじゃないかな？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-04.wav|0|まぁ、苦手な時代って、結構みんなあると思うよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-05.wav|0|年代の並べ替え問題は、流れと因果関係をもう一度復習しておこうか。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-06.wav|0|言葉だけだと覚えにくいよね。日本史の要覧って持ってるかな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-Teacher-Turn-07.wav|0|そうしたら、要覧で一通り写真を見て確認するといいね。復習しておこう！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-01.wav|0|そっか…。今回は、少しクセのある問題だったよね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-02.wav|0|自分では、どうして点数が取れなかったと思う？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-03.wav|0|じゃあ、今度また同じようにリスニングがまったく聞き取れなかったら、どうする？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-04.wav|0|いいね！自分らしく落ち着いて解ければ、大丈夫だよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-05.wav|0|問題を作った人が、わざと難しい問題を入れて「あせらせようとしてるな」って気付けるようになると、焦らなくなると思うよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-Teacher-Turn-06.wav|0|だから、数をこなして慣れていくのが一番いいと思う。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-01.wav|0|今日、何かあった？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-02.wav|0|確かに、いつもより眠そうだね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-03.wav|0|自分だけ怒られたら理不尽だって思うよね。昨日夜遅かったの？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-04.wav|0|それは眠いよね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-05.wav|0|まあ、息抜きも大事だからね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-06.wav|0|勉強と両立してやっていけるなら、無理に止めようとは思わないよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-07.wav|0|じゃあ、今度はもう少し睡眠時間をとれるようにするところからだね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-08.wav|0|これからいくらでも遊べるようになるし、もう少しの辛抱だよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-Teacher-Turn-09.wav|0|息抜きしながら、毎日努力してることも分かってるよ。大丈夫。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-01.wav|0|何か今日嫌なことあった？どうしたの？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-02.wav|0|校則で禁止されてるの？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-03.wav|0|まぁ、校則だったら、先生は守らせないといけないからね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-04.wav|0|そうなんだ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-05.wav|0|自分の学校だけ厳しいと、そう思うよねー。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-Teacher-Turn-06.wav|0|そんな権限ないから。でも、私が学校通ってた時、生徒会が校則を変えたことがあったな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-01.wav|0|今日も帰ってからゲームするの？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-02.wav|0|学生の時は結構してたけど、今はスマホでやるくらいかな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-03.wav|0|そう見える？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-04.wav|0|FPSは画面酔いしちゃうから、やらないんだよね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-05.wav|0|そうだよね、残念なんだけど。スマホの音ゲーとか、リズムゲームや育成ゲームはやるよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-06.wav|0|酔わないからね。あと、勉強の隙間時間にできるから。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-Teacher-Turn-07.wav|0|まあ、上手く息抜きしながら勉強もがんばっていこう！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-01.wav|0|うーん、特にいないかなー。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-02.wav|0|そうだね、あんまり音楽も聞かないけど、乃木坂フォーティーシックスは聞いたことあるよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-03.wav|0|見るけど、旅行とかペットの動画が多いかな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-04.wav|0|いまの家ではペット飼えないから、動画で癒されてる。あと、海外旅行もいいなーとか思って見てるよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-05.wav|1|いいよねー、私も行きたい！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-Teacher-Turn-06.wav|0|それはこれからのがんばり次第だけど、旅行が待ってると思ってがんばったらいいと思うよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-01.wav|0|単語帳を使って、類語をまとめて覚えたりしてたかな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-02.wav|0|そうでもないよ。接頭辞とか接尾辞の意味を覚えたりとかね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-03.wav|0|分かりやすいというか、イメージしやすくなる感じかな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-04.wav|0|接頭辞も類語も、分かりやすくまとまっている単語帳とか、いろいろあると思うよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-05.wav|0|私が使ってた単語帳、タイトル忘れちゃったから、後で調べて教えるね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-Teacher-Turn-06.wav|0|人によって、合う方法は違うと思うから、どんなやり方してたか、ほかの先生や友達にも聞いてみるといいよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-01.wav|2|そうだよね、先が見えないとつらいよね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-02.wav|0|大変だったかどうかも覚えてないかな。毎日必死だったから。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-03.wav|0|そりゃそうだよ。いつ受験した人も、みんなそれぞれ大変だったと思うよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-04.wav|0|それに、そういう大変な中で試行錯誤するのが楽しいんじゃないかな。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-05.wav|0|終わってみるとね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-Teacher-Turn-06.wav|0|大丈夫だって信じて、あと少しの期間、がんばろう！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-01-Teacher-Turn-01.wav|1|おめでとう！すごいじゃない！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-01-Teacher-Turn-02.wav|0|今まではどんな勉強の仕方をしていたの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-01-Teacher-Turn-03.wav|0|なるほど。それだと解答中に本文を忘れちゃうよね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-01-Teacher-Turn-04.wav|0|でも、ここで教えたことをやったからって、すぐに成績があがるわけじゃないよね？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-01-Teacher-Turn-05.wav|0|そう。あなたが一生懸命頑張ったから、成績が上がったんだよ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-01-Teacher-Turn-06.wav|1|もっと自分の頑張りに自信をもって！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-01-Teacher-Turn-07.wav|1|うん！あなたのこと、応援してるからね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-01.wav|1|かわいいー！どうしたの？この猫。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-02.wav|0|そうなんだ！猫好きなの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-03.wav|0|じゃあ、この猫も保護猫なの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-04.wav|0|そうなんだね。お世話もあなたがやってるの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-05.wav|1|それはかわいいね！猫って懐きにくいんじゃない？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-06.wav|1|そうなんだ。あなたのこと、とても好きなんだね！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-07.wav|1|そう！それは頑張っていい点数取りたいね！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-02-Teacher-Turn-08.wav|1|うん。頑張っていこうね！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-03-Teacher-Turn-01.wav|2|あら、どうしたの？なにかあった？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-03-Teacher-Turn-02.wav|2|えっ、怪我したの？大丈夫？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-03-Teacher-Turn-03.wav|2|あなたはとても努力家だからね、悔しいよね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-03-Teacher-Turn-04.wav|0|でも、頑張り屋のあなたなら、復帰したらまたすぐ活躍できるはずだよ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-03-Teacher-Turn-05.wav|0|うん。今は無理せずに、しっかり療養しなくちゃね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-01.wav|0|今日はなんかいつもより元気ないね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-02.wav|2|それは痛かったでしょう！大丈夫？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-03.wav|0|そうか…。あなたは体育が苦手なのかな？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-04.wav|0|体を動かすこととかも嫌な感じ？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-05.wav|1|いいじゃない。体を動かすのが好きなことはいい事だよ！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-06.wav|0|それでもいいじゃない。楽しむことが大事だから。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-07.wav|0|うん。楽しくなくちゃ、うまくならないよ。勉強だってそうでしょ？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-04-Teacher-Turn-08.wav|1|うん！それなら大丈夫！楽しめば上手になっていくものだからね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-01.wav|0|あれ、なんか今日はイライラしてるね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-02.wav|0|うん。どうしたの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-03.wav|0|それは大変。どうしてそうなったの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-04.wav|0|あなたの気持ちはわかるよ。そう言っちゃうのも仕方ないよね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-05.wav|0|それで、あなたはそのお友達とこれからどうしたいの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-06.wav|0|そうだね。親友なんだから仲直りしたいよね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-07.wav|0|えらいね。とても勇気のいることだと思うよ！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-08.wav|1|大丈夫だよ。きっと仲直りできるよ！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-05-Teacher-Turn-09.wav|0|まぁ、好きだけど…。急にどうしたの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-01.wav|0|えっ、どんなことをおっしゃるの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-02.wav|0|ああ、なるほど…。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-03.wav|0|そっか…。厳しいお父さまなんだね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-04.wav|2|そうね…。私もそんな時期あったなー。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-05.wav|2|うん。でも、あの時は私も子どもだったから、父の気持ちがわからなかったな。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-06.wav|0|私のことが心配だったんだと思う。だから厳しく言ってたんだろうって。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-07.wav|0|そうだよ。あなたもお父さまの気持ちがわかる日がきっとくるよ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-08.wav|0|うん。思いやりのあるあなたなら、お父さまとの関係もきっとよくなるはずだよ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-06-Teacher-Turn-09.wav|0|あなたは、なにか息抜きにしてることとかある？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-07-Teacher-Turn-01.wav|0|そうなんだ。どんな動画をみてるの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-07-Teacher-Turn-02.wav|0|へぇー、ゲームもやってるんだ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-07-Teacher-Turn-03.wav|0|そうなんだね。それはえらいなあ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-07-Teacher-Turn-04.wav|0|自分で時間のコントロールできるのは素晴らしいよ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-07-Teacher-Turn-05.wav|0|大学に受かってからやるってこと？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-07-Teacher-Turn-06.wav|1|えらいね。頑張ってるから、きっと大学合格できるよ！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-07-Teacher-Turn-07.wav|0|もう読んだんだね。面白かった？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-08-Teacher-Turn-01.wav|1|もちろん！あなたは読書が好きなんだね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-08-Teacher-Turn-02.wav|0|幼い時はどんなのを読んでたの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-08-Teacher-Turn-03.wav|0|小学生で推理小説かあ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-08-Teacher-Turn-04.wav|0|そうなんだ。海外文学って難しくない？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-08-Teacher-Turn-05.wav|0|そっか！じゃあ、今度は哲学の本に挑戦してみたらどう？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-08-Teacher-Turn-06.wav|1|うん！今度持ってくるから、ぜひ読んでみてね！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-08-Teacher-Turn-07.wav|0|本当はね、小さい時の夢は小学校の先生だったんだ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-09-Teacher-Turn-01.wav|0|母が小学校の教員でね。だから、私もなれたらいいなと思って。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-09-Teacher-Turn-02.wav|0|私は高校に入ったとき、授業についていけなくて、塾に通うことになったの。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-09-Teacher-Turn-03.wav|0|その時、とても熱心に指導してくれた講師の人がいたんだ。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-09-Teacher-Turn-04.wav|1|それで成績がとてもよくなってね、第一志望の大学に受かったの。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-09-Teacher-Turn-05.wav|0|うん。だから、高校生の時の私みたいな人のために、講師になろうと決めたんだよね。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-09-Teacher-Turn-06.wav|1|だから、今度は私があなたを第一志望の大学に合格させられるよう、頑張るからね！
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-09-Teacher-Turn-07.wav|0|講師になりたいの？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-10-Teacher-Turn-01.wav|1|うれしいな。そう言ってもらえて。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-10-Teacher-Turn-02.wav|0|きっかけは高校生の時なんだけど、決め手になったのは大学生の時かな？
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-10-Teacher-Turn-03.wav|0|うん。アルバイトで塾の講師をしててね、とても楽しかったの。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-10-Teacher-Turn-04.wav|0|うん。憧れが現実になったような、そんな感じだった。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-10-Teacher-Turn-05.wav|0|そうだね。やってても楽しいし、生徒の成績もあがって、とても嬉しかった。
+dataset/STUDIES/Long_dialogue/LD04/wav/LD04-Dialogue-10-Teacher-Turn-06.wav|1|ありがとう。あなたも、大学生になったら塾でアルバイトしてみるといいよ！
 dataset/STUDIES/Short_dialogue/SD01/wav/SD01-Dialogue-01-Teacher-Turn-01.wav|1|良かったね！
 dataset/STUDIES/Short_dialogue/SD01/wav/SD01-Dialogue-01-Teacher-Turn-02.wav|0|そうね。今までの努力の積み重ねが実ったのね。
 dataset/STUDIES/Short_dialogue/SD01/wav/SD01-Dialogue-02-Teacher-Turn-01.wav|1|おめでとう、頑張ったね！
