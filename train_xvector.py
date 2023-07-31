@@ -67,7 +67,8 @@ def run(rank, n_gpus, hps):
   train_sampler = DistributedBucketSampler(
       train_dataset,
       hps.train.batch_size,
-      [32,300,400,500,600,700,800,900,1000],
+      # (JSUT, JVS)の最大フレーム数（1410, 1801）に適用
+      [32,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900],
       num_replicas=n_gpus,
       rank=rank,
       shuffle=True)
