@@ -52,8 +52,6 @@ class TextAudioLoader(torch.utils.data.Dataset):
         for audiopath, text in self.audiopaths_and_text:
             # if self.min_text_len <= len(text) and len(text) <= self.max_text_len:  # すべてのデータを学習に用いる
             audiopaths_and_text_new.append([audiopath, text])
-            # もともとのスクリプトではこのメルスペクトログラムのフレーム数に基づいて
-            # DistributedBucketSamplerで学習データが弾かれる
             lengths.append(os.path.getsize(audiopath) // (2 * self.hop_length))
         self.audiopaths_and_text = audiopaths_and_text_new
         self.lengths = lengths
@@ -376,6 +374,7 @@ class DistributedBucketSampler(torch.utils.data.distributed.DistributedSampler):
       assert len(self.batches) * self.batch_size == self.num_samples
       return iter(self.batches)
   
+    # メルスペクトログラムのフレーム数に基づいて学習データが弾かれる
     def _bisect(self, x, lo=0, hi=None):
       if hi is None:
           hi = len(self.boundaries) - 1
