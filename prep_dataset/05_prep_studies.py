@@ -11,9 +11,11 @@ def main():
     # validationとtestのディレクトリ名
     VAL_DIRS = ['LD04']
     TEST_DIRS = ['LD01', 'LD02', 'LD03', 'SD01', 'SD06', 'SD07', 'SD12']
-    dst_dirname = 'filelists/studies-teacher'        # 出力ディレクトリ
-    dst_filename = 'studies-teacher_audio_sid_text'  # 出力ファイル名（一部）
-    emotion2id = {'平静':0, '喜び':1, '悲しみ':2}  # 感情-->ID
+    dst_dirname = 'filelists/studies'        # 出力ディレクトリ
+    dst_filename = 'studies_audio_sid_text'  # 出力ファイル名（一部）
+    speakers = ['Teacher', 'MStudent', 'FStudent']
+    enSpk2jpSpk = {'Teacher':'講師', 'FStudent':'女子生徒', 'MStudent':'男子生徒'}
+    speaker2id = {'講師':0, '男子生徒':1, '女子生徒':2}  # 話者-->ID
     ############################################
 
     # 'prep_dataset'内では実行しない
@@ -46,31 +48,33 @@ def main():
             
             d = os.path.join(type_dir, dname)
 
-            files = list()  # 一旦保存
-            txt_files = sorted(glob.glob(os.path.join(d, '**/txt/*.txt'), recursive=True))
-            wav_files = sorted(glob.glob(os.path.join(d, f'**/wav/*Teacher*.wav'), recursive=True))
-            i = 0
-            for txt_file in txt_files:
-                with open(txt_file, mode='r', encoding='utf-8') as f:
-                    lines = f.readlines()
-                lines = [s for s in lines if s.split('|')[0]=='講師']
-                for line in lines:
-                    emotion = line.split('|')[1]  # 感情
-                    
-                    # 怒り（Angry）は除外
-                    if emotion == '怒り':
-                        continue
-                    
-                    text = line.split('|',)[2]  # 平文
-                    text = text.replace('\u3000', '')  # 全角スペースを削除
-                    filepath = wav_files[i]
+            for spk in speakers:
+                files = list()  # 一旦保存
+                txt_files = sorted(glob.glob(os.path.join(d, '**/txt/*.txt'), recursive=True))
+                wav_files = sorted(glob.glob(os.path.join(d, f'**/wav/*{spk}*.wav'), recursive=True))
+                i = 0
+                for txt_file in txt_files:
+                    with open(txt_file, mode='r', encoding='utf-8') as f:
+                        lines = f.readlines()
+                    lines = [s for s in lines if s.split('|')[0]==enSpk2jpSpk[spk]]
+                    for line in lines:
+                        speaker = line.split('|')[0]  # 話者
+                        emotion = line.split('|')[1]  # 感情
+                        
+                        # 怒り（Angry）は除外
+                        if emotion == '怒り':
+                            continue
+                        
+                        text = line.split('|',)[2]  # 平文
+                        text = text.replace('\u3000', '')  # 全角スペースを削除
+                        filepath = wav_files[i]
 
-                    newline = f'{filepath}|{emotion2id[emotion]}|{text}\n'
-                    files.append(newline)
+                        newline = f'{filepath}|{speaker2id[speaker]}|{text}\n'
+                        files.append(newline)
 
-                    i+=1
+                        i+=1
 
-            filelist[tr_name].extend(files)
+                filelist[tr_name].extend(files)
 
     for t in ['val', 'test', 'train']:
         savename = os.path.join(dst_dirname, f'{dst_filename}_{t}_filelist.txt')
