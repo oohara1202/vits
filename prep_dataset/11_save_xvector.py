@@ -40,7 +40,7 @@ def main():
                 xvector_dict[audiopath] = xvector
 
         # pickleで保存
-        save_path = os.path.join(dump_dirname, os.path.basename(cleand_files)+'.xvector.pkl')
+        save_path = os.path.join(dump_dirname, os.path.basename(cleand_files)+'.pkl')
         with open(save_path, 'wb') as f:
             pickle.dump(xvector_dict, f)
         print(f'Saved x-vector: {save_path}')
