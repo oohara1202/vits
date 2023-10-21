@@ -99,6 +99,10 @@ def run(rank, n_gpus, hps):
       hps.train.learning_rate, 
       betas=hps.train.betas, 
       eps=hps.train.eps)
+  
+  # モデル構造を記録
+  logger.info(utils.save_model_structure(net_g))
+
   net_g = DDP(net_g, device_ids=[rank])
   net_d = DDP(net_d, device_ids=[rank])
 

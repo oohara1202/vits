@@ -8,6 +8,7 @@ import subprocess
 import numpy as np
 from scipy.io.wavfile import read
 import torch
+from torchinfo import summary
 
 MATPLOTLIB_FLAG = False
 
@@ -263,3 +264,8 @@ class HParams():
 
   def __repr__(self):
     return self.__dict__.__repr__()
+
+# モデル構造を記録
+# TODO: input_sizeを指定したい
+def save_model_structure(model):
+  return f'Model structure:\n{summary(model, depth=4)}'
