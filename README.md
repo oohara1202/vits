@@ -1,75 +1,126 @@
-# VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech
+# Commands
 
-### Jaehyeon Kim, Jungil Kong, and Juhee Son
+## SER
 
-In our recent [paper](https://arxiv.org/abs/2106.06103), we propose VITS: Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech.
+```bash
+# preprocess dataset
+mkdir dataset
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/jtes_v1.1_22k jtes_v1.1
+python prep_dataset/05_prep_jtes.py
 
-Several recent end-to-end text-to-speech (TTS) models enabling single-stage training and parallel sampling have been proposed, but their sample quality does not match that of two-stage TTS systems. In this work, we present a parallel end-to-end TTS method that generates more natural sounding audio than current two-stage models. Our method adopts variational inference augmented with normalizing flows and an adversarial training process, which improves the expressive power of generative modeling. We also propose a stochastic duration predictor to synthesize speech with diverse rhythms from input text. With the uncertainty modeling over latent variables and the stochastic duration predictor, our method expresses the natural one-to-many relationship in which a text input can be spoken in multiple ways with different pitches and rhythms. A subjective human evaluation (mean opinion score, or MOS) on the LJ Speech, a single speaker dataset, shows that our method outperforms the best publicly available TTS systems and achieves a MOS comparable to ground truth.
-
-Visit our [demo](https://jaywalnut310.github.io/vits-demo/index.html) for audio samples.
-
-We also provide the [pretrained models](https://drive.google.com/drive/folders/1ksarh-cJf3F5eKJjLVWY0X1j1qsQqiS2?usp=sharing).
-
-** Update note: Thanks to [Rishikesh (ऋषिकेश)](https://github.com/jaywalnut310/vits/issues/1), our interactive TTS demo is now available on [Colab Notebook](https://colab.research.google.com/drive/1CO61pZizDj7en71NQG_aqqKdGaA_SaBf?usp=sharing).
-
-<table style="width:100%">
-  <tr>
-    <th>VITS at training</th>
-    <th>VITS at inference</th>
-  </tr>
-  <tr>
-    <td><img src="resources/fig_1a.png" alt="VITS at training" height="400"></td>
-    <td><img src="resources/fig_1b.png" alt="VITS at inference" height="400"></td>
-  </tr>
-</table>
-
-
-## Pre-requisites
-0. Python >= 3.6
-0. Clone this repository
-0. Install python requirements. Please refer [requirements.txt](requirements.txt) or [env_conda.yml](env_conda.yml)
-    1. If you use pip:
-       ``` bash
-       $ pip install -r requirements
-       ```
-    1. If you use conda, and create new env named 'vits' (recommended):
-       ``` bash
-       $ conda env create -n vits -f env_conda.yml
-       ```
-    1. You may need to install espeak first. Please contact your administrator to run: `apt-get install espeak`
-0. Download datasets
-    1. Download and extract the LJ Speech dataset, then rename or create a link to the dataset folder:
-       ``` bash
-       $ ls /path/to/LJSpeech-1.1   # here is your original database
-       README metadata.csv wavs
-       $ ls -1          # current directory is your work (forked) directory
-       LICENSE   README.md  ...
-       $ mkdir DUMMY1
-       $ ln -s /path/to/LJSpeech-1.1/wavs/*.wav DUMMY1/
-       ```
-    1. For mult-speaker setting, download and extract the VCTK dataset, and downsample wav files to 22050 Hz. Then rename or create a link to the dataset folder: `ln -s /path/to/VCTK-Corpus/downsampled_wavs DUMMY2`
-0. Build Monotonic Alignment Search and run preprocessing if you use your own datasets.
-```sh
-# Cython-version Monotonoic Alignment Search
-cd monotonic_align
-mkdir monotonic_align
-python setup.py build_ext --inplace
-
-# Preprocessing (g2p) for your own datasets. Preprocessed phonemes for LJ Speech and VCTK have been already provided.
-# python preprocess.py --text_index 1 --filelists filelists/ljs_audio_text_train_filelist.txt filelists/ljs_audio_text_val_filelist.txt filelists/ljs_audio_text_test_filelist.txt 
-# python preprocess.py --text_index 2 --filelists filelists/vctk_audio_sid_text_train_filelist.txt filelists/vctk_audio_sid_text_val_filelist.txt filelists/vctk_audio_sid_text_test_filelist.txt
+python ser_train_v1.py -c configs/ser.json -m ser_v1
+python ser_train_v2.py -c configs/ser.json -m ser_v2
 ```
 
+## JSUT training
 
-## Training Exmaple
-```sh
-# LJ Speech
+```bash
+# preprocess dataset
+mkdir dataset
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/jsut_ver1.1-p1_22k jsut_ver1.1
+python prep_dataset/01_prep_jsut.py
+
+# (optional) extract x-vector
+python prep_dataset/11_save_xvector.py filelists/jsut
+
+# train
+## original
+python train.py -c configs/jsut_base.json -m jsut_base
+## with x-vector
+python train_xvector.py -c configs/jsut_xvector.json -m jsut_xvector
+```
+
+## JVS training
+
+```bash
+# preprocess dataset
+mkdir dataset
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/jvs_ver1_22k jvs_ver1
+python prep_dataset/02_prep_jvs.py
+
+# (optional) extract x-vector
+python prep_dataset/11_save_xvector.py filelists/jvs
+
+# train
+## original
+python train_ms.py -c configs/jvs_base.json -m jvs_base
+## with x-vector
+python train_xvector.py -c configs/jvs_xvector.json -m jvs_xvector
+```
+
+## STUDIES (female-teacher model) training
+
+```bash
+# preprocess dataset
+mkdir dataset
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES_22k STUDIES
+python prep_dataset/03_prep_studies-teacher.py
+
+# (optional) extract x-vector
+python prep_dataset/11_save_xvector.py filelists/studies-teacher
+
+# train
+## original
+python train_ms.py -c configs/studies-teacher_base.json -m studies-teacher_base
+## with x-vector
+python train_xvector.py -c configs/studies-teacher_base.json -m studies-teacher_base
+
+# finetune
+TODO
+```
+
+## STUDIES + CALLS training
+
+```bash
+# preprocess STUDIES-theacher
+mkdir dataset
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES_22k STUDIES
+python prep_dataset/03_prep_studies-teacher.py
+
+# preprocess CALLS
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES-2_22k CALLS
+python prep_dataset/04_prep_calls.py
+
+# integrate two datasets
+python prep_dataset/21_integrate_studies_calls.py
+
+# (optional) extract x-vector
+python prep_dataset/11_save_xvector.py filelists/studies-calls
+
+# train
+## original
+python train_ms.py -c configs/studies-calls_base.json -m studies-calls_base
+## with x-vector
+python train_xvector.py -c configs/studies-calls_xvector.json -m studies-calls_xvector
+```
+
+## STUDIES (three speaker model) training
+
+This model is used for voice conversion.
+
+```bash
+# preprocess dataset
+mkdir dataset
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES_22k STUDIES
+python prep_dataset/06_prep_studies.py
+
+# train
+python train_ms.py -c configs/studies_vc.json -m studies_vc
+```
+
+## LJSpeech training
+
+``` bash
+# preprocess dataset
+mkdir DUMMY1
+ln -s /abelab/DB4/LJSpeech-1.1/wavs/*.wav DUMMY1/
+
+# train
 python train.py -c configs/ljs_base.json -m ljs_base
-
-# VCTK
-python train_ms.py -c configs/vctk_base.json -m vctk_base
 ```
 
+## Exporting Conda's environment
 
-## Inference Example
-See [inference.ipynb](inference.ipynb)
+```bash
+conda env export --no-build -n vits > env_conda.yml
+```
