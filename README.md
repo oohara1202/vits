@@ -25,9 +25,9 @@ python prep_dataset/11_save_xvector.py filelists/jsut
 
 # train
 ## original
-python train.py -c configs/jsut_base.json -m jsut_base
+nohup python train.py -c configs/jsut_base.json -m jsut_base > logs/jsut_base.out
 ## with x-vector
-python train_xvector.py -c configs/jsut_xvector.json -m jsut_xvector
+nohup python train_embed.py -c configs/jsut_xvector.json -m jsut_xvector > logs/jsut_xvector.out
 ```
 
 ## JVS training
@@ -43,9 +43,9 @@ python prep_dataset/11_save_xvector.py filelists/jvs
 
 # train
 ## original
-python train_ms.py -c configs/jvs_base.json -m jvs_base
+nohup python train_ms.py -c configs/jvs_base.json -m jvs_base > logs/jvs_base.out
 ## with x-vector
-python train_xvector.py -c configs/jvs_xvector.json -m jvs_xvector
+nohup python train_embed.py -c configs/jvs_xvector.json -m jvs_xvector > logs/jvs_xvector.out
 ```
 
 ## STUDIES (female-teacher model) training
@@ -61,9 +61,9 @@ python prep_dataset/11_save_xvector.py filelists/studies-teacher
 
 # train
 ## original
-python train_ms.py -c configs/studies-teacher_base.json -m studies-teacher_base
+nohup python train_ms.py -c configs/studies-teacher_base.json -m studies-teacher_base > logs/studies-teacher_base.out
 ## with x-vector
-python train_xvector.py -c configs/studies-teacher_base.json -m studies-teacher_base
+nohup python train_embed.py -c configs/studies-teacher_xvector.json -m studies-teacher_xvector > logs/studies-teacher_xvector.out
 
 # finetune
 TODO
@@ -89,9 +89,9 @@ python prep_dataset/11_save_xvector.py filelists/studies-calls
 
 # train
 ## original
-python train_ms.py -c configs/studies-calls_base.json -m studies-calls_base
+nohup python train_ms.py -c configs/studies-calls_base.json -m studies-calls_base > logs/studies-calls_base.out
 ## with x-vector
-python train_xvector.py -c configs/studies-calls_xvector.json -m studies-calls_xvector
+nohup python train_embed.py -c configs/studies-calls_xvector.json -m studies-calls_xvector > logs/studies-calls_xvector.out
 ```
 
 ## STUDIES (three speaker model) training
@@ -105,7 +105,7 @@ mkdir dataset
 python prep_dataset/06_prep_studies.py
 
 # train
-python train_ms.py -c configs/studies_vc.json -m studies_vc
+nohup python train_ms.py -c configs/studies_vc.json -m studies_vc > logs/studies_vc.out
 ```
 
 ## LJSpeech training
@@ -116,7 +116,7 @@ mkdir DUMMY1
 ln -s /abelab/DB4/LJSpeech-1.1/wavs/*.wav DUMMY1/
 
 # train
-python train.py -c configs/ljs_base.json -m ljs_base
+nohup python train.py -c configs/ljs_base.json -m ljs_base > logs/ljs_base.out
 ```
 
 ## Exporting Conda's environment
