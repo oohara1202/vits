@@ -394,10 +394,10 @@ class DistributedBucketSampler(torch.utils.data.distributed.DistributedSampler):
         return self.num_samples // self.batch_size
 
 
-"""x-vector version"""
-class TextAudioXvectorLoader(torch.utils.data.Dataset):
+"""embedding vector version"""
+class TextAudioEmbedLoader(torch.utils.data.Dataset):
     """
-        1) loads audio, x-vector, text pairs
+        1) loads audio, embedding vector, text pairs
         2) normalizes text and converts them to sequences of integers
         3) computes spectrograms from audio files.
     """
@@ -419,21 +419,21 @@ class TextAudioXvectorLoader(torch.utils.data.Dataset):
         self.min_text_len = getattr(hparams, "min_text_len", 1)
         self.max_text_len = getattr(hparams, "max_text_len", 190)
 
-        # for x-vector conditioning
-        self.xvector_dict = self._get_xvector_file(files_path, hparams.xvectors_dir)
+        # for embedding conditioning
+        self.embed_dict = self._get_embed_file(files_path, hparams.embed_dir)
 
         random.seed(1234)
         random.shuffle(self.audiopaths_and_text)
         self._filter()
 
-    # x-vectorを保存しているpklファイルを展開
-    def _get_xvector_file(self, file_path, xvectors_dir):
-        xvectors_path = os.path.join(
-            xvectors_dir,
-            os.path.basename(file_path)+'.xvector.pkl'
+    # embedding vectorを保存しているpklファイルを展開
+    def _get_embed_file(self, file_path, embed_dir):
+        embed_path = os.path.join(
+            embed_dir,
+            os.path.basename(file_path)+'.pkl'
         )
-        assert os.path.exists(xvectors_path)
-        with open(xvectors_path, 'rb') as f:
+        assert os.path.exists(embed_path)
+        with open(embed_path, 'rb') as f:
             return pickle.load(f)
 
     # TextAudioLoaderと同じ（TextAudioSpeakerLoaderと異なる）
@@ -454,13 +454,13 @@ class TextAudioXvectorLoader(torch.utils.data.Dataset):
         self.audiopaths_and_text = audiopaths_and_text_new
         self.lengths = lengths
 
-    # x-vectorも返すように
-    def get_audio_text_xvector_pair(self, audiopath_and_text):
+    # embedding vectorも返すように
+    def get_audio_text_embed_pair(self, audiopath_and_text):
         # separate filename and text
         audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
         text = self.get_text(text)
         spec, wav = self.get_audio(audiopath)
-        embeds = self.get_xvector(audiopath)
+        embeds = self.get_embed(audiopath)
         return (text, spec, wav, embeds)
 
     def get_audio(self, filename):
@@ -491,27 +491,27 @@ class TextAudioXvectorLoader(torch.utils.data.Dataset):
         text_norm = torch.LongTensor(text_norm)
         return text_norm
 
-    def get_xvector(self, audiopath):
-        return self.xvector_dict[audiopath]
+    def get_embed(self, audiopath):
+        return self.embed_dict[audiopath]
 
     def __getitem__(self, index):
-        return self.get_audio_text_xvector_pair(self.audiopaths_and_text[index])
+        return self.get_audio_text_embed_pair(self.audiopaths_and_text[index])
 
     def __len__(self):
         return len(self.audiopaths_and_text)
 
 
-class TextAudioXvectorCollate():
+class TextAudioEmbedCollate():
     """ Zero-pads model inputs and targets
     """
     def __init__(self, return_ids=False):
         self.return_ids = return_ids
 
     def __call__(self, batch):
-        """Collate's training batch from normalized text, audio and x-vectors
+        """Collate's training batch from normalized text, audio and embedding vector
         PARAMS
         ------
-        batch: [text_normalized, spec_normalized, wav_normalized, x-vector]
+        batch: [text_normalized, spec_normalized, wav_normalized, embed]
         """
         # Right zero-pad all one-hot text sequences to max input length
         _, ids_sorted_decreasing = torch.sort(
@@ -525,7 +525,7 @@ class TextAudioXvectorCollate():
         text_lengths = torch.LongTensor(len(batch))
         spec_lengths = torch.LongTensor(len(batch))
         wav_lengths = torch.LongTensor(len(batch))
-        xvectors = torch.rand(len(batch), len(batch[0][3]))  # for x-vector conditioning
+        embeds = torch.rand(len(batch), len(batch[0][3]))  # for embedding conditioning
 
         text_padded = torch.LongTensor(len(batch), max_text_len)
         spec_padded = torch.FloatTensor(len(batch), batch[0][1].size(0), max_spec_len)
@@ -548,8 +548,8 @@ class TextAudioXvectorCollate():
             wav_padded[i, :, :wav.size(1)] = wav
             wav_lengths[i] = wav.size(1)
 
-            xvectors[i] = row[3]  # for x-vector conditioning
+            embeds[i] = row[3]  # for embedding conditioning
         
         if self.return_ids:
-            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, xvectors, ids_sorted_decreasing
-        return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, xvectors
+            return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, embeds, ids_sorted_decreasing
+        return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, embeds

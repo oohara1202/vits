@@ -31,9 +31,9 @@
     "add_blank": true,
     "n_speakers": 100,
     "cleaned_text": false,
-    "use_xvector": true,
+    "use_embed": true,
     "embed_dim": 192,
-    "xvectors_dir":"dump/xvector/jvs"
+    "embed_dir":"dump/xvector/jvs"
   },
   "model": {
     "inter_channels": 192,

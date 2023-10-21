@@ -412,8 +412,8 @@ class SynthesizerTrn(nn.Module):
     n_speakers=0,
     gin_channels=0,
     use_sdp=True,
-    use_xvector=False,  # for x-vector conditioning
-    embed_dim=0,        # for x-vector conditioning
+    use_embed=False,  # for embedding conditioning
+    embed_dim=0,        # for embedding conditioning
     **kwargs):
 
     super().__init__()
@@ -438,8 +438,8 @@ class SynthesizerTrn(nn.Module):
 
     self.use_sdp = use_sdp
 
-    self.use_xvector = use_xvector  # for x-vector conditioning
-    self.embed_dim = embed_dim      # for x-vector conditioning
+    self.use_embed = use_embed  # for embedding conditioning
+    self.embed_dim = embed_dim  # for embedding conditioning
 
     self.enc_p = TextEncoder(n_vocab,
         inter_channels,
@@ -458,17 +458,18 @@ class SynthesizerTrn(nn.Module):
     else:
       self.dp = DurationPredictor(hidden_channels, 256, 3, 0.5, gin_channels=gin_channels)
 
-    # change for x-vector conditioning
-    if use_xvector:
+    # change for embedding conditioning
+    if use_embed:
       self.spemb_proj = torch.nn.Linear(embed_dim, gin_channels)
-    # single-speakerでもmulti-speakerでもx-vectorを使うためにif文を変更
+      # self.spemb_proj = torch.nn.LazyLinear(gin_channels)  # parallelだと相性悪し
+    # single-speakerでもmulti-speakerでもembedding vectorを使うためにif文を変更
     elif n_speakers > 1:
       self.emb_g = nn.Embedding(n_speakers, gin_channels)
 
   def forward(self, x, x_lengths, y, y_lengths, sid=None, embeds=None):
     x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
-    # change for x-vector conditioning
-    if self.use_xvector:
+    # change for embedding conditioning
+    if self.use_embed:
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
     elif self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
@@ -509,8 +510,8 @@ class SynthesizerTrn(nn.Module):
 
   def infer(self, x, x_lengths, sid=None, embeds=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
     x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
-    # change for x-vector conditioning
-    if self.use_xvector:
+    # change for embedding conditioning
+    if self.use_embed:
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
     elif self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
