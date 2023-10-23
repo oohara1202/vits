@@ -413,7 +413,7 @@ class SynthesizerTrn(nn.Module):
     gin_channels=0,
     use_sdp=True,
     use_embed=False,  # for embedding conditioning
-    embed_dim=0,        # for embedding conditioning
+    embed_dim=0,      # for embedding conditioning
     **kwargs):
 
     super().__init__()
