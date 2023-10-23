@@ -63,6 +63,7 @@ def main():
                         
                         # 怒り（Angry）は除外
                         if emotion == '怒り':
+                            i+=1
                             continue
                         
                         text = line.split('|',)[2]  # 平文

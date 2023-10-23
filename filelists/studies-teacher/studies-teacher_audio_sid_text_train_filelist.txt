@@ -663,50 +663,50 @@ dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-04-Teacher-Turn-10.wav|0|�
 dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-01.wav|0|なになに？
 dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-02.wav|0|どうしたの？
 dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-03.wav|0|えー！それは災難だったね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-04.wav|0|うわー…。運営に通報したら？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-05.wav|0|どういたしまして。ちゃんと対応してくれるといいね！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-06.wav|0|あれ？今日はちょっと疲れてる？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-01.wav|2|どうしたの？大丈夫？熱はない？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-02.wav|0|そうなんだ…。何があったの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-03.wav|0|えー！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-04.wav|0|うわー…。もうどうにもならなそうなの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-05.wav|0|辛いねー。お母さん、わからなかったのかな？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-06.wav|0|そうなんだー。それはまいっちゃうね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-07.wav|0|これはもう、お母さんに新しい服を買ってもらうしかないね！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-08.wav|0|ねぇ、なに見てるの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-01.wav|0|へぇ。乃木坂好きなんだ？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-02.wav|0|みんな、すごくかわいいよね！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-03.wav|0|誰が推しなの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-04.wav|0|あぁ！バラエティとか、よく出てるよね？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-05.wav|0|知ってる！メインのメンバーの子だよね？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-06.wav|0|でもちょっと意外だな。あなたは齋藤飛鳥とかが好きそうなのにな。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-07.wav|0|そうなんだ！あなたは、ファン歴が長いの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-08.wav|0|何？箱推しって。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-09.wav|0|へー、勉強になった。また教えてね！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-10.wav|0|ねえねえ、あなたってお休みの日はなにしてるの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-01.wav|0|そうなんだー。どんな人をチェックしてるの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-02.wav|0|へー！いまって、雑誌よりSNSでファッションの情報チェックするんだね！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-03.wav|0|そっか、SNSなら動画もあるもんね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-04.wav|0|あーたしかに。SNSならお金かからないもんね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-05.wav|1|なるほど、人の意見もわかっちゃうんだ。それは勉強になるね！あなたはファッションが好きなの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-06.wav|0|今度、私も見てみようかな。おすすめの人っている？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-07.wav|0|ココミって、キムタクの娘の？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-08.wav|1|へー！ありがとう！早速、今夜見てみるね！また色々教えてね！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-09.wav|0|えっ？急にどうしたの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-01.wav|0|そっか、偉いね。私の場合は、勉強が嫌いだったからかなぁ。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-02.wav|0|うん。勉強が嫌いだったんだけど、ある時、通っていた塾ですごく授業がおもしろい先生に出会って、それから勉強が楽しくなったの。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-03.wav|0|勉強が楽しくなったら成績も伸びて、色んな選択肢が増えて、大学も自由に選べて、人生の可能性が増えたのね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-04.wav|0|それで、勉強が楽しいか、楽しくないかで人生が変わっちゃうなら、楽しく学んでもらいたいなって思うようになって、私も講師になろうって思ったんだ。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-05.wav|0|楽しいよ。みんなが成長していく様子をこんなに間近で感じられて、すごいやりがいがあるよ。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-06.wav|0|だから、生徒のみんなにはすごい感謝してるよ。もちろん、あなたにもね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-07.wav|1|応援してるね！だから、何か困ったことがあったらなんでも相談してね！
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-08.wav|0|うん、どうしたの？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-01.wav|0|私が講師になった理由？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-02.wav|0|そうだなー。私が勉強を教えることで、みんなが楽しんで勉強してくれたら嬉しいなって思ったからかな。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-03.wav|0|私、勉強って人生の可能性を広げると思うんだよね。だから、みんなが自分らしい人生を歩むためのお手伝いができると思うと、やりがいを感じて嬉しくなるんだよね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-04.wav|0|んー、人生観って人それぞれだと思うけど、私は誰かの役に立つ生き方がしたかったからかな。あなたは？
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-05.wav|0|人生って、自分のために自己実現を追求するのも、誰かのためにがんばるのも、どっちでもいいと思うんだ。あなたも自分らしい生き方が見つかるといいね。
-dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-06.wav|0|うん。もし、私がその役に立てるならなんでもするから、気軽に言ってね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-05.wav|0|うわー…。運営に通報したら？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-05-Teacher-Turn-06.wav|0|どういたしまして。ちゃんと対応してくれるといいね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-01.wav|0|あれ？今日はちょっと疲れてる？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-02.wav|2|どうしたの？大丈夫？熱はない？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-03.wav|0|そうなんだ…。何があったの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-04.wav|0|えー！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-05.wav|0|うわー…。もうどうにもならなそうなの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-06.wav|0|辛いねー。お母さん、わからなかったのかな？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-07.wav|0|そうなんだー。それはまいっちゃうね。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-06-Teacher-Turn-08.wav|0|これはもう、お母さんに新しい服を買ってもらうしかないね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-01.wav|0|ねぇ、なに見てるの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-02.wav|0|へぇ。乃木坂好きなんだ？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-03.wav|0|みんな、すごくかわいいよね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-04.wav|0|誰が推しなの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-05.wav|0|あぁ！バラエティとか、よく出てるよね？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-06.wav|0|知ってる！メインのメンバーの子だよね？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-07.wav|0|でもちょっと意外だな。あなたは齋藤飛鳥とかが好きそうなのにな。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-08.wav|0|そうなんだ！あなたは、ファン歴が長いの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-09.wav|0|何？箱推しって。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-07-Teacher-Turn-10.wav|0|へー、勉強になった。また教えてね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-01.wav|0|ねえねえ、あなたってお休みの日はなにしてるの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-02.wav|0|そうなんだー。どんな人をチェックしてるの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-03.wav|0|へー！いまって、雑誌よりSNSでファッションの情報チェックするんだね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-04.wav|0|そっか、SNSなら動画もあるもんね。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-05.wav|0|あーたしかに。SNSならお金かからないもんね。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-06.wav|1|なるほど、人の意見もわかっちゃうんだ。それは勉強になるね！あなたはファッションが好きなの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-07.wav|0|今度、私も見てみようかな。おすすめの人っている？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-08.wav|0|ココミって、キムタクの娘の？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-08-Teacher-Turn-09.wav|1|へー！ありがとう！早速、今夜見てみるね！また色々教えてね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-01.wav|0|えっ？急にどうしたの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-02.wav|0|そっか、偉いね。私の場合は、勉強が嫌いだったからかなぁ。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-03.wav|0|うん。勉強が嫌いだったんだけど、ある時、通っていた塾ですごく授業がおもしろい先生に出会って、それから勉強が楽しくなったの。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-04.wav|0|勉強が楽しくなったら成績も伸びて、色んな選択肢が増えて、大学も自由に選べて、人生の可能性が増えたのね。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-05.wav|0|それで、勉強が楽しいか、楽しくないかで人生が変わっちゃうなら、楽しく学んでもらいたいなって思うようになって、私も講師になろうって思ったんだ。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-06.wav|0|楽しいよ。みんなが成長していく様子をこんなに間近で感じられて、すごいやりがいがあるよ。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-07.wav|0|だから、生徒のみんなにはすごい感謝してるよ。もちろん、あなたにもね。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-09-Teacher-Turn-08.wav|1|応援してるね！だから、何か困ったことがあったらなんでも相談してね！
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-01.wav|0|うん、どうしたの？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-02.wav|0|私が講師になった理由？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-03.wav|0|そうだなー。私が勉強を教えることで、みんなが楽しんで勉強してくれたら嬉しいなって思ったからかな。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-04.wav|0|私、勉強って人生の可能性を広げると思うんだよね。だから、みんなが自分らしい人生を歩むためのお手伝いができると思うと、やりがいを感じて嬉しくなるんだよね。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-05.wav|0|んー、人生観って人それぞれだと思うけど、私は誰かの役に立つ生き方がしたかったからかな。あなたは？
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-06.wav|0|人生って、自分のために自己実現を追求するのも、誰かのためにがんばるのも、どっちでもいいと思うんだ。あなたも自分らしい生き方が見つかるといいね。
+dataset/STUDIES/Long_dialogue/LD05/wav/LD05-Dialogue-10-Teacher-Turn-07.wav|0|うん。もし、私がその役に立てるならなんでもするから、気軽に言ってね！
 dataset/STUDIES/Long_dialogue/LD06/wav/LD06-Dialogue-01-Teacher-Turn-01.wav|0|何だか今日は嬉しそうだね。何かいいことでもあった？
 dataset/STUDIES/Long_dialogue/LD06/wav/LD06-Dialogue-01-Teacher-Turn-02.wav|0|それでもいいから、話してくれる？
 dataset/STUDIES/Long_dialogue/LD06/wav/LD06-Dialogue-01-Teacher-Turn-03.wav|0|そうなんだ！何か願い事はした？
@@ -968,89 +968,89 @@ dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-03.wav|0|�
 dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-04.wav|0|そっか。整形したんだ。
 dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-05.wav|0|そんなことないよ。友達の反応はどうだったの？
 dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-06.wav|0|それはちょっとね…。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-07.wav|0|そういうことか。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-08.wav|0|そんなことないよ！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-09.wav|0|うーん、私は前のあなたも今のあなたもいいと思うけどなぁ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-10.wav|0|え、どうしちゃったの？急に。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-01.wav|1|そうなの？よかったじゃない！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-02.wav|0|そうなんだ。何かあったの？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-03.wav|0|えぇ？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-04.wav|0|へえ…。なんだか大変そうだね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-05.wav|0|そうだったんだ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-06.wav|0|そっかそっか。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-07.wav|1|偉いね！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-08.wav|0|長いつきあいなんだね。うらやましいな。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-09.wav|1|よかったね！仲直りできて！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-10.wav|0|今日はなんだか嬉しそうだねー。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-01.wav|1|よかったね！何があったの？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-02.wav|0|そう言えば、前にそういうこと言ってたね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-03.wav|0|それで、どんなことがあったの？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-04.wav|1|そっかー。それは嬉しかったでしょ！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-05.wav|1|そうだったんだ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-06.wav|1|そうなんだ。それはすごいねー！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-07.wav|1|よかったねー！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-08.wav|0|サプライズパーティって、ホント嬉しいよね！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-09.wav|1|うん。中学の時にね！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-10.wav|0|どうしたの？ため息なんかついて。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-01.wav|2|そっかあ…。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-02.wav|0|うーん、あなたはよく頑張ってるんだけどねー。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-03.wav|0|どうして？こんなに真面目に来てるのに。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-04.wav|0|そうなの。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-05.wav|0|そっか。それでおばあさまが出してくださってるんだ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-06.wav|2|そっか…。私も責任を感じちゃう。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-07.wav|2|そんなこと言わないで。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-08.wav|0|そう言ってもらえると嬉しいよ。私も全力で勉強サポートするから！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-09.wav|1|うん！次のテストはがんばろう！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-10.wav|0|最近元気ないね。どうしたの？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-01.wav|0|何か言われたの？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-02.wav|2|そうなんだ…。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-03.wav|2|うーん、あんまり比べられてもね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-04.wav|0|あなただってがんばってるよ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-05.wav|2|それはちょっとキツイね…。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-06.wav|0|たしかにね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-07.wav|0|とりあえずは勉強するしかないね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-08.wav|0|そっか。偉いね！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-09.wav|1|私も上に兄弟いるからわかるよ。頑張ろ！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-10.wav|0|びっくりしちゃったんだけど、今って「ユーチューバーになるのが夢」って子が多いらしいよ？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-01.wav|0|うん。昔はサッカー選手とか警察官だったのに、時代だねー。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-02.wav|0|あなたはどんな夢持ってたの？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-03.wav|0|あー、わかるわかる。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-04.wav|0|小学校の時は？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-05.wav|0|そうなんだ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-06.wav|0|へぇ、乗り物系が多かったんだね！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-07.wav|0|私もキャビンアテンダントに憧れてたなあ！国際線に乗って、英語を使って仕事するの。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-08.wav|0|背がもうちょっと高くないとできない仕事なんだよね。残念だけど、思ったより伸びなかったから。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-09.wav|1|うん！海外にいっぱい行く夢も叶ったよ！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-10.wav|0|夢？そうだなあ…。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-01.wav|1|あったあった！家の中に回転寿司つくりたかった。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-02.wav|1|それで言うと、テーマパークの中に住みたかったなー！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-03.wav|1|朝起きたらすぐに一番混むアトラクションに行って、一日中楽しんで、夜も帰らなくていいんだよー？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-04.wav|0|そうなんだ！今はもう違うの？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-05.wav|0|夢もちょっとひと休みってことか。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-06.wav|0|アイドルより、アニメのキャラクターに憧れてたかな。誕生日にイラストブック買ってもらったよ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-07.wav|0|あなたはアイドルに憧れた？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-08.wav|0|そうなんだ。おしゃれだもんね！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-09.wav|0|頑張って！応援してる！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-10.wav|0|いたみたいだけど、あんまり有名な人じゃなかったかな。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-01.wav|0|でも、ほかにもイケメンはいるからね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-02.wav|0|そうだなあ。サークルの中だったら、ノリがよくておもしろい人かな。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-03.wav|0|テニスサークルと、バンドイベントを企画するサークルを掛け持ちしてたんだよね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-04.wav|0|真面目にやってたよ。バンドイベントの企画では、会計とか担当してた。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-05.wav|0|そうそう、それが大変だった。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-06.wav|0|年に３千円ぐらいね。でも、合宿費は高かったよ。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-07.wav|0|島で合宿したんだよね、フェリーで行って！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-08.wav|0|うん。そういう自由さは高校とは違うね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-09.wav|1|大学合格できたら、楽しいことがいっぱいあるよー！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-10.wav|0|してたよ？１年の時から。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-01.wav|0|まあまあかな。でも、すぐなくなっちゃうんだよね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-02.wav|0|焼肉屋でもやってたよ。就職活動の前まで。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-03.wav|0|そうそう。１１時まで働いてた！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-04.wav|0|お金がないと遊べないからね。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-05.wav|0|そうだね。あっという間だったし。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-06.wav|1|でも、いっぱい遊べたよ！夏休みに、海の家でバイトしたこともあるよ？
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-07.wav|1|いたいた！友だちと一緒にバイトしたんだけど、その子は彼氏つくってた！
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-08.wav|0|私は大学に彼氏がいたから。
-dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-09.wav|1|勉強が終わってからね！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-08.wav|0|そういうことか。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-09.wav|0|そんなことないよ！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-02-Teacher-Turn-10.wav|0|うーん、私は前のあなたも今のあなたもいいと思うけどなぁ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-01.wav|0|え、どうしちゃったの？急に。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-02.wav|1|そうなの？よかったじゃない！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-03.wav|0|そうなんだ。何かあったの？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-04.wav|0|えぇ？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-05.wav|0|へえ…。なんだか大変そうだね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-06.wav|0|そうだったんだ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-07.wav|0|そっかそっか。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-08.wav|1|偉いね！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-09.wav|0|長いつきあいなんだね。うらやましいな。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-03-Teacher-Turn-10.wav|1|よかったね！仲直りできて！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-01.wav|0|今日はなんだか嬉しそうだねー。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-02.wav|1|よかったね！何があったの？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-03.wav|0|そう言えば、前にそういうこと言ってたね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-04.wav|0|それで、どんなことがあったの？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-05.wav|1|そっかー。それは嬉しかったでしょ！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-06.wav|1|そうだったんだ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-07.wav|1|そうなんだ。それはすごいねー！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-08.wav|1|よかったねー！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-09.wav|0|サプライズパーティって、ホント嬉しいよね！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-04-Teacher-Turn-10.wav|1|うん。中学の時にね！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-01.wav|0|どうしたの？ため息なんかついて。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-02.wav|2|そっかあ…。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-03.wav|0|うーん、あなたはよく頑張ってるんだけどねー。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-04.wav|0|どうして？こんなに真面目に来てるのに。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-05.wav|0|そうなの。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-06.wav|0|そっか。それでおばあさまが出してくださってるんだ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-07.wav|2|そっか…。私も責任を感じちゃう。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-08.wav|2|そんなこと言わないで。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-09.wav|0|そう言ってもらえると嬉しいよ。私も全力で勉強サポートするから！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-05-Teacher-Turn-10.wav|1|うん！次のテストはがんばろう！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-01.wav|0|最近元気ないね。どうしたの？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-02.wav|0|何か言われたの？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-03.wav|2|そうなんだ…。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-04.wav|2|うーん、あんまり比べられてもね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-05.wav|0|あなただってがんばってるよ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-06.wav|2|それはちょっとキツイね…。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-07.wav|0|たしかにね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-08.wav|0|とりあえずは勉強するしかないね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-09.wav|0|そっか。偉いね！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-06-Teacher-Turn-10.wav|1|私も上に兄弟いるからわかるよ。頑張ろ！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-01.wav|0|びっくりしちゃったんだけど、今って「ユーチューバーになるのが夢」って子が多いらしいよ？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-02.wav|0|うん。昔はサッカー選手とか警察官だったのに、時代だねー。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-03.wav|0|あなたはどんな夢持ってたの？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-04.wav|0|あー、わかるわかる。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-05.wav|0|小学校の時は？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-06.wav|0|そうなんだ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-07.wav|0|へぇ、乗り物系が多かったんだね！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-08.wav|0|私もキャビンアテンダントに憧れてたなあ！国際線に乗って、英語を使って仕事するの。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-09.wav|0|背がもうちょっと高くないとできない仕事なんだよね。残念だけど、思ったより伸びなかったから。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-07-Teacher-Turn-10.wav|1|うん！海外にいっぱい行く夢も叶ったよ！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-01.wav|0|夢？そうだなあ…。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-02.wav|1|あったあった！家の中に回転寿司つくりたかった。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-03.wav|1|それで言うと、テーマパークの中に住みたかったなー！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-04.wav|1|朝起きたらすぐに一番混むアトラクションに行って、一日中楽しんで、夜も帰らなくていいんだよー？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-05.wav|0|そうなんだ！今はもう違うの？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-06.wav|0|夢もちょっとひと休みってことか。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-07.wav|0|アイドルより、アニメのキャラクターに憧れてたかな。誕生日にイラストブック買ってもらったよ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-08.wav|0|あなたはアイドルに憧れた？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-09.wav|0|そうなんだ。おしゃれだもんね！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-08-Teacher-Turn-10.wav|0|頑張って！応援してる！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-01.wav|0|いたみたいだけど、あんまり有名な人じゃなかったかな。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-02.wav|0|でも、ほかにもイケメンはいるからね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-03.wav|0|そうだなあ。サークルの中だったら、ノリがよくておもしろい人かな。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-04.wav|0|テニスサークルと、バンドイベントを企画するサークルを掛け持ちしてたんだよね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-05.wav|0|真面目にやってたよ。バンドイベントの企画では、会計とか担当してた。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-06.wav|0|そうそう、それが大変だった。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-07.wav|0|年に３千円ぐらいね。でも、合宿費は高かったよ。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-08.wav|0|島で合宿したんだよね、フェリーで行って！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-09.wav|0|うん。そういう自由さは高校とは違うね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-09-Teacher-Turn-10.wav|1|大学合格できたら、楽しいことがいっぱいあるよー！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-01.wav|0|してたよ？１年の時から。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-02.wav|0|まあまあかな。でも、すぐなくなっちゃうんだよね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-03.wav|0|焼肉屋でもやってたよ。就職活動の前まで。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-04.wav|0|そうそう。１１時まで働いてた！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-05.wav|0|お金がないと遊べないからね。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-06.wav|0|そうだね。あっという間だったし。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-07.wav|1|でも、いっぱい遊べたよ！夏休みに、海の家でバイトしたこともあるよ？
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-08.wav|1|いたいた！友だちと一緒にバイトしたんだけど、その子は彼氏つくってた！
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-09.wav|0|私は大学に彼氏がいたから。
+dataset/STUDIES/Long_dialogue/LD09/wav/LD09-Dialogue-10-Teacher-Turn-10.wav|1|勉強が終わってからね！
 dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-01-Teacher-Turn-01.wav|0|そろそろ帰らないとダメじゃない？明日は大事な大会でしょ？
 dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-01-Teacher-Turn-02.wav|0|そんな感じで大丈夫？「さぁ、明日は頑張るぞ！」とか気合を入れた方が良さそうだけど…。
 dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-01-Teacher-Turn-03.wav|0|そうかなー？せっかく大事な大会の前にアドバイスをしようと思ったのに。
@@ -1112,16 +1112,16 @@ dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-08-Teacher-Turn-09.wav|0|�
 dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-09-Teacher-Turn-01.wav|0|えー？何部だと思う？
 dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-09-Teacher-Turn-02.wav|0|あー残念！ソフト部でした！
 dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-09-Teacher-Turn-03.wav|0|私、サードで４番だったんだよ？
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-09-Teacher-Turn-04.wav|0|変な先入観を持つと、失敗することもあるの。だから、試験でも「この問題は簡単だー！」って思いながら取り組んだら失敗するよ？
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-09-Teacher-Turn-05.wav|1|そうなんだー。
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-09-Teacher-Turn-06.wav|0|いやー、青春だなーって思って！
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-01.wav|0|あったけど、そんな感じじゃなかったよー。
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-02.wav|0|2年の夏までソフト部、その後はダンス部だったよ？
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-03.wav|0|うん。肩を怪我しちゃってね…。まぁ、ダンス部も楽しかったよ？
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-04.wav|0|確かにモテたけど、女の子からだけどね…。
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-05.wav|0|そうなの。女子校って華やかなイメージを持ってるかもしれないけど、校則厳しいし、人間関係もだるいなって思う時がある。でも、共学は男の子もいて楽しそうだなって思うよ。
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-06.wav|0|今はわかんないけどさ、よかったって思える時が来るって。
-dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-07.wav|0|今は、青春を思い切り楽しむことが大切だよ！
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-09-Teacher-Turn-06.wav|0|変な先入観を持つと、失敗することもあるの。だから、試験でも「この問題は簡単だー！」って思いながら取り組んだら失敗するよ？
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-01.wav|1|そうなんだー。
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-02.wav|0|いやー、青春だなーって思って！
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-03.wav|0|あったけど、そんな感じじゃなかったよー。
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-04.wav|0|2年の夏までソフト部、その後はダンス部だったよ？
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-05.wav|0|うん。肩を怪我しちゃってね…。まぁ、ダンス部も楽しかったよ？
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-06.wav|0|確かにモテたけど、女の子からだけどね…。
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-07.wav|0|そうなの。女子校って華やかなイメージを持ってるかもしれないけど、校則厳しいし、人間関係もだるいなって思う時がある。でも、共学は男の子もいて楽しそうだなって思うよ。
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-08.wav|0|今はわかんないけどさ、よかったって思える時が来るって。
+dataset/STUDIES/Long_dialogue/LD10/wav/LD10-Dialogue-10-Teacher-Turn-09.wav|0|今は、青春を思い切り楽しむことが大切だよ！
 dataset/STUDIES/Long_dialogue/LD11/wav/LD11-Dialogue-01-Teacher-Turn-01.wav|0|最近どう？忙しい？
 dataset/STUDIES/Long_dialogue/LD11/wav/LD11-Dialogue-01-Teacher-Turn-02.wav|0|そうなんだ。水泳部だっけ。
 dataset/STUDIES/Long_dialogue/LD11/wav/LD11-Dialogue-01-Teacher-Turn-03.wav|0|もうすぐじゃん！調子は上がってる？
@@ -1236,26 +1236,26 @@ dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-02.wav|0|�
 dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-03.wav|0|そうだったの。どうして遅刻したの？
 dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-04.wav|0|いいことしたねー！そのことは顧問の先生に説明したの？
 dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-05.wav|0|じゃあ、何に腹が立ったの？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-06.wav|1|そうだよねー。でも、あなたはその小学生の子にとってヒーローみたいだったと思うよ！
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-07.wav|1|きっとそうだと思うな！元気出しなよ！
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-08.wav|0|どうしたのー？そんなに怖い顔して。
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-01.wav|0|うん、聞かせて？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-02.wav|0|うんうん。
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-03.wav|0|えらいねー。あなたは誰よりも練習熱心だもんね！見返してやろうよ、その顧問の先生のこと！
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-04.wav|1|よかった！明日からも頑張ってね！
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-05.wav|0|ふふー。なんだと思う？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-06.wav|0|はずれー。ソフト部でした！
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-01.wav|0|そうだよ？ソフト部で四番を努めてたの。意外かな？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-02.wav|0|姿勢はスポーツでとても大事なことだからね。サッカーでも、体幹トレーニングってするでしょ？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-03.wav|0|ソフトでも体幹がぶれないことが大事なの。当時は泣きそうになるくらいトレーニングしたなあ。
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-04.wav|1|もちろんあるよー！わかった。その時使っていたトレーニングブックがあるから、今度持ってきてあげるね。
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-05.wav|0|何かわからない問題があった？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-06.wav|0|あら、どうしたの？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-01.wav|0|ソフト部だけど…。どうして？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-02.wav|0|そういうことね！聞いてくれたらなんでも答えるよ？
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-03.wav|0|私の両親が野球ずきでね、小さい時からよくそこに試合を観に行っていたの。それで、高校はソフト部があるところにしたんだ。
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-04.wav|0|そうだね。やっぱり、部活は高校生活で大切だもんね！
-dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-05.wav|1|うん、いつでも待ってるね！がんばってね！
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-07.wav|1|そうだよねー。でも、あなたはその小学生の子にとってヒーローみたいだったと思うよ！
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-07-Teacher-Turn-08.wav|1|きっとそうだと思うな！元気出しなよ！
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-01.wav|0|どうしたのー？そんなに怖い顔して。
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-02.wav|0|うん、聞かせて？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-03.wav|0|うんうん。
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-05.wav|0|えらいねー。あなたは誰よりも練習熱心だもんね！見返してやろうよ、その顧問の先生のこと！
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-08-Teacher-Turn-06.wav|1|よかった！明日からも頑張ってね！
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-01.wav|0|ふふー。なんだと思う？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-02.wav|0|はずれー。ソフト部でした！
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-03.wav|0|そうだよ？ソフト部で四番を努めてたの。意外かな？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-04.wav|0|姿勢はスポーツでとても大事なことだからね。サッカーでも、体幹トレーニングってするでしょ？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-05.wav|0|ソフトでも体幹がぶれないことが大事なの。当時は泣きそうになるくらいトレーニングしたなあ。
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-09-Teacher-Turn-06.wav|1|もちろんあるよー！わかった。その時使っていたトレーニングブックがあるから、今度持ってきてあげるね。
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-01.wav|0|何かわからない問題があった？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-02.wav|0|あら、どうしたの？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-03.wav|0|ソフト部だけど…。どうして？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-04.wav|0|そういうことね！聞いてくれたらなんでも答えるよ？
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-05.wav|0|私の両親が野球ずきでね、小さい時からよくそこに試合を観に行っていたの。それで、高校はソフト部があるところにしたんだ。
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-06.wav|0|そうだね。やっぱり、部活は高校生活で大切だもんね！
+dataset/STUDIES/Long_dialogue/LD12/wav/LD12-Dialogue-10-Teacher-Turn-07.wav|1|うん、いつでも待ってるね！がんばってね！
 dataset/STUDIES/Long_dialogue/LD13/wav/LD13-Dialogue-01-Teacher-Turn-01.wav|0|あ！ペンケース、新しくしたんだ！
 dataset/STUDIES/Long_dialogue/LD13/wav/LD13-Dialogue-01-Teacher-Turn-02.wav|0|へぇー、仲がいいんだね。
 dataset/STUDIES/Long_dialogue/LD13/wav/LD13-Dialogue-01-Teacher-Turn-03.wav|0|あ、ごめん、踏み込んだことを聞くつもりはなかったんだけど。
@@ -1647,105 +1647,105 @@ dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-08-Teacher-Turn-02.wav|0|�
 dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-09-Teacher-Turn-01.wav|0|どうしたの？今日はやけにふて腐れてるじゃない。学校でなにかあったの？
 dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-09-Teacher-Turn-02.wav|0|そうなの。でも、先生は君のためを思って注意してくれたのだと思うよ？いつまでもふて腐れてないで、少しずつ悪い部分を直していこうよ。
 dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-10-Teacher-Turn-01.wav|0|なに、物騒ね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-10-Teacher-Turn-02.wav|0|何について、注意されたの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-11-Teacher-Turn-01.wav|0|授業中の私語は、良くないんじゃない？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-11-Teacher-Turn-02.wav|0|しっかり掃除しなかったから、注意されたの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-12-Teacher-Turn-01.wav|0|家でもそうだけど、掃除すると気持ちがすっきり落ちついて、勉強や仕事が捗るんだよ？自分のためになると思って頑張ってごらん？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-12-Teacher-Turn-02.wav|2|あなただけが注意されたんだ。それはイヤな気持ちになったよね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-13-Teacher-Turn-01.wav|0|どうしてそんなこと言うのよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-13-Teacher-Turn-02.wav|0|この学校だけじゃないから、落ち着いて？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-14-Teacher-Turn-01.wav|0|そうなんだ。授業中にほかの教科の勉強してたの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-14-Teacher-Turn-02.wav|0|話がつまらないのは仕方ないけど、歴史の先生の気持ちも考えてね？でも、数学の勉強は頑張ってて偉いよ！
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-15-Teacher-Turn-01.wav|0|なんで注意されたか、あなたならわかるでしょ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-15-Teacher-Turn-02.wav|0|わかってくれるあなただから、注意したんだよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-16-Teacher-Turn-01.wav|0|どうしたの？何かあったの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-16-Teacher-Turn-02.wav|0|わかった、つらかったね。分からないところゆっくり教えてあげるから、落ち着こう？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-17-Teacher-Turn-01.wav|2|何かしたの？最近、イライラしがちかな？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-17-Teacher-Turn-02.wav|0|そうかー。私も、高校生の頃は何かにイライラしたり、気持ちが不安定なことがあったから、きみの気持ち、良くわかるよ。でも、騒いだら物に当たったりはあんまり良く無いことだから、イライラすることが我慢出来なかったら、私が聞いてあげるから。お話ししてね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-18-Teacher-Turn-01.wav|0|まぁまぁ、つぎ気をつければいいのよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-18-Teacher-Turn-02.wav|0|過ぎたことを気にしても、しょうがないじゃないの。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-19-Teacher-Turn-01.wav|2|何かあったの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-19-Teacher-Turn-02.wav|0|そうなんだね。課題大変なの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-20-Teacher-Turn-01.wav|0|そうよ？それが仕事だからね！その代わり、ちゃんとしていたら内申点もアップするから。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-20-Teacher-Turn-02.wav|0|そうそう！だから、生活態度を良くしておくのよ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-21-Teacher-Turn-01.wav|0|どしたの？何があったの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-21-Teacher-Turn-02.wav|0|きっときみは目立ち過ぎちゃうんだね。先生もついつい言いたくなっちゃうんだよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-22-Teacher-Turn-01.wav|0|どしたの？そんなにムカつくなんてめずらしいね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-22-Teacher-Turn-02.wav|0|オシャレに目覚めるお年頃だもんね。でもさ、校則でしょ？私から言わせると、校則をちゃんと守る男子の方がずっとカッコいいよ！オシャレは学校以外でしようよ！
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-23-Teacher-Turn-01.wav|0|遅刻は良くないわよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-23-Teacher-Turn-02.wav|0|もっと早く寝るようにしなくちゃね！社会に出たら、自己管理は基本よ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-24-Teacher-Turn-01.wav|0|注意されたのは、何か思い当たる？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-24-Teacher-Turn-02.wav|0|遅刻してしまう原因を考えてみようか。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-25-Teacher-Turn-01.wav|0|大変だったね。でも、注意されるのってありがたいことよ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-25-Teacher-Turn-02.wav|0|あなたがもっと良くなるために言ってくれたんだから。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-26-Teacher-Turn-01.wav|0|何人ぐらいで騒いでたの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-26-Teacher-Turn-02.wav|0|たまたまだよ、そんなの。誰かを注意しておかなくちゃいけないから、たまたま選ばれただけ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-27-Teacher-Turn-01.wav|0|生活態度を改めればいんじゃない？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-27-Teacher-Turn-02.wav|0|善は急げよ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-28-Teacher-Turn-01.wav|0|なになに、どうしたの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-28-Teacher-Turn-02.wav|0|どんな事をアドバイスしてもらったのか教えてよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-29-Teacher-Turn-01.wav|2|どうしたの？普段、口に出して「イライラする」なんて言わないのに。よっぽど何かあったの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-29-Teacher-Turn-02.wav|0|あー…。でも、学校って決まりごとが多いから、そういうこと、私も高校生の時に経験したなぁ。今思えば、規則を守ろうっていい教訓だったなって思うけど…。でも、部活が出来なくなるのも嫌だと思うし、早めに解決しちゃったら？嫌なことは早めに解決して済ませるのが一番だよ！
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-30-Teacher-Turn-01.wav|0|でも、行く必要があったんでしょ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-30-Teacher-Turn-02.wav|0|それをちゃんと先生に説明すればよかったんじゃないの？今度からそうしなよ。先生も理解してくれるはずだし。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-31-Teacher-Turn-01.wav|0|あんまり細かいことまで注意されるとしんどいよね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-31-Teacher-Turn-02.wav|0|その気持ちはわかるけど、「いい大人に育って欲しい」っていう先生の思いやりかもしれないよ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-32-Teacher-Turn-01.wav|0|ちゃんと毎晩眠れているの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-32-Teacher-Turn-02.wav|0|毎日頑張っているね。だけど、時間を守るのは大切なことだよ？寝るときはしっかり寝て、遅刻しないようにね？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-33-Teacher-Turn-01.wav|0|トイレに行くのはいいのだけど、何も言わずに勝手に教室を抜け出しちゃダメだよ。そりゃ怒られちゃうよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-33-Teacher-Turn-02.wav|0|急ぐ気持ちも分かるけど、次にトイレに行く時は、先生にひとこと伝えるようにしようね。勝手に抜け出すと、また怒られちゃうからね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-34-Teacher-Turn-01.wav|0|なんて注意されたの？そんなにムカつくことなの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-34-Teacher-Turn-02.wav|0|そうかー。ムカつく気持ちも良くわかるけど、それなら私もその先生に賛成だな！だって、上履きをちゃんと履いていないと危ないよ？学校の廊下って滑りやすいし、いつ地震とか来るかわからないし。慌てて走ったりすると、転んだりして危険だよ？隣のクラスの先生も、きみの身の安全を思って注意してくれたんだから、私は私の可愛い生徒を守ってくれてありがとう！と思うなぁ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-35-Teacher-Turn-01.wav|0|あいつって、誰のこと？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-35-Teacher-Turn-02.wav|0|それって、あなたに期待してるってことでしょ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-36-Teacher-Turn-01.wav|2|そうだよね。怒られるのは嫌な気分になるよね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-36-Teacher-Turn-02.wav|0|怒られるってことは期待されてるってことだから、そういうふうに前向きに捉えてみようよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-37-Teacher-Turn-01.wav|0|でも、勉強ができないと、希望の大学にも行けないし、やりたい仕事にも就けないわよ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-37-Teacher-Turn-02.wav|0|そんな言い方をする大人たちを、これからずっと相手にしていくのよ？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-38-Teacher-Turn-01.wav|0|その原因は何か考えないと、解決はできないよね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-38-Teacher-Turn-02.wav|0|あなたは若いし、反省すれば怒られないようになるよね！
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-39-Teacher-Turn-01.wav|0|まあ、まあ。それが先生の仕事だから。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-39-Teacher-Turn-02.wav|0|気持ちはわかる。一緒にしないでほしいよね。ま、これからは遅刻しないように頑張ろう！
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-40-Teacher-Turn-01.wav|0|どうしたの？何、注意されたの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-40-Teacher-Turn-02.wav|0|期待してない子には注意しないよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-41-Teacher-Turn-01.wav|2|あらら。親の前で急に言われてもね。事情も聞かないで、決めつけてくるのも良くないね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-41-Teacher-Turn-02.wav|0|自分の信じる道を取った方がいいよ。行きたい大学のためのバイトなんだし、胸を張って言い返しちゃいなよ。そんな立派な子なかなかいないよ？普通は応援するのにね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-42-Teacher-Turn-01.wav|0|ああ、あなたの学校、染めるの禁止だっけ？そこまで髪色目立たないけどね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-42-Teacher-Turn-02.wav|0|注意されないギリギリのラインを検証してみたら？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-43-Teacher-Turn-01.wav|0|おしゃれしたい気持ちは仕方ないね。先生も高校の頃同じようなことあった。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-43-Teacher-Turn-02.wav|0|そうだよね。でも、高校卒業したら自分の好きなおしゃれを好きなだけ楽しめるからね。それまでのちょっとの辛抱だから、頑張ろう。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-44-Teacher-Turn-01.wav|2|そんな事でいちいち口うるさいって、ちょっと嫌よね。ほかに誰もいなかったの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-44-Teacher-Turn-02.wav|0|あ、そこまで冷静に理由を考えられるんだ。逆に大人っていうか、観察力すごいかも。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-45-Teacher-Turn-01.wav|0|学校で何かあったの？先生はなんて言ってるの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-45-Teacher-Turn-02.wav|0|そっかー。大人って些細な事で子供を注意してしまう性質なのよ。君ももしかしたら、大人になったらわかるかもしれないけど、辛いよね。その理不尽に怒られた気持ち、わかるわ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-46-Teacher-Turn-01.wav|0|あー、あるある。結構年配の先生とかさ、気にするよね。私もあったよ。学生の頃。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-46-Teacher-Turn-02.wav|0|そんな考え方もあるよね。でも、社会に出た時に、礼儀ができていないと注意されるし、自分がその先生の立場ならどう？ちょっと考えてみて。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-47-Teacher-Turn-01.wav|0|当たり前じゃない。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-47-Teacher-Turn-02.wav|0|しょうがないわね。ゲームする時間決めたほうがいいわね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-48-Teacher-Turn-01.wav|0|でも遅刻はよくないよ。せっかく勉強や部活で頑張ってるのに、そこでマイナスの印象持たれるの、もったいないよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-48-Teacher-Turn-02.wav|0|あったなー、１回だけ。多分、ほかの先生も学生時代はあったと思うよ？けど、遅刻はいいことじゃないから、気を付けようね？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-49-Teacher-Turn-01.wav|0|あら、授業中にみていたのかしら。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-49-Teacher-Turn-02.wav|0|やっぱりルールは守らないとね！授業には集中しないとね？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-50-Teacher-Turn-01.wav|0|何があったかしらないけど、先生もよく見てるからね？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-50-Teacher-Turn-02.wav|0|きみのためを思ってだよ！きっと。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-51-Teacher-Turn-01.wav|0|頭ごなしに怒られると、誰だってイヤな気持ちになるよね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-51-Teacher-Turn-02.wav|0|確かに、生徒の言い分まったく聞けない先生もいるよね。落ち込んでもしかたないし、早く気持ちを切り替えたほうがいいよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-52-Teacher-Turn-01.wav|0|私は、かっこいいし清潔感あると思うけどなあ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-52-Teacher-Turn-02.wav|1|成績が良ければ何も言われなくなるよ！
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-53-Teacher-Turn-01.wav|0|なにー？何か悪いことやったの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-53-Teacher-Turn-02.wav|0|あれ？あの学校、バイト禁止なんだっけ。厳しいね。まぁ、卒業してから、思いっきりやればいいじゃない。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-54-Teacher-Turn-01.wav|0|どうしたの？授業中に何度も寝ているのかな。疲れているの？何かあったのかな。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-54-Teacher-Turn-02.wav|0|そうなんだ。アルバイトをはじめたせいもあって、授業中は眠る回数が増えたんだね。ちょっとよくないことが重なっている感じがするね。でも、そんななかでも学校を休まず、面白くない授業にも出て、がんばろうとしているところは、すごいと思うよ！
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-55-Teacher-Turn-01.wav|0|先生に対しての挨拶ってこと？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-55-Teacher-Turn-02.wav|0|社会人になると挨拶ってすごく大切だから、いまから身につけておいて損はないと思うよ。わかるけどね、気持ちは。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-56-Teacher-Turn-01.wav|0|今まで黙認だったのに、急に注意されるとびっくりするね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-56-Teacher-Turn-02.wav|0|いきなり注意するんじゃなくって、警告とかしてほしいよね。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-57-Teacher-Turn-01.wav|0|心当たりないの？一個も？それは顧問の先生が変だね。でも、本当に原因ないのかな？叱られると萎縮しちゃうけどさ、一回、言葉の意味を、もう一度噛み砕いてみてごらん？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-57-Teacher-Turn-02.wav|0|思い出せてよかった。うん！もし反省する気があるなら、明日にでももう一度顧問の先生に会って謝ってきなよ。先生許してくれると思うよ。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-58-Teacher-Turn-01.wav|0|あら、どうしたの？
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-58-Teacher-Turn-02.wav|0|でも、規則は規則よ？ルールを守ることを教えるのも学校の役割なんだから。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-59-Teacher-Turn-01.wav|2|それくらいの長さで怒られたの？それはちょっとかわいそう。
-dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-59-Teacher-Turn-02.wav|0|きみは間違った事をしてないと思うから、切るべきじゃないよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-11-Teacher-Turn-01.wav|0|何について、注意されたの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-11-Teacher-Turn-02.wav|0|授業中の私語は、良くないんじゃない？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-12-Teacher-Turn-01.wav|0|しっかり掃除しなかったから、注意されたの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-12-Teacher-Turn-02.wav|0|家でもそうだけど、掃除すると気持ちがすっきり落ちついて、勉強や仕事が捗るんだよ？自分のためになると思って頑張ってごらん？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-13-Teacher-Turn-01.wav|2|あなただけが注意されたんだ。それはイヤな気持ちになったよね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-14-Teacher-Turn-01.wav|0|どうしてそんなこと言うのよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-14-Teacher-Turn-02.wav|0|この学校だけじゃないから、落ち着いて？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-15-Teacher-Turn-01.wav|0|そうなんだ。授業中にほかの教科の勉強してたの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-15-Teacher-Turn-02.wav|0|話がつまらないのは仕方ないけど、歴史の先生の気持ちも考えてね？でも、数学の勉強は頑張ってて偉いよ！
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-16-Teacher-Turn-01.wav|0|なんで注意されたか、あなたならわかるでしょ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-16-Teacher-Turn-02.wav|0|わかってくれるあなただから、注意したんだよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-17-Teacher-Turn-01.wav|0|どうしたの？何かあったの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-17-Teacher-Turn-02.wav|0|わかった、つらかったね。分からないところゆっくり教えてあげるから、落ち着こう？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-18-Teacher-Turn-01.wav|2|何かしたの？最近、イライラしがちかな？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-18-Teacher-Turn-02.wav|0|そうかー。私も、高校生の頃は何かにイライラしたり、気持ちが不安定なことがあったから、きみの気持ち、良くわかるよ。でも、騒いだら物に当たったりはあんまり良く無いことだから、イライラすることが我慢出来なかったら、私が聞いてあげるから。お話ししてね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-19-Teacher-Turn-01.wav|0|まぁまぁ、つぎ気をつければいいのよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-19-Teacher-Turn-02.wav|0|過ぎたことを気にしても、しょうがないじゃないの。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-20-Teacher-Turn-01.wav|2|何かあったの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-20-Teacher-Turn-02.wav|0|そうなんだね。課題大変なの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-21-Teacher-Turn-01.wav|0|そうよ？それが仕事だからね！その代わり、ちゃんとしていたら内申点もアップするから。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-21-Teacher-Turn-02.wav|0|そうそう！だから、生活態度を良くしておくのよ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-22-Teacher-Turn-01.wav|0|どしたの？何があったの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-22-Teacher-Turn-02.wav|0|きっときみは目立ち過ぎちゃうんだね。先生もついつい言いたくなっちゃうんだよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-23-Teacher-Turn-01.wav|0|どしたの？そんなにムカつくなんてめずらしいね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-23-Teacher-Turn-02.wav|0|オシャレに目覚めるお年頃だもんね。でもさ、校則でしょ？私から言わせると、校則をちゃんと守る男子の方がずっとカッコいいよ！オシャレは学校以外でしようよ！
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-24-Teacher-Turn-01.wav|0|遅刻は良くないわよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-24-Teacher-Turn-02.wav|0|もっと早く寝るようにしなくちゃね！社会に出たら、自己管理は基本よ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-25-Teacher-Turn-01.wav|0|注意されたのは、何か思い当たる？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-25-Teacher-Turn-02.wav|0|遅刻してしまう原因を考えてみようか。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-26-Teacher-Turn-01.wav|0|大変だったね。でも、注意されるのってありがたいことよ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-26-Teacher-Turn-02.wav|0|あなたがもっと良くなるために言ってくれたんだから。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-27-Teacher-Turn-01.wav|0|何人ぐらいで騒いでたの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-27-Teacher-Turn-02.wav|0|たまたまだよ、そんなの。誰かを注意しておかなくちゃいけないから、たまたま選ばれただけ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-28-Teacher-Turn-01.wav|0|生活態度を改めればいんじゃない？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-28-Teacher-Turn-02.wav|0|善は急げよ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-29-Teacher-Turn-01.wav|0|なになに、どうしたの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-29-Teacher-Turn-02.wav|0|どんな事をアドバイスしてもらったのか教えてよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-30-Teacher-Turn-01.wav|2|どうしたの？普段、口に出して「イライラする」なんて言わないのに。よっぽど何かあったの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-30-Teacher-Turn-02.wav|0|あー…。でも、学校って決まりごとが多いから、そういうこと、私も高校生の時に経験したなぁ。今思えば、規則を守ろうっていい教訓だったなって思うけど…。でも、部活が出来なくなるのも嫌だと思うし、早めに解決しちゃったら？嫌なことは早めに解決して済ませるのが一番だよ！
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-31-Teacher-Turn-01.wav|0|でも、行く必要があったんでしょ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-31-Teacher-Turn-02.wav|0|それをちゃんと先生に説明すればよかったんじゃないの？今度からそうしなよ。先生も理解してくれるはずだし。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-32-Teacher-Turn-01.wav|0|あんまり細かいことまで注意されるとしんどいよね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-32-Teacher-Turn-02.wav|0|その気持ちはわかるけど、「いい大人に育って欲しい」っていう先生の思いやりかもしれないよ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-33-Teacher-Turn-01.wav|0|ちゃんと毎晩眠れているの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-33-Teacher-Turn-02.wav|0|毎日頑張っているね。だけど、時間を守るのは大切なことだよ？寝るときはしっかり寝て、遅刻しないようにね？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-34-Teacher-Turn-01.wav|0|トイレに行くのはいいのだけど、何も言わずに勝手に教室を抜け出しちゃダメだよ。そりゃ怒られちゃうよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-34-Teacher-Turn-02.wav|0|急ぐ気持ちも分かるけど、次にトイレに行く時は、先生にひとこと伝えるようにしようね。勝手に抜け出すと、また怒られちゃうからね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-35-Teacher-Turn-01.wav|0|なんて注意されたの？そんなにムカつくことなの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-35-Teacher-Turn-02.wav|0|そうかー。ムカつく気持ちも良くわかるけど、それなら私もその先生に賛成だな！だって、上履きをちゃんと履いていないと危ないよ？学校の廊下って滑りやすいし、いつ地震とか来るかわからないし。慌てて走ったりすると、転んだりして危険だよ？隣のクラスの先生も、きみの身の安全を思って注意してくれたんだから、私は私の可愛い生徒を守ってくれてありがとう！と思うなぁ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-36-Teacher-Turn-01.wav|0|あいつって、誰のこと？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-36-Teacher-Turn-02.wav|0|それって、あなたに期待してるってことでしょ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-37-Teacher-Turn-01.wav|2|そうだよね。怒られるのは嫌な気分になるよね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-37-Teacher-Turn-02.wav|0|怒られるってことは期待されてるってことだから、そういうふうに前向きに捉えてみようよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-38-Teacher-Turn-01.wav|0|でも、勉強ができないと、希望の大学にも行けないし、やりたい仕事にも就けないわよ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-38-Teacher-Turn-02.wav|0|そんな言い方をする大人たちを、これからずっと相手にしていくのよ？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-39-Teacher-Turn-01.wav|0|その原因は何か考えないと、解決はできないよね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-39-Teacher-Turn-02.wav|0|あなたは若いし、反省すれば怒られないようになるよね！
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-40-Teacher-Turn-01.wav|0|まあ、まあ。それが先生の仕事だから。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-40-Teacher-Turn-02.wav|0|気持ちはわかる。一緒にしないでほしいよね。ま、これからは遅刻しないように頑張ろう！
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-41-Teacher-Turn-01.wav|0|どうしたの？何、注意されたの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-41-Teacher-Turn-02.wav|0|期待してない子には注意しないよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-42-Teacher-Turn-01.wav|2|あらら。親の前で急に言われてもね。事情も聞かないで、決めつけてくるのも良くないね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-42-Teacher-Turn-02.wav|0|自分の信じる道を取った方がいいよ。行きたい大学のためのバイトなんだし、胸を張って言い返しちゃいなよ。そんな立派な子なかなかいないよ？普通は応援するのにね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-43-Teacher-Turn-01.wav|0|ああ、あなたの学校、染めるの禁止だっけ？そこまで髪色目立たないけどね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-43-Teacher-Turn-02.wav|0|注意されないギリギリのラインを検証してみたら？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-44-Teacher-Turn-01.wav|0|おしゃれしたい気持ちは仕方ないね。先生も高校の頃同じようなことあった。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-44-Teacher-Turn-02.wav|0|そうだよね。でも、高校卒業したら自分の好きなおしゃれを好きなだけ楽しめるからね。それまでのちょっとの辛抱だから、頑張ろう。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-45-Teacher-Turn-01.wav|2|そんな事でいちいち口うるさいって、ちょっと嫌よね。ほかに誰もいなかったの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-45-Teacher-Turn-02.wav|0|あ、そこまで冷静に理由を考えられるんだ。逆に大人っていうか、観察力すごいかも。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-46-Teacher-Turn-01.wav|0|学校で何かあったの？先生はなんて言ってるの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-46-Teacher-Turn-02.wav|0|そっかー。大人って些細な事で子供を注意してしまう性質なのよ。君ももしかしたら、大人になったらわかるかもしれないけど、辛いよね。その理不尽に怒られた気持ち、わかるわ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-47-Teacher-Turn-01.wav|0|あー、あるある。結構年配の先生とかさ、気にするよね。私もあったよ。学生の頃。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-47-Teacher-Turn-02.wav|0|そんな考え方もあるよね。でも、社会に出た時に、礼儀ができていないと注意されるし、自分がその先生の立場ならどう？ちょっと考えてみて。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-48-Teacher-Turn-01.wav|0|当たり前じゃない。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-48-Teacher-Turn-02.wav|0|しょうがないわね。ゲームする時間決めたほうがいいわね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-49-Teacher-Turn-01.wav|0|でも遅刻はよくないよ。せっかく勉強や部活で頑張ってるのに、そこでマイナスの印象持たれるの、もったいないよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-49-Teacher-Turn-02.wav|0|あったなー、１回だけ。多分、ほかの先生も学生時代はあったと思うよ？けど、遅刻はいいことじゃないから、気を付けようね？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-50-Teacher-Turn-01.wav|0|あら、授業中にみていたのかしら。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-50-Teacher-Turn-02.wav|0|やっぱりルールは守らないとね！授業には集中しないとね？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-51-Teacher-Turn-01.wav|0|何があったかしらないけど、先生もよく見てるからね？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-51-Teacher-Turn-02.wav|0|きみのためを思ってだよ！きっと。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-52-Teacher-Turn-01.wav|0|頭ごなしに怒られると、誰だってイヤな気持ちになるよね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-52-Teacher-Turn-02.wav|0|確かに、生徒の言い分まったく聞けない先生もいるよね。落ち込んでもしかたないし、早く気持ちを切り替えたほうがいいよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-53-Teacher-Turn-01.wav|0|私は、かっこいいし清潔感あると思うけどなあ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-53-Teacher-Turn-02.wav|1|成績が良ければ何も言われなくなるよ！
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-54-Teacher-Turn-01.wav|0|なにー？何か悪いことやったの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-54-Teacher-Turn-02.wav|0|あれ？あの学校、バイト禁止なんだっけ。厳しいね。まぁ、卒業してから、思いっきりやればいいじゃない。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-55-Teacher-Turn-01.wav|0|どうしたの？授業中に何度も寝ているのかな。疲れているの？何かあったのかな。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-55-Teacher-Turn-02.wav|0|そうなんだ。アルバイトをはじめたせいもあって、授業中は眠る回数が増えたんだね。ちょっとよくないことが重なっている感じがするね。でも、そんななかでも学校を休まず、面白くない授業にも出て、がんばろうとしているところは、すごいと思うよ！
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-56-Teacher-Turn-01.wav|0|先生に対しての挨拶ってこと？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-56-Teacher-Turn-02.wav|0|社会人になると挨拶ってすごく大切だから、いまから身につけておいて損はないと思うよ。わかるけどね、気持ちは。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-57-Teacher-Turn-01.wav|0|今まで黙認だったのに、急に注意されるとびっくりするね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-57-Teacher-Turn-02.wav|0|いきなり注意するんじゃなくって、警告とかしてほしいよね。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-58-Teacher-Turn-01.wav|0|心当たりないの？一個も？それは顧問の先生が変だね。でも、本当に原因ないのかな？叱られると萎縮しちゃうけどさ、一回、言葉の意味を、もう一度噛み砕いてみてごらん？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-58-Teacher-Turn-02.wav|0|思い出せてよかった。うん！もし反省する気があるなら、明日にでももう一度顧問の先生に会って謝ってきなよ。先生許してくれると思うよ。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-59-Teacher-Turn-01.wav|0|あら、どうしたの？
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-59-Teacher-Turn-02.wav|0|でも、規則は規則よ？ルールを守ることを教えるのも学校の役割なんだから。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-60-Teacher-Turn-01.wav|2|それくらいの長さで怒られたの？それはちょっとかわいそう。
+dataset/STUDIES/Short_dialogue/SD03/wav/SD03-Dialogue-60-Teacher-Turn-02.wav|0|きみは間違った事をしてないと思うから、切るべきじゃないよ。
 dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-01-Teacher-Turn-01.wav|2|そんなに怒って、どうしたの？
 dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-01-Teacher-Turn-02.wav|0|分かるよ。でも、部活頑張らなきゃ！応援してるから！
 dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-02-Teacher-Turn-01.wav|2|そうね。何もなくて怒るならありえないけど…。心当たりないの？
@@ -1814,56 +1814,56 @@ dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-33-Teacher-Turn-01.wav|0|�
 dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-33-Teacher-Turn-02.wav|0|なるほど。きっと、期待しているから、つい言ってしまったのね。明日からどんどんアピールして、見返してやろう？
 dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-34-Teacher-Turn-01.wav|0|随分と深刻な悩みね。なにがあったの？
 dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-34-Teacher-Turn-02.wav|0|そうなんだ。叱った理由が分からないけど、私はきみを信じている。きっと、叱られた方も思い当たる節があるからこその行動だと思うな。なのでもう少し様子を見よう。明日はとりあえず顔を出してみようよ。さあ、元気を出していこう！
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-35-Teacher-Turn-01.wav|0|そんなことないよ。塾でもコツコツと確実に課題をこなしていく姿を私はちゃんと見ている。部活のみんなも、あなたの真面目な姿を見ているよ。顧問の先生も、あなたの事を期待して、叱咤激励しているのかもしれないよ？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-35-Teacher-Turn-02.wav|0|えー？でも、どれぐらい遅刻してるの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-36-Teacher-Turn-01.wav|0|そっかー。でも毎日だったら、例え５分でも、ちょっと問題だね。みんな揃わないと全体練習できないから、個人の練習から始めてるのかもよ？お腹痛いとか理由がある時はしょうがないけど、普段は遅れないようにしないとね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-36-Teacher-Turn-02.wav|2|しょうがないところもあるけど、大変だよね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-37-Teacher-Turn-01.wav|0|じゃあ今日は、得意な科目を頑張ってみようか！
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-37-Teacher-Turn-02.wav|0|あなたがやってはいけないことをしているから、注意しているのよ。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-38-Teacher-Turn-01.wav|0|ちゃんと反省して、今後の人生に活かしてね？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-38-Teacher-Turn-02.wav|0|何があったの。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-39-Teacher-Turn-01.wav|0|なるほどね。ちょっとしたミスなんかで注意されないように、次に活かせるといいね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-39-Teacher-Turn-02.wav|0|なに？何か悩みでもあるの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-40-Teacher-Turn-01.wav|0|バスケだっけ。名門校だから、勝って当たり前だもんね。まあ、目指すところが高いとそうなるよ。特に、あなたはキャプテンだから叱られ役だしね。きっと、「もっとできるだろ！」という意味合いでの叱咤激励だと思うよ。次の試合で見返しちゃおう！
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-40-Teacher-Turn-02.wav|0|どうしたの？怒られてたけど、何かあったの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-41-Teacher-Turn-01.wav|0|まあまあ、私に話してみなよ。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-41-Teacher-Turn-02.wav|0|もっともっとキャプテンには成長してもらいたいと思って、はっぱかけてるだけだよ。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-42-Teacher-Turn-01.wav|0|それだけあなたを気にかけてる証でもあるのよ？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-42-Teacher-Turn-02.wav|0|怒ることでしか愛情を伝えられない人もいるの。でも、あなたが嫌いな訳じゃない。本質を見て。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-43-Teacher-Turn-01.wav|2|あなたのことを思って注意したんだと思うけど、言い方がキツイと、素直に悪かったって思えないよね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-43-Teacher-Turn-02.wav|0|先生の中にもいろんな人がいるから、今回は運が悪かったと思って、気持ちを切り替えたらどうかな？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-44-Teacher-Turn-01.wav|0|珍しいじゃん！そんなにイライラするなんて。よっぽど嫌な言い方されたんだね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-44-Teacher-Turn-02.wav|0|そうだよね。言い方は大事だよね。また嫌なこと言われたら話聞くからさ、そのイライラをやる気に変えて、今日も頑張っちゃおう！そしたら、嫌なことも役に立ってる事になるよ！
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-45-Teacher-Turn-01.wav|2|何かしたの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-45-Teacher-Turn-02.wav|0|あなたがもっと頑張れるように言ったんじゃないのかな？私はそう思うな。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-46-Teacher-Turn-01.wav|0|そんなに怒って、どうしたの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-46-Teacher-Turn-02.wav|0|そのミスって、仕方のないものだったの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-47-Teacher-Turn-01.wav|0|あなたが顧問の立場なら、どうすると思うの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-47-Teacher-Turn-02.wav|0|わかってるじゃない！何も言ってくれない顧問なんて、逆に寂しいよ？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-48-Teacher-Turn-01.wav|0|注意されただけで辞めるの？悔しくないの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-48-Teacher-Turn-02.wav|0|諦めるのは簡単よ。でも、続けた先にしか掴めない喜びや楽しみまで失うことになるのよ。もう一度考えて。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-49-Teacher-Turn-01.wav|0|何があったの?
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-49-Teacher-Turn-02.wav|2|そうか、理不尽なことがあったんだね。もう少し話聞くよ？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-50-Teacher-Turn-01.wav|0|どうしたの？「急に試合に出られない」とか、「自分が嫌になる」とか言い出して。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-50-Teacher-Turn-02.wav|0|そうだったの。それは自分に対しても怒ったり、悲しい気持ちになったりするよね。同じことを繰り返してしまったことに気づいたってことは、修正しようがあったんじゃないのかな。試合に出られないという気持ちがあるかもしれないけれど、そのほかに注意されていることはないかな？今回注意されていることでもいいし、ほかのことでも、ミスを少しでも減らせそうなことがあれば教えてほしいな。私、専門じゃないけど、一緒に考えてあげるから。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-51-Teacher-Turn-01.wav|2|そうかぁ。それは顧問の先生、ちょっといただけないなぁ。あんまりだよね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-51-Teacher-Turn-02.wav|0|本当だよね。よくわかるよ、その気持ち。じゃあさ、もっと練習頑張って、試合で勝って、その先生を見返しちゃおう！ 期待してるよ！
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-52-Teacher-Turn-01.wav|0|夏休みまで干渉してくるなんて。部活行った時？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-52-Teacher-Turn-02.wav|0|まあね。制服着てたらダメだけど。別に夏休みの私服の時だったらって思うよね。でも、学校出入りしてるから、やっぱり、万が一、入学希望の中学生とかが勘違いするかも。学校に行くときは、ちょっとまずかったかもねー。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-53-Teacher-Turn-01.wav|0|キャプテンだっけ。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-53-Teacher-Turn-02.wav|0|あなたは普段からしっかりしてるから、キャプテンを助けながら、一緒に頑張ってもらいたいと思われてるんだよ、きっと。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-54-Teacher-Turn-01.wav|2|そっかぁ、それは大変だったね。なんか怒られるようなことしたの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-54-Teacher-Turn-02.wav|0|寝坊で遅刻かぁ。そりゃ良くない。さては、前の日勉強しすぎたなぁ？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-55-Teacher-Turn-01.wav|0|そうなの？コートの整備をしなかったの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-55-Teacher-Turn-02.wav|0|そうかあ。でも、きちんと整備している子もいるんだよね？その子たちから見たら、ずるいなあって思われちゃうよね？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-56-Teacher-Turn-01.wav|0|ちゃんと落ち着いて、目を見て話した？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-56-Teacher-Turn-02.wav|0|そっか…。もしかしたら、先生もいっぱいいっぱいだったのかも。先生も人間だからね。もう一度話したいって言ってごらん？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-57-Teacher-Turn-01.wav|2|うん、そうだね。怒鳴ってもしかたないのにね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-57-Teacher-Turn-02.wav|0|怒鳴られると、それだけで話聞く気にならないよね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-58-Teacher-Turn-01.wav|0|思い当たることあるの？
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-58-Teacher-Turn-02.wav|0|そうか。練習いっぱいして、今度はうまくいくといいよね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-59-Teacher-Turn-01.wav|2|そんなふうに言われたらショックだね。
-dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-59-Teacher-Turn-02.wav|0|でも、その先生を見返すために頑張り続けるのもいいんじゃない？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-35-Teacher-Turn-02.wav|0|そんなことないよ。塾でもコツコツと確実に課題をこなしていく姿を私はちゃんと見ている。部活のみんなも、あなたの真面目な姿を見ているよ。顧問の先生も、あなたの事を期待して、叱咤激励しているのかもしれないよ？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-36-Teacher-Turn-01.wav|0|えー？でも、どれぐらい遅刻してるの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-36-Teacher-Turn-02.wav|0|そっかー。でも毎日だったら、例え５分でも、ちょっと問題だね。みんな揃わないと全体練習できないから、個人の練習から始めてるのかもよ？お腹痛いとか理由がある時はしょうがないけど、普段は遅れないようにしないとね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-37-Teacher-Turn-01.wav|2|しょうがないところもあるけど、大変だよね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-37-Teacher-Turn-02.wav|0|じゃあ今日は、得意な科目を頑張ってみようか！
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-38-Teacher-Turn-01.wav|0|あなたがやってはいけないことをしているから、注意しているのよ。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-38-Teacher-Turn-02.wav|0|ちゃんと反省して、今後の人生に活かしてね？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-39-Teacher-Turn-01.wav|0|何があったの。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-39-Teacher-Turn-02.wav|0|なるほどね。ちょっとしたミスなんかで注意されないように、次に活かせるといいね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-40-Teacher-Turn-01.wav|0|なに？何か悩みでもあるの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-40-Teacher-Turn-02.wav|0|バスケだっけ。名門校だから、勝って当たり前だもんね。まあ、目指すところが高いとそうなるよ。特に、あなたはキャプテンだから叱られ役だしね。きっと、「もっとできるだろ！」という意味合いでの叱咤激励だと思うよ。次の試合で見返しちゃおう！
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-41-Teacher-Turn-01.wav|0|どうしたの？怒られてたけど、何かあったの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-41-Teacher-Turn-02.wav|0|まあまあ、私に話してみなよ。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-42-Teacher-Turn-02.wav|0|もっともっとキャプテンには成長してもらいたいと思って、はっぱかけてるだけだよ。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-43-Teacher-Turn-01.wav|0|それだけあなたを気にかけてる証でもあるのよ？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-43-Teacher-Turn-02.wav|0|怒ることでしか愛情を伝えられない人もいるの。でも、あなたが嫌いな訳じゃない。本質を見て。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-44-Teacher-Turn-01.wav|2|あなたのことを思って注意したんだと思うけど、言い方がキツイと、素直に悪かったって思えないよね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-44-Teacher-Turn-02.wav|0|先生の中にもいろんな人がいるから、今回は運が悪かったと思って、気持ちを切り替えたらどうかな？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-45-Teacher-Turn-01.wav|0|珍しいじゃん！そんなにイライラするなんて。よっぽど嫌な言い方されたんだね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-45-Teacher-Turn-02.wav|0|そうだよね。言い方は大事だよね。また嫌なこと言われたら話聞くからさ、そのイライラをやる気に変えて、今日も頑張っちゃおう！そしたら、嫌なことも役に立ってる事になるよ！
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-46-Teacher-Turn-01.wav|2|何かしたの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-46-Teacher-Turn-02.wav|0|あなたがもっと頑張れるように言ったんじゃないのかな？私はそう思うな。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-47-Teacher-Turn-01.wav|0|そんなに怒って、どうしたの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-47-Teacher-Turn-02.wav|0|そのミスって、仕方のないものだったの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-48-Teacher-Turn-01.wav|0|あなたが顧問の立場なら、どうすると思うの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-48-Teacher-Turn-02.wav|0|わかってるじゃない！何も言ってくれない顧問なんて、逆に寂しいよ？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-49-Teacher-Turn-01.wav|0|注意されただけで辞めるの？悔しくないの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-49-Teacher-Turn-02.wav|0|諦めるのは簡単よ。でも、続けた先にしか掴めない喜びや楽しみまで失うことになるのよ。もう一度考えて。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-50-Teacher-Turn-01.wav|0|何があったの?
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-50-Teacher-Turn-02.wav|2|そうか、理不尽なことがあったんだね。もう少し話聞くよ？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-51-Teacher-Turn-01.wav|0|どうしたの？「急に試合に出られない」とか、「自分が嫌になる」とか言い出して。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-51-Teacher-Turn-02.wav|0|そうだったの。それは自分に対しても怒ったり、悲しい気持ちになったりするよね。同じことを繰り返してしまったことに気づいたってことは、修正しようがあったんじゃないのかな。試合に出られないという気持ちがあるかもしれないけれど、そのほかに注意されていることはないかな？今回注意されていることでもいいし、ほかのことでも、ミスを少しでも減らせそうなことがあれば教えてほしいな。私、専門じゃないけど、一緒に考えてあげるから。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-52-Teacher-Turn-01.wav|2|そうかぁ。それは顧問の先生、ちょっといただけないなぁ。あんまりだよね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-52-Teacher-Turn-02.wav|0|本当だよね。よくわかるよ、その気持ち。じゃあさ、もっと練習頑張って、試合で勝って、その先生を見返しちゃおう！ 期待してるよ！
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-53-Teacher-Turn-01.wav|0|夏休みまで干渉してくるなんて。部活行った時？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-53-Teacher-Turn-02.wav|0|まあね。制服着てたらダメだけど。別に夏休みの私服の時だったらって思うよね。でも、学校出入りしてるから、やっぱり、万が一、入学希望の中学生とかが勘違いするかも。学校に行くときは、ちょっとまずかったかもねー。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-54-Teacher-Turn-01.wav|0|キャプテンだっけ。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-54-Teacher-Turn-02.wav|0|あなたは普段からしっかりしてるから、キャプテンを助けながら、一緒に頑張ってもらいたいと思われてるんだよ、きっと。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-55-Teacher-Turn-01.wav|2|そっかぁ、それは大変だったね。なんか怒られるようなことしたの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-55-Teacher-Turn-02.wav|0|寝坊で遅刻かぁ。そりゃ良くない。さては、前の日勉強しすぎたなぁ？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-56-Teacher-Turn-01.wav|0|そうなの？コートの整備をしなかったの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-56-Teacher-Turn-02.wav|0|そうかあ。でも、きちんと整備している子もいるんだよね？その子たちから見たら、ずるいなあって思われちゃうよね？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-57-Teacher-Turn-01.wav|0|ちゃんと落ち着いて、目を見て話した？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-57-Teacher-Turn-02.wav|0|そっか…。もしかしたら、先生もいっぱいいっぱいだったのかも。先生も人間だからね。もう一度話したいって言ってごらん？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-58-Teacher-Turn-01.wav|2|うん、そうだね。怒鳴ってもしかたないのにね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-58-Teacher-Turn-02.wav|0|怒鳴られると、それだけで話聞く気にならないよね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-59-Teacher-Turn-01.wav|0|思い当たることあるの？
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-59-Teacher-Turn-02.wav|0|そうか。練習いっぱいして、今度はうまくいくといいよね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-60-Teacher-Turn-01.wav|2|そんなふうに言われたらショックだね。
+dataset/STUDIES/Short_dialogue/SD04/wav/SD04-Dialogue-60-Teacher-Turn-02.wav|0|でも、その先生を見返すために頑張り続けるのもいいんじゃない？
 dataset/STUDIES/Short_dialogue/SD05/wav/SD05-Dialogue-01-Teacher-Turn-01.wav|2|うーん、テスト勉強頑張ったのに、思うような結果にならなかったんだね。
 dataset/STUDIES/Short_dialogue/SD05/wav/SD05-Dialogue-01-Teacher-Turn-02.wav|0|ケアレスミスは、テストの回答が終わった後に見直しすることで防ぐ事ができるから、次は入念に見直しをしてミスが無くなるように頑張ろう！
 dataset/STUDIES/Short_dialogue/SD05/wav/SD05-Dialogue-02-Teacher-Turn-01.wav|2|あれっ、元気ないね。溜息なんてついてどうしたの？
@@ -2134,92 +2134,92 @@ dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-14-Teacher-Turn-01.wav|0|�
 dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-14-Teacher-Turn-02.wav|0|女の子が怪我するのを心配してくれてたんじゃないかな？滑ったり転んだりすると危ないから。
 dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-15-Teacher-Turn-01.wav|0|どうした、何かあった？
 dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-15-Teacher-Turn-02.wav|0|まあまあ。それも先生の仕事なんだよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-16-Teacher-Turn-01.wav|0|先生が勘違いしちゃったんだね。明日、落ち着いてちゃんと説明したほうがいいかもよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-16-Teacher-Turn-02.wav|0|それはそうよ。怒られるわよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-17-Teacher-Turn-01.wav|0|先生の時代はスマホなんかなかったんだから、スマホなんてなくても生きていけるわよ。受験生なんだから、勉強に集中しましょう？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-17-Teacher-Turn-02.wav|0|そうなの？自然な茶色なのにね。校則で禁止されてる？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-18-Teacher-Turn-01.wav|0|そうなんだ。禁止されてないならムカつくね！でも、受験生だから、そんなことしないで勉強しなさいって、先生も思っちゃったのかもね？結果で見返せば、学校の先生も黙るよ。頑張って見返そう！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-18-Teacher-Turn-02.wav|0|あるよ、どうしたの？学校で怒られちゃった？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-19-Teacher-Turn-01.wav|2|そっか、３回か。ちょっと多いね。怒鳴るのは良くないけど。たまたま寝坊で、遅刻しただけ？それとも、体調不良とか大丈夫？お話聞こうか？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-19-Teacher-Turn-02.wav|0|そうなんだ。年頃だからお化粧したいよね。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-20-Teacher-Turn-01.wav|0|うん、わかるよ。でも、学校側の気持ちもわかるから、目立たないけど映えるナチュラルメイクの仕方を授業の後教えてあげるよ。勉強頑張ろう！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-20-Teacher-Turn-02.wav|0|そうか、それでしかめっ面してたんだー。わたしのこと、怒ってるのかと心配しちゃった！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-21-Teacher-Turn-01.wav|0|そうだね、おしゃれは楽しいものね！でも、校則は守らなきゃ。あなたはどんな髪型でも似合って可愛いし、学校と学校以外とで違った髪型のおしゃれを楽しめるって考えたらどうかな？そんな考え方もステキなんじゃない？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-21-Teacher-Turn-02.wav|0|何が駄目なの？どんなふうに言われたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-22-Teacher-Turn-01.wav|2|可愛いのにね。見た目と中身は関係ないのにね。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-22-Teacher-Turn-02.wav|0|そんなこと言ったの？すごくない？その返しが秀逸すぎる。でも、本当そうだよね、「なんで生徒だけダメなの？」って。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-23-Teacher-Turn-01.wav|0|わかる、わかる。私も同じこと思うかも。理由を言ってくれないと納得できないよね。社会ってそういう理不尽なことあるよね。きっと勉強に集中してほしいっていうことの裏返しなんだよ。ちょっと納得いかないけど、そういう考え方もあるかって流してみて！土日にめっちゃオシャレすればいいよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-23-Teacher-Turn-02.wav|0|そうなの？何かあった？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-24-Teacher-Turn-01.wav|0|受験前に色々と考えてしまうのは、みんなあることだからね。心配事があるなら、一緒に解決法を考えよう？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-24-Teacher-Turn-02.wav|0|遅刻かー、私も高校生の頃はよくしたな！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-25-Teacher-Turn-01.wav|0|夜遅くまで友達と電話してたり、夜更かししてたからね。今思うと、遅刻してた事は、ちょっとだけダサいなって後悔することもあるかな。でも、青春の1ページみたいなものだから、容認するわけじゃないけど、なるべく遅刻しないようにしてくれると、人生の先輩としてわたしも嬉しいかなと思うよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-25-Teacher-Turn-02.wav|0|校則で決まった長さを守っていなかったのかしら。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-26-Teacher-Turn-01.wav|0|ルールは守るためにあるものよ？社会の厳しさを教えてくださったのよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-26-Teacher-Turn-02.wav|0|どうしたの？なんで注意されたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-27-Teacher-Turn-01.wav|0|わかるなぁ。私も高校生の時、おんなじことあった！でも、おしゃべりしながらでも、ちゃんと掃除してたのは偉いよ！そこはちゃんと認めてほしいよね？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-27-Teacher-Turn-02.wav|0|いいところを見るようにしたら？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-28-Teacher-Turn-01.wav|0|完璧な人なんていないんだしさ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-28-Teacher-Turn-02.wav|0|女子はついつい話が楽しくなっちゃうもんね？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-29-Teacher-Turn-01.wav|0|まあね。注意するのも先生の仕事の一部だからしょうがないかもね！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-29-Teacher-Turn-02.wav|0|ひどい言いようね。どうしたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-30-Teacher-Turn-01.wav|0|規則の中でどれだけ個性を出せるかが面白いんじゃない？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-30-Teacher-Turn-02.wav|0|毎朝校門検査してるんだ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-31-Teacher-Turn-01.wav|0|ちょっと短い方がかわいいもんね。わかるわかる！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-31-Teacher-Turn-02.wav|0|なにかあったの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-32-Teacher-Turn-01.wav|0|うーん、校則で髪を染めるのは禁止なんだよね。それなら、校則を守らないといけないよ？ファッションにこだわりたい気持ちもわかるけど、ルールは守らないといけないよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-32-Teacher-Turn-02.wav|0|自由な髪型にしたい気持ちも分かるけど、ルールというのは守らないといけないからね！社会には色々な規則やルールがあって、みんなで規則やルールを守る事で安定した社会が作られているんだよ？だから、少し面倒でもルールは守ろうね！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-33-Teacher-Turn-01.wav|0|えー、そんなことまで干渉してくるの？嫌だね。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-33-Teacher-Turn-02.wav|0|同じ学校同士なら、別に同じ方向だから一緒に来ることもあるのにね。それに、恋人じゃなくて男女の友達同士も注意するの？って感じだね！あんま気にしない方がいいよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-34-Teacher-Turn-01.wav|0|着替えの時間って結構短いもんね？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-34-Teacher-Turn-02.wav|0|男の先生だと理解してくれない人もいるよね！私が高校生の時もそうだったもん。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-35-Teacher-Turn-01.wav|0|そういう時あるよね。わかるー。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-35-Teacher-Turn-02.wav|0|そう？私も昔、先生達に素直になれない時あったなー。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-36-Teacher-Turn-01.wav|0|そんなことないわよ！綺麗だと思うよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-36-Teacher-Turn-02.wav|0|個性を理解してもらえなくて残念だけど、社会に出れば全く問題ないから気にしないで！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-37-Teacher-Turn-01.wav|0|叩くのは良くないよね！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-37-Teacher-Turn-02.wav|0|まあ、寝てた方も悪いけどね。口頭で注意してくれるならありがたいのにね？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-38-Teacher-Turn-01.wav|0|いちいちうるさいよね。生活指導とか。そんな買い替えられないからしょうがないじゃんね？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-38-Teacher-Turn-02.wav|0|わかる。短すぎると満員電車とか危ない時もあるから、親切心かもしれないけどさ。個別の事情までは学校の先生って考慮してくれないよね。もう半年だから新しく買えませんって言ってみたら？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-39-Teacher-Turn-01.wav|0|どうしたの？怒られた？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-39-Teacher-Turn-02.wav|0|まあ、学校は全てが共有スペースだからね。多少は大目に見てほしい気もするけど。私もよく叱られてたけど、今ではいい思い出だよ！これからも明るく、楽しく、元気よくやっていこう！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-40-Teacher-Turn-01.wav|0|私も、思春期の時は結構そうだったよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-40-Teacher-Turn-02.wav|0|心配しないで大丈夫だよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-41-Teacher-Turn-01.wav|0|あなたに原因があるなら、ちゃんと反省すれば注意されなくなるよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-41-Teacher-Turn-02.wav|0|今からでも遅くないし、頑張ってね！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-42-Teacher-Turn-01.wav|2|勉強に差し障りが出るのは、私の立場では一番困っちゃう。何があったの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-42-Teacher-Turn-02.wav|0|相手の先生まだ若いでしょ。それは腹たつね！多分職員室で立場が低いから、そのイライラが出たんじゃない？きっと今頃後悔してるよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-43-Teacher-Turn-01.wav|0|あー、分かるよー！こんなこと気にする？って思ってたもん。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-43-Teacher-Turn-02.wav|0|でも、卒業したら懐かしいよ？時間は戻せないけどね。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-44-Teacher-Turn-01.wav|0|気持ちは分かるよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-44-Teacher-Turn-02.wav|1|いつでも相談にのるからね！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-45-Teacher-Turn-01.wav|2|何かあったの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-45-Teacher-Turn-02.wav|2|何が足りないのかな。毎日頑張ってるのにね。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-46-Teacher-Turn-01.wav|0|私はそうは思わないけど。でも、人によってはそう思う人もいるかもよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-46-Teacher-Turn-02.wav|0|反省してて偉いよ！次から気をつけようね！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-47-Teacher-Turn-01.wav|0|授業中に携帯は、良くないんじゃない？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-47-Teacher-Turn-02.wav|0|携帯は、休み時間でいいんじゃない？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-48-Teacher-Turn-01.wav|0|どうして怒られたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-48-Teacher-Turn-02.wav|0|給食食べた後は眠たくなるよねー？いつも勉強をがんばってる証拠だよ！
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-49-Teacher-Turn-01.wav|0|みんなも注意されてないの？あなただけなんて不公平だね。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-49-Teacher-Turn-02.wav|0|きっとね。でも、先生に目をつけられるようなことはしないほうがいいよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-50-Teacher-Turn-01.wav|0|そうかー。結構厳しいの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-50-Teacher-Turn-02.wav|0|そうなんだ。卒業したら自由だから、今だけ我慢だよー。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-51-Teacher-Turn-01.wav|0|なんで呼ばれたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-51-Teacher-Turn-02.wav|0|それは、良くないんじゃない？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-52-Teacher-Turn-01.wav|0|どうしたどうした！怒った顔、似合わないよ？原因はなんだと思う？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-52-Teacher-Turn-02.wav|0|お！偉いじゃん！反省してる。もしかしたら、顧問の先生は言い方キツかったかもしれないけど、仲間割れはよくないからね。どんな理由であれ、落ち着いて話せるようになるといいね！あなたなら出来るよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-53-Teacher-Turn-01.wav|0|まあそうだよね。日本の学校ってさ、団体行動の強制が嫌だよね。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-53-Teacher-Turn-02.wav|0|今も昔も変わってないな。って言っても、数年前だけど、私の頃も同じだった。我慢してやり過ごすか、自由意思を制限してくることのおかしさを訴えるか。どっちか好きな方で、学校に相談してみれば？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-54-Teacher-Turn-01.wav|0|そんなに怒って、どうしたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-54-Teacher-Turn-02.wav|0|なつかしい。でも、私が学生のころは、学校だけは普通の長さにして、外で短くしてたわよ？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-55-Teacher-Turn-01.wav|0|えっ、どうしたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-55-Teacher-Turn-02.wav|0|ちょっと話してみて？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-56-Teacher-Turn-01.wav|0|分かるな、その気持ち。そんなことでくよくよするのは損だと思うよ？そのことは忘れて、楽しいことを考えてみようよ。
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-56-Teacher-Turn-02.wav|0|どこを指摘されたの？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-57-Teacher-Turn-01.wav|0|厳しいね。バックに予備入れておけば？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-57-Teacher-Turn-02.wav|0|どうした、大丈夫かな？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-58-Teacher-Turn-01.wav|2|それは酷いわね。女性のつらさを分かっていないわね。私も一緒の気持ちよ。今はつらくない？大丈夫？つらかったら無理しないでね？体調辛いのに塾に来てくれてありがとうね？
-dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-58-Teacher-Turn-02.wav|0|若々しい可愛さはあるんだけど、女の子っぽさや上品さは長めのスカートの方があるし、男子からしたら長めの方が好感度高めだと思うなぁ？あなたもお嬢様系の可愛いタイプだから、長めのスカートも似合って素敵だと思うけどなぁ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-16-Teacher-Turn-02.wav|0|先生が勘違いしちゃったんだね。明日、落ち着いてちゃんと説明したほうがいいかもよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-17-Teacher-Turn-01.wav|0|それはそうよ。怒られるわよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-17-Teacher-Turn-02.wav|0|先生の時代はスマホなんかなかったんだから、スマホなんてなくても生きていけるわよ。受験生なんだから、勉強に集中しましょう？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-18-Teacher-Turn-01.wav|0|そうなの？自然な茶色なのにね。校則で禁止されてる？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-18-Teacher-Turn-02.wav|0|そうなんだ。禁止されてないならムカつくね！でも、受験生だから、そんなことしないで勉強しなさいって、先生も思っちゃったのかもね？結果で見返せば、学校の先生も黙るよ。頑張って見返そう！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-19-Teacher-Turn-01.wav|0|あるよ、どうしたの？学校で怒られちゃった？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-19-Teacher-Turn-02.wav|2|そっか、３回か。ちょっと多いね。怒鳴るのは良くないけど。たまたま寝坊で、遅刻しただけ？それとも、体調不良とか大丈夫？お話聞こうか？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-20-Teacher-Turn-01.wav|0|そうなんだ。年頃だからお化粧したいよね。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-20-Teacher-Turn-02.wav|0|うん、わかるよ。でも、学校側の気持ちもわかるから、目立たないけど映えるナチュラルメイクの仕方を授業の後教えてあげるよ。勉強頑張ろう！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-21-Teacher-Turn-01.wav|0|そうか、それでしかめっ面してたんだー。わたしのこと、怒ってるのかと心配しちゃった！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-21-Teacher-Turn-02.wav|0|そうだね、おしゃれは楽しいものね！でも、校則は守らなきゃ。あなたはどんな髪型でも似合って可愛いし、学校と学校以外とで違った髪型のおしゃれを楽しめるって考えたらどうかな？そんな考え方もステキなんじゃない？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-22-Teacher-Turn-01.wav|0|何が駄目なの？どんなふうに言われたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-22-Teacher-Turn-02.wav|2|可愛いのにね。見た目と中身は関係ないのにね。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-23-Teacher-Turn-01.wav|0|そんなこと言ったの？すごくない？その返しが秀逸すぎる。でも、本当そうだよね、「なんで生徒だけダメなの？」って。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-23-Teacher-Turn-02.wav|0|わかる、わかる。私も同じこと思うかも。理由を言ってくれないと納得できないよね。社会ってそういう理不尽なことあるよね。きっと勉強に集中してほしいっていうことの裏返しなんだよ。ちょっと納得いかないけど、そういう考え方もあるかって流してみて！土日にめっちゃオシャレすればいいよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-24-Teacher-Turn-01.wav|0|そうなの？何かあった？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-24-Teacher-Turn-02.wav|0|受験前に色々と考えてしまうのは、みんなあることだからね。心配事があるなら、一緒に解決法を考えよう？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-25-Teacher-Turn-01.wav|0|遅刻かー、私も高校生の頃はよくしたな！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-25-Teacher-Turn-02.wav|0|夜遅くまで友達と電話してたり、夜更かししてたからね。今思うと、遅刻してた事は、ちょっとだけダサいなって後悔することもあるかな。でも、青春の1ページみたいなものだから、容認するわけじゃないけど、なるべく遅刻しないようにしてくれると、人生の先輩としてわたしも嬉しいかなと思うよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-26-Teacher-Turn-01.wav|0|校則で決まった長さを守っていなかったのかしら。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-26-Teacher-Turn-02.wav|0|ルールは守るためにあるものよ？社会の厳しさを教えてくださったのよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-27-Teacher-Turn-01.wav|0|どうしたの？なんで注意されたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-27-Teacher-Turn-02.wav|0|わかるなぁ。私も高校生の時、おんなじことあった！でも、おしゃべりしながらでも、ちゃんと掃除してたのは偉いよ！そこはちゃんと認めてほしいよね？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-28-Teacher-Turn-01.wav|0|いいところを見るようにしたら？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-28-Teacher-Turn-02.wav|0|完璧な人なんていないんだしさ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-29-Teacher-Turn-01.wav|0|女子はついつい話が楽しくなっちゃうもんね？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-29-Teacher-Turn-02.wav|0|まあね。注意するのも先生の仕事の一部だからしょうがないかもね！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-30-Teacher-Turn-01.wav|0|ひどい言いようね。どうしたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-30-Teacher-Turn-02.wav|0|規則の中でどれだけ個性を出せるかが面白いんじゃない？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-31-Teacher-Turn-01.wav|0|毎朝校門検査してるんだ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-31-Teacher-Turn-02.wav|0|ちょっと短い方がかわいいもんね。わかるわかる！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-32-Teacher-Turn-01.wav|0|なにかあったの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-33-Teacher-Turn-01.wav|0|うーん、校則で髪を染めるのは禁止なんだよね。それなら、校則を守らないといけないよ？ファッションにこだわりたい気持ちもわかるけど、ルールは守らないといけないよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-33-Teacher-Turn-02.wav|0|自由な髪型にしたい気持ちも分かるけど、ルールというのは守らないといけないからね！社会には色々な規則やルールがあって、みんなで規則やルールを守る事で安定した社会が作られているんだよ？だから、少し面倒でもルールは守ろうね！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-34-Teacher-Turn-01.wav|0|えー、そんなことまで干渉してくるの？嫌だね。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-34-Teacher-Turn-02.wav|0|同じ学校同士なら、別に同じ方向だから一緒に来ることもあるのにね。それに、恋人じゃなくて男女の友達同士も注意するの？って感じだね！あんま気にしない方がいいよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-35-Teacher-Turn-01.wav|0|着替えの時間って結構短いもんね？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-35-Teacher-Turn-02.wav|0|男の先生だと理解してくれない人もいるよね！私が高校生の時もそうだったもん。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-36-Teacher-Turn-01.wav|0|そういう時あるよね。わかるー。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-36-Teacher-Turn-02.wav|0|そう？私も昔、先生達に素直になれない時あったなー。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-37-Teacher-Turn-01.wav|0|そんなことないわよ！綺麗だと思うよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-37-Teacher-Turn-02.wav|0|個性を理解してもらえなくて残念だけど、社会に出れば全く問題ないから気にしないで！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-38-Teacher-Turn-01.wav|0|叩くのは良くないよね！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-38-Teacher-Turn-02.wav|0|まあ、寝てた方も悪いけどね。口頭で注意してくれるならありがたいのにね？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-39-Teacher-Turn-01.wav|0|いちいちうるさいよね。生活指導とか。そんな買い替えられないからしょうがないじゃんね？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-39-Teacher-Turn-02.wav|0|わかる。短すぎると満員電車とか危ない時もあるから、親切心かもしれないけどさ。個別の事情までは学校の先生って考慮してくれないよね。もう半年だから新しく買えませんって言ってみたら？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-40-Teacher-Turn-01.wav|0|どうしたの？怒られた？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-40-Teacher-Turn-02.wav|0|まあ、学校は全てが共有スペースだからね。多少は大目に見てほしい気もするけど。私もよく叱られてたけど、今ではいい思い出だよ！これからも明るく、楽しく、元気よくやっていこう！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-41-Teacher-Turn-01.wav|0|私も、思春期の時は結構そうだったよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-41-Teacher-Turn-02.wav|0|心配しないで大丈夫だよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-42-Teacher-Turn-01.wav|0|あなたに原因があるなら、ちゃんと反省すれば注意されなくなるよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-42-Teacher-Turn-02.wav|0|今からでも遅くないし、頑張ってね！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-43-Teacher-Turn-01.wav|2|勉強に差し障りが出るのは、私の立場では一番困っちゃう。何があったの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-43-Teacher-Turn-02.wav|0|相手の先生まだ若いでしょ。それは腹たつね！多分職員室で立場が低いから、そのイライラが出たんじゃない？きっと今頃後悔してるよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-44-Teacher-Turn-01.wav|0|あー、分かるよー！こんなこと気にする？って思ってたもん。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-44-Teacher-Turn-02.wav|0|でも、卒業したら懐かしいよ？時間は戻せないけどね。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-45-Teacher-Turn-01.wav|0|気持ちは分かるよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-45-Teacher-Turn-02.wav|1|いつでも相談にのるからね！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-46-Teacher-Turn-01.wav|2|何かあったの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-46-Teacher-Turn-02.wav|2|何が足りないのかな。毎日頑張ってるのにね。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-47-Teacher-Turn-01.wav|0|私はそうは思わないけど。でも、人によってはそう思う人もいるかもよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-47-Teacher-Turn-02.wav|0|反省してて偉いよ！次から気をつけようね！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-48-Teacher-Turn-01.wav|0|授業中に携帯は、良くないんじゃない？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-48-Teacher-Turn-02.wav|0|携帯は、休み時間でいいんじゃない？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-49-Teacher-Turn-01.wav|0|どうして怒られたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-49-Teacher-Turn-02.wav|0|給食食べた後は眠たくなるよねー？いつも勉強をがんばってる証拠だよ！
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-50-Teacher-Turn-01.wav|0|みんなも注意されてないの？あなただけなんて不公平だね。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-50-Teacher-Turn-02.wav|0|きっとね。でも、先生に目をつけられるようなことはしないほうがいいよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-51-Teacher-Turn-01.wav|0|そうかー。結構厳しいの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-51-Teacher-Turn-02.wav|0|そうなんだ。卒業したら自由だから、今だけ我慢だよー。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-52-Teacher-Turn-01.wav|0|なんで呼ばれたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-52-Teacher-Turn-02.wav|0|それは、良くないんじゃない？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-53-Teacher-Turn-01.wav|0|どうしたどうした！怒った顔、似合わないよ？原因はなんだと思う？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-53-Teacher-Turn-02.wav|0|お！偉いじゃん！反省してる。もしかしたら、顧問の先生は言い方キツかったかもしれないけど、仲間割れはよくないからね。どんな理由であれ、落ち着いて話せるようになるといいね！あなたなら出来るよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-54-Teacher-Turn-01.wav|0|まあそうだよね。日本の学校ってさ、団体行動の強制が嫌だよね。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-54-Teacher-Turn-02.wav|0|今も昔も変わってないな。って言っても、数年前だけど、私の頃も同じだった。我慢してやり過ごすか、自由意思を制限してくることのおかしさを訴えるか。どっちか好きな方で、学校に相談してみれば？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-55-Teacher-Turn-01.wav|0|そんなに怒って、どうしたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-55-Teacher-Turn-02.wav|0|なつかしい。でも、私が学生のころは、学校だけは普通の長さにして、外で短くしてたわよ？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-56-Teacher-Turn-01.wav|0|えっ、どうしたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-56-Teacher-Turn-02.wav|0|ちょっと話してみて？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-57-Teacher-Turn-02.wav|0|分かるな、その気持ち。そんなことでくよくよするのは損だと思うよ？そのことは忘れて、楽しいことを考えてみようよ。
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-58-Teacher-Turn-01.wav|0|どこを指摘されたの？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-58-Teacher-Turn-02.wav|0|厳しいね。バックに予備入れておけば？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-59-Teacher-Turn-01.wav|0|どうした、大丈夫かな？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-59-Teacher-Turn-02.wav|2|それは酷いわね。女性のつらさを分かっていないわね。私も一緒の気持ちよ。今はつらくない？大丈夫？つらかったら無理しないでね？体調辛いのに塾に来てくれてありがとうね？
+dataset/STUDIES/Short_dialogue/SD09/wav/SD09-Dialogue-60-Teacher-Turn-02.wav|0|若々しい可愛さはあるんだけど、女の子っぽさや上品さは長めのスカートの方があるし、男子からしたら長めの方が好感度高めだと思うなぁ？あなたもお嬢様系の可愛いタイプだから、長めのスカートも似合って素敵だと思うけどなぁ。
 dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-01-Teacher-Turn-01.wav|0|どうしたの？暗いよ？
 dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-01-Teacher-Turn-02.wav|1|そうなんだ。でも、気にかけているから注意するんだよ。期待の表れ！ファイト、ファイト！元気出して！
 dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-02-Teacher-Turn-01.wav|0|でも、それはあなたの為を思って怒っているのではないの？
@@ -2306,38 +2306,38 @@ dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-42-Teacher-Turn-01.wav|0|�
 dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-42-Teacher-Turn-02.wav|0|まぁまぁ、落ち着いて！でも、結構長いし、運動するにはジャマかもね。それにしても、みんなの前で怒るのはないよねぇ。はい、チョコでも食べて忘れちゃえ！
 dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-43-Teacher-Turn-01.wav|0|自信なくすとどんどんできなくなるから、自信は持ってね？
 dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-43-Teacher-Turn-02.wav|0|そうそう！勉強と一緒で、やらなきゃできるようにならないんだから。
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-44-Teacher-Turn-01.wav|0|そうだね。先生の立場なんだから、感情的になるのはダメなのにね。このことばかり考えていても仕方ないから、聞き流しておこうね！
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-44-Teacher-Turn-02.wav|0|真面目にしてなかったの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-45-Teacher-Turn-01.wav|0|次回からは、真剣に頑張ろ？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-45-Teacher-Turn-02.wav|0|え？部の雰囲気を乱す？あなたの明るさは、みんなを元気にしてくれると思うけどな？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-46-Teacher-Turn-01.wav|0|顧問の先生は誤解しても、部活の友達にはその気持ちは届いているんじゃないかな。元気を出して！
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-46-Teacher-Turn-02.wav|0|びっくりした！急にどうしたの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-47-Teacher-Turn-01.wav|0|そうなの？案外、注意された方が目をかけられている場合もあったりしない？私はそう思うけど。きっと、期待されているんだよ！さあ、元気出して！
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-47-Teacher-Turn-02.wav|0|今時、持ち物にうるさい指導者も珍しいね。何言われたの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-48-Teacher-Turn-01.wav|0|ああ…。目をつけられるんじゃないかって心配しているのかしら。女教師なら、単純に不愉快だったのかもしれないけど。
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-48-Teacher-Turn-02.wav|0|えー、顧問に注意されちゃったの？なんで？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-49-Teacher-Turn-01.wav|0|こらこら、先生のことそんなふうに言わないの。そうだね、本格的にいやなら、学校の部活じゃなくてスポーツクラブのほうがいいかもね？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-49-Teacher-Turn-02.wav|0|能力があれば、推薦枠とか奨励選手の枠もあるから大丈夫だよ。あとでスマホで調べてみなよ。
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-50-Teacher-Turn-01.wav|0|元気ないなー。どうしたの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-50-Teacher-Turn-02.wav|0|大丈夫。下級生は分かっているよ。明日休んだらみんな心配するから、頑張って行こう。がんばれ！先輩！
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-51-Teacher-Turn-01.wav|0|どうしたの？学校で何かあったの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-51-Teacher-Turn-02.wav|0|言い方が悪いね。でも、ここはぐっとこらえて。そして、口出しできないくらいキッチリやって見返してやろうよ！縁の下の力持ちがしっかりすれば、チームも良くなって一石二鳥だね！がんばれ！
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-52-Teacher-Turn-01.wav|0|どうして？練習、サボってたの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-52-Teacher-Turn-02.wav|0|そうなんだ。お腹痛いのに、ちゃんと練習に出たんだね。えらいね。私が褒めてあげる！でも、体調が悪い時は、先生に伝えておいた方がいいよ？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-53-Teacher-Turn-01.wav|0|どうしてあなたが罵倒されたの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-53-Teacher-Turn-02.wav|0|理由があって遅刻したのね、優秀なあなただって、失敗する時もあるわよ。
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-54-Teacher-Turn-01.wav|0|まあまあ。まずはゆっくりと話を聴かせて？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-54-Teacher-Turn-02.wav|0|そうね。思い当たる過去の自分を想像してごらん？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-55-Teacher-Turn-01.wav|0|落ち着いて。ほら、目の前に横浜流星がいると思って。
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-55-Teacher-Turn-02.wav|0|んじゃ、キンプリも全員つけちゃう！ほら、笑って笑って！
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-56-Teacher-Turn-01.wav|2|みんなの前で言われたら、悲しいね。
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-56-Teacher-Turn-02.wav|0|そんなふうに言われたら、誰だってそう思うよ。でも、私はあなたが頑張ってる事、わかってるからね？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-57-Teacher-Turn-01.wav|0|へえ、どんなこと言われたの？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-57-Teacher-Turn-02.wav|0|そうなんだ。でも、ちゃんと練習すれば、きっと先生も褒めてくれると思うよ？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-58-Teacher-Turn-01.wav|0|うーん、先生があなたに厳しく怒るのは、期待が大きいからじゃないかな？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-58-Teacher-Turn-02.wav|0|それじゃ、先生の様子をよく見てみるといいかもね。先生の行動を観察することで、気付かなかった事に気付けるかもしれないよ？試してみて？
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-59-Teacher-Turn-01.wav|0|腹たつ気持ちもわかるけど、見込みがないと注意もされないって！
-dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-59-Teacher-Turn-02.wav|0|だよね。じゃ、今日の勉強頑張って、先生を見返しちゃおうよ。
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-44-Teacher-Turn-02.wav|0|そうだね。先生の立場なんだから、感情的になるのはダメなのにね。このことばかり考えていても仕方ないから、聞き流しておこうね！
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-45-Teacher-Turn-01.wav|0|真面目にしてなかったの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-45-Teacher-Turn-02.wav|0|次回からは、真剣に頑張ろ？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-46-Teacher-Turn-01.wav|0|え？部の雰囲気を乱す？あなたの明るさは、みんなを元気にしてくれると思うけどな？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-46-Teacher-Turn-02.wav|0|顧問の先生は誤解しても、部活の友達にはその気持ちは届いているんじゃないかな。元気を出して！
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-47-Teacher-Turn-01.wav|0|びっくりした！急にどうしたの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-47-Teacher-Turn-02.wav|0|そうなの？案外、注意された方が目をかけられている場合もあったりしない？私はそう思うけど。きっと、期待されているんだよ！さあ、元気出して！
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-48-Teacher-Turn-01.wav|0|今時、持ち物にうるさい指導者も珍しいね。何言われたの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-48-Teacher-Turn-02.wav|0|ああ…。目をつけられるんじゃないかって心配しているのかしら。女教師なら、単純に不愉快だったのかもしれないけど。
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-49-Teacher-Turn-01.wav|0|えー、顧問に注意されちゃったの？なんで？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-50-Teacher-Turn-01.wav|0|こらこら、先生のことそんなふうに言わないの。そうだね、本格的にいやなら、学校の部活じゃなくてスポーツクラブのほうがいいかもね？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-50-Teacher-Turn-02.wav|0|能力があれば、推薦枠とか奨励選手の枠もあるから大丈夫だよ。あとでスマホで調べてみなよ。
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-51-Teacher-Turn-01.wav|0|元気ないなー。どうしたの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-51-Teacher-Turn-02.wav|0|大丈夫。下級生は分かっているよ。明日休んだらみんな心配するから、頑張って行こう。がんばれ！先輩！
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-52-Teacher-Turn-01.wav|0|どうしたの？学校で何かあったの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-52-Teacher-Turn-02.wav|0|言い方が悪いね。でも、ここはぐっとこらえて。そして、口出しできないくらいキッチリやって見返してやろうよ！縁の下の力持ちがしっかりすれば、チームも良くなって一石二鳥だね！がんばれ！
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-53-Teacher-Turn-01.wav|0|どうして？練習、サボってたの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-53-Teacher-Turn-02.wav|0|そうなんだ。お腹痛いのに、ちゃんと練習に出たんだね。えらいね。私が褒めてあげる！でも、体調が悪い時は、先生に伝えておいた方がいいよ？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-54-Teacher-Turn-01.wav|0|どうしてあなたが罵倒されたの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-54-Teacher-Turn-02.wav|0|理由があって遅刻したのね、優秀なあなただって、失敗する時もあるわよ。
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-55-Teacher-Turn-01.wav|0|まあまあ。まずはゆっくりと話を聴かせて？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-55-Teacher-Turn-02.wav|0|そうね。思い当たる過去の自分を想像してごらん？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-56-Teacher-Turn-01.wav|0|落ち着いて。ほら、目の前に横浜流星がいると思って。
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-56-Teacher-Turn-02.wav|0|んじゃ、キンプリも全員つけちゃう！ほら、笑って笑って！
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-57-Teacher-Turn-01.wav|2|みんなの前で言われたら、悲しいね。
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-57-Teacher-Turn-02.wav|0|そんなふうに言われたら、誰だってそう思うよ。でも、私はあなたが頑張ってる事、わかってるからね？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-58-Teacher-Turn-01.wav|0|へえ、どんなこと言われたの？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-58-Teacher-Turn-02.wav|0|そうなんだ。でも、ちゃんと練習すれば、きっと先生も褒めてくれると思うよ？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-59-Teacher-Turn-01.wav|0|うーん、先生があなたに厳しく怒るのは、期待が大きいからじゃないかな？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-59-Teacher-Turn-02.wav|0|それじゃ、先生の様子をよく見てみるといいかもね。先生の行動を観察することで、気付かなかった事に気付けるかもしれないよ？試してみて？
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-60-Teacher-Turn-01.wav|0|腹たつ気持ちもわかるけど、見込みがないと注意もされないって！
+dataset/STUDIES/Short_dialogue/SD10/wav/SD10-Dialogue-60-Teacher-Turn-02.wav|0|だよね。じゃ、今日の勉強頑張って、先生を見返しちゃおうよ。
 dataset/STUDIES/Short_dialogue/SD11/wav/SD11-Dialogue-01-Teacher-Turn-01.wav|2|予想外に悪い点数だったんだね？何がいけなかったのかな。
 dataset/STUDIES/Short_dialogue/SD11/wav/SD11-Dialogue-01-Teacher-Turn-02.wav|0|そうかー、時間が足りなかったんだね。スケジュールの組み方や、時間の使い方を工夫すると勉強不足は解消できると思うから、次はしっかり予定を立ててから勉強に挑もう？
 dataset/STUDIES/Short_dialogue/SD11/wav/SD11-Dialogue-02-Teacher-Turn-01.wav|0|緊張しちゃったとかの理由は考えられない？

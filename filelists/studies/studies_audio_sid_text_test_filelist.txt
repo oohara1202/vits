@@ -48,45 +48,45 @@ dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-04.wav|0|�
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-05.wav|0|どんなふうに怒られたの？
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-06.wav|0|それでも起きなかったの？
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-07.wav|0|それはびっくりするよね。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-08.wav|0|そうね…。夜よく眠ることが大切だけど、手に眠気を覚ますツボがあるのを知ってる？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-09.wav|0|ココ、ココ、指の間の付け根。今度眠くなったら押してみるといいよ。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-10.wav|0|唐突な質問ね。なんだと思う？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-01.wav|0|テニスは好きだけど、趣味とは違うかな。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-02.wav|0|実はね、旅行が好きなの。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-03.wav|0|国内専門よ。それも、なるべくお金かけないで。１人で行くこともあるの。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-04.wav|0|京都や奈良とかが好きよ。何度行っても見るとこがたくさんあるし、季節によっても違うし。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-05.wav|0|勉強の一貫だからね。それに、大勢で行くところも決められていると、楽しくないよね。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-06.wav|0|一番とか決められないけど、最近はしまなみ海道のサイクリングが良かったし、お城巡りも楽しかった。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-07.wav|0|そこまでいかないけど、歴史は好きよ。センター、日本史だったの。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-08.wav|0|高校の時は、地図やガイドブックを見ながら、「ココ行きたいなあー」なんて勉強の息抜きしていたのよ。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-09.wav|0|もうすぐよ！３年なんてあっという間だから。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-10.wav|0|えっ？急にどうしたの？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-01.wav|0|趣味って言えるかどうかわからないけど、今、料理に凝っていてね。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-02.wav|0|そう言うと思ったわ。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-03.wav|0|普通の家庭料理よ。下宿するようになったのがきっかけ。始めると結構楽しくてね。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-04.wav|0|ないない！でも、ちょっとこれ見て！料理すると、写真を撮ってるの。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-05.wav|0|ありがとう。それよりも、自分の趣味のスピーチをするんじゃないの？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-06.wav|0|そうだったのね。趣味って、突き詰めてる人もいるし、始めたばかりの人もいるし、あまり深く考えなくてもいいんじゃない？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-07.wav|0|中学までは美術部に入っていたでしょ？絵をかくの好きだって…。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-08.wav|0|それそれ。絵の話にしたら？いつもノートに書いてあるイラスト、かわいくて上手だもの。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-09.wav|0|決まりね。スピーチ、頑張ってね！
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-10.wav|0|最終的には、高３の秋ね。模試とか受けながら絞っていったわ。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-01.wav|0|それは高１。当時はキャビンアテンダントになりたいって思ってたから。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-02.wav|0|早めのほうがいいとは思うけど。悩んでいるの？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-03.wav|0|へえー。知らなかったけど、あなたに合っていそう。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-04.wav|0|そうだったわね。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-05.wav|0|どんな職業につくとか？就職できるのか？とか、親は心配しているのかもよ。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-06.wav|0|臨床心理士や、公認心理師っていう資格があるわよ。私の友達が、心理の大学院を出て、保健所に勤めているの。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-07.wav|0|「心理学を勉強したい」ってお父さんに話したの？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-08.wav|0|資格や仕事の話、具体的な大学とかをよく調べてから話してみたら？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-09.wav|0|最後は自分で決めるしかないけど、わかってもらえるといいわね。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-10.wav|0|そうなんだ。なんて話したの？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-01.wav|0|前から言っていたよね。デザインにも興味あるって。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-02.wav|0|先生には何か言われた？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-03.wav|0|そうね。模試を受けて見ないとわからないけど、目標を定めたほうが勉強のモチベも上がると思う。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-04.wav|0|そう。国立は？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-05.wav|0|それならいいじゃない。早めに私立一本に絞ったほうが、これから１年の計画も立てやすいと思う。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-06.wav|0|じゃあ、来週までにおおまかな流れを作ってくるから、見てもらおうかな？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-09.wav|0|そうね…。夜よく眠ることが大切だけど、手に眠気を覚ますツボがあるのを知ってる？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-Teacher-Turn-10.wav|0|ココ、ココ、指の間の付け根。今度眠くなったら押してみるといいよ。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-01.wav|0|唐突な質問ね。なんだと思う？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-02.wav|0|テニスは好きだけど、趣味とは違うかな。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-03.wav|0|実はね、旅行が好きなの。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-04.wav|0|国内専門よ。それも、なるべくお金かけないで。１人で行くこともあるの。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-05.wav|0|京都や奈良とかが好きよ。何度行っても見るとこがたくさんあるし、季節によっても違うし。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-06.wav|0|勉強の一貫だからね。それに、大勢で行くところも決められていると、楽しくないよね。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-07.wav|0|一番とか決められないけど、最近はしまなみ海道のサイクリングが良かったし、お城巡りも楽しかった。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-08.wav|0|そこまでいかないけど、歴史は好きよ。センター、日本史だったの。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-09.wav|0|高校の時は、地図やガイドブックを見ながら、「ココ行きたいなあー」なんて勉強の息抜きしていたのよ。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-Teacher-Turn-10.wav|0|もうすぐよ！３年なんてあっという間だから。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-01.wav|0|えっ？急にどうしたの？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-02.wav|0|趣味って言えるかどうかわからないけど、今、料理に凝っていてね。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-03.wav|0|そう言うと思ったわ。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-04.wav|0|普通の家庭料理よ。下宿するようになったのがきっかけ。始めると結構楽しくてね。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-05.wav|0|ないない！でも、ちょっとこれ見て！料理すると、写真を撮ってるの。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-06.wav|0|ありがとう。それよりも、自分の趣味のスピーチをするんじゃないの？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-07.wav|0|そうだったのね。趣味って、突き詰めてる人もいるし、始めたばかりの人もいるし、あまり深く考えなくてもいいんじゃない？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-08.wav|0|中学までは美術部に入っていたでしょ？絵をかくの好きだって…。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-09.wav|0|それそれ。絵の話にしたら？いつもノートに書いてあるイラスト、かわいくて上手だもの。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-Teacher-Turn-10.wav|0|決まりね。スピーチ、頑張ってね！
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-01.wav|0|最終的には、高３の秋ね。模試とか受けながら絞っていったわ。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-02.wav|0|それは高１。当時はキャビンアテンダントになりたいって思ってたから。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-03.wav|0|早めのほうがいいとは思うけど。悩んでいるの？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-04.wav|0|へえー。知らなかったけど、あなたに合っていそう。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-05.wav|0|そうだったわね。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-06.wav|0|どんな職業につくとか？就職できるのか？とか、親は心配しているのかもよ。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-07.wav|0|臨床心理士や、公認心理師っていう資格があるわよ。私の友達が、心理の大学院を出て、保健所に勤めているの。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-08.wav|0|「心理学を勉強したい」ってお父さんに話したの？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-09.wav|0|資格や仕事の話、具体的な大学とかをよく調べてから話してみたら？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-Teacher-Turn-10.wav|0|最後は自分で決めるしかないけど、わかってもらえるといいわね。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-01.wav|0|そうなんだ。なんて話したの？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-02.wav|0|前から言っていたよね。デザインにも興味あるって。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-03.wav|0|先生には何か言われた？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-04.wav|0|そうね。模試を受けて見ないとわからないけど、目標を定めたほうが勉強のモチベも上がると思う。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-05.wav|0|そう。国立は？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-06.wav|0|それならいいじゃない。早めに私立一本に絞ったほうが、これから１年の計画も立てやすいと思う。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-Teacher-Turn-07.wav|0|じゃあ、来週までにおおまかな流れを作ってくるから、見てもらおうかな？
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-01-MStudent-Turn-01.wav|1|先生、こんにちは！
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-01-MStudent-Turn-02.wav|1|当ったりー！苦手な数学と化学、点数アップしました！
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-01-MStudent-Turn-03.wav|1|上がったっていっても、クラスの平均ちょっと上くらいなんですけど。
@@ -107,27 +107,27 @@ dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-03-MStudent-Turn-08.wav|1|�
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-03-MStudent-Turn-09.wav|1|えっ？２回やるんですか？
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-03-MStudent-Turn-10.wav|1|わかりました。やってみます。
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-01.wav|1|先生、遅れてすみません。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-02.wav|1|はい。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-03.wav|1|まだ大丈夫と思っているうちに、締め切りがドドーっと来て。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-04.wav|1|そうですよね。やってみます。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-05.wav|1|先生の趣味ってなんですか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-06.wav|1|大学のテニサーに入ってたって言ってたから、テニスかな。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-07.wav|1|じゃあ、なんだろう。全然見当つかないです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-08.wav|1|へえ…。海外とか行くんですか？お金かかりそう。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-09.wav|1|どんなとこに行くんですか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-10.wav|1|中学の修学旅行で行ったけど、レポート書くのが大変だった思い出しかないです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-01.wav|1|一番良かったところってどこですか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-02.wav|1|お城って、先生、歴女ですか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-03.wav|1|大学生っていいですね。自由に好きなところに行けて。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-04.wav|1|大学生になったら、バイトして海外へも行ってみたいです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-05.wav|1|先生、受験する大学っていつ頃決めましたか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-06.wav|1|理系とか文系とかはいつ頃ですか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-07.wav|1|そうですよね。高１のあいだに決めたほうがいいですよね？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-08.wav|1|実は、心理学に興味があって、文系に進もうと思っているんです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-09.wav|1|そうかもしれません。「なんでも、資格を持っていたほうがいい」ってよく言っています。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-10.wav|1|なるほど。資格にもいろいろあるんですね。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-01.wav|1|まだなんです。言いにくくって。最近、顔を合わせないようにしています。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-02.wav|1|わかりました。心理学を勉強したいってだけでは、やっぱりおおまかすぎますね。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-08.wav|1|はい。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-09.wav|1|まだ大丈夫と思っているうちに、締め切りがドドーっと来て。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-05-MStudent-Turn-10.wav|1|そうですよね。やってみます。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-01.wav|1|先生の趣味ってなんですか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-02.wav|1|大学のテニサーに入ってたって言ってたから、テニスかな。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-03.wav|1|じゃあ、なんだろう。全然見当つかないです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-04.wav|1|へえ…。海外とか行くんですか？お金かかりそう。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-05.wav|1|どんなとこに行くんですか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-06.wav|1|中学の修学旅行で行ったけど、レポート書くのが大変だった思い出しかないです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-07.wav|1|一番良かったところってどこですか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-08.wav|1|お城って、先生、歴女ですか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-09.wav|1|大学生っていいですね。自由に好きなところに行けて。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-07-MStudent-Turn-10.wav|1|大学生になったら、バイトして海外へも行ってみたいです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-01.wav|1|先生、受験する大学っていつ頃決めましたか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-02.wav|1|理系とか文系とかはいつ頃ですか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-03.wav|1|そうですよね。高１のあいだに決めたほうがいいですよね？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-04.wav|1|実は、心理学に興味があって、文系に進もうと思っているんです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-07.wav|1|そうかもしれません。「なんでも、資格を持っていたほうがいい」ってよく言っています。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-08.wav|1|なるほど。資格にもいろいろあるんですね。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-09.wav|1|まだなんです。言いにくくって。最近、顔を合わせないようにしています。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-09-MStudent-Turn-10.wav|1|わかりました。心理学を勉強したいってだけでは、やっぱりおおまかすぎますね。
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-02-FStudent-Turn-01.wav|2|先生、こんにちは！
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-02-FStudent-Turn-02.wav|2|わかります？物理のテスト、すっごく良かったんです！
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-02-FStudent-Turn-03.wav|2|それもあるけど、先生が「出るよ」って言ったところ、全部出たんですよ！びっくり！
@@ -146,30 +146,30 @@ dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-04-FStudent-Turn-07.wav|2|�
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-04-FStudent-Turn-08.wav|2|あー、あったかもしれません。
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-04-FStudent-Turn-09.wav|2|わかりました。
 dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-04-FStudent-Turn-10.wav|2|はい、頑張ってみます。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-01.wav|2|居眠りしてしまって…。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-02.wav|2|何度かあったかも？でも、今日は机につっぷしてしまって…。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-03.wav|2|始め、頭をツンツン突いたらしくて…。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-04.wav|2|先生に話を聞いてもらって、少し落ち着いてきました。どうも、英語の時間って眠くなるんです。なんか対策とかありますか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-05.wav|2|えっ、本当？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-06.wav|2|ココですね！先生、ありがとう！明日からやってみます。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-07.wav|2|先生の趣味って何ですか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-08.wav|2|来週、英語で１分間スピーチがあって、テーマが趣味なんです。先生だったら、どんな話するのかな？と思って。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-09.wav|2|へえ…。すごく意外。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-10.wav|2|どんなものを作るんですか？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-01.wav|2|得意料理とかあります？
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-02.wav|2|美味しそう！先生の手料理、食べてみたいなあ！
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-03.wav|2|そうなんですよ。私、趣味って言える趣味ないし、何を話していいか悩んでるんです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-04.wav|2|そうはいっても、今、部活も習い事もしてないんですよ。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-05.wav|2|今でも、家ではチョコチョコかいています。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-06.wav|2|ほんとですか？１分だから、絵の話でなんとかなるかも！
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-07.wav|2|昨日、担任と個人面談があって、進路について聞かれました。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-08.wav|2|建築学科を受験したいって。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-09.wav|2|はい。でも、学校で担任に話したのは、初めてだったんです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-10.wav|2|「決めているのなら、早めに志望校を決めたほうがいい」って。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-01.wav|2|学校では言わなかったんだけど、早稲田の建築を、第一志望にしたいなって。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-02.wav|2|私、体力ないし、たくさんの科目を勉強し切れるか不安で…。それに、「国立のココに行きたい」っていう希望が、特にないんです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-03.wav|2|そうですよね！これから１年間、しっかり計画立てて、勉強していきたいです。
-dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-04.wav|2|ありがとうございます！
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-02.wav|2|居眠りしてしまって…。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-03.wav|2|何度かあったかも？でも、今日は机につっぷしてしまって…。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-05.wav|2|始め、頭をツンツン突いたらしくて…。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-08.wav|2|先生に話を聞いてもらって、少し落ち着いてきました。どうも、英語の時間って眠くなるんです。なんか対策とかありますか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-09.wav|2|えっ、本当？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-06-FStudent-Turn-10.wav|2|ココですね！先生、ありがとう！明日からやってみます。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-01.wav|2|先生の趣味って何ですか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-02.wav|2|来週、英語で１分間スピーチがあって、テーマが趣味なんです。先生だったら、どんな話するのかな？と思って。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-03.wav|2|へえ…。すごく意外。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-04.wav|2|どんなものを作るんですか？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-05.wav|2|得意料理とかあります？
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-06.wav|2|美味しそう！先生の手料理、食べてみたいなあ！
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-07.wav|2|そうなんですよ。私、趣味って言える趣味ないし、何を話していいか悩んでるんです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-08.wav|2|そうはいっても、今、部活も習い事もしてないんですよ。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-09.wav|2|今でも、家ではチョコチョコかいています。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-08-FStudent-Turn-10.wav|2|ほんとですか？１分だから、絵の話でなんとかなるかも！
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-01.wav|2|昨日、担任と個人面談があって、進路について聞かれました。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-02.wav|2|建築学科を受験したいって。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-03.wav|2|はい。でも、学校で担任に話したのは、初めてだったんです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-04.wav|2|「決めているのなら、早めに志望校を決めたほうがいい」って。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-05.wav|2|学校では言わなかったんだけど、早稲田の建築を、第一志望にしたいなって。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-06.wav|2|私、体力ないし、たくさんの科目を勉強し切れるか不安で…。それに、「国立のココに行きたい」っていう希望が、特にないんです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-07.wav|2|そうですよね！これから１年間、しっかり計画立てて、勉強していきたいです。
+dataset/STUDIES/Long_dialogue/LD01/wav/LD01-Dialogue-10-FStudent-Turn-08.wav|2|ありがとうございます！
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-01-Teacher-Turn-01.wav|0|こないだの定期テスト、どうだった？点数上がった？
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-01-Teacher-Turn-02.wav|0|えーほんとに？よくやったじゃない！
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-01-Teacher-Turn-03.wav|0|授業でも理解のペースが速くなってるもんね！
@@ -264,27 +264,27 @@ dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-03-MStudent-Turn-04.wav|1|�
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-03-MStudent-Turn-05.wav|1|寝不足っていうのもあったかもしれないです。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-03-MStudent-Turn-06.wav|1|頑張ってみます。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-03-MStudent-Turn-07.wav|1|はい。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-01.wav|1|期待の裏返し？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-02.wav|1|うーん…。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-03.wav|1|まあ、そうですね。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-04.wav|1|分かりました。そうします。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-05.wav|1|先生、阪神の梅野ってどう思いますか？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-06.wav|1|僕も同じキャッチャー目線で、いい選手だと思います。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-07.wav|1|盗塁さしまくりですよ。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-08.wav|1|先生も野球見るんですか？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-01.wav|1|いいですね！
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-02.wav|1|はい、目指してます！
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-03.wav|1|はい！でも、最近部活の練習がハードで…。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-04.wav|1|はい、そうですね。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-05.wav|1|先生、僕ってどのぐらいの大学受かりますかね。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-06.wav|1|日東駒専かあ。できればもうちょっと上のランクを目指したいです。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-07.wav|1|何を対策したらいいですかね。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-08.wav|1|中学レベルですか？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-01.wav|1|でも、大学受験の問題って、もっと難しくないですか？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-02.wav|1|そうなんですね。1日どれぐらい勉強すればいいですかね？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-03.wav|1|3時間…。結構長いですね。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-04.wav|1|うわー、大変そうだ。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-05.wav|1|そうなんですね。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-04.wav|1|期待の裏返し？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-06.wav|1|うーん…。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-07.wav|1|まあ、そうですね。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-05-MStudent-Turn-08.wav|1|分かりました。そうします。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-01.wav|1|先生、阪神の梅野ってどう思いますか？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-02.wav|1|僕も同じキャッチャー目線で、いい選手だと思います。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-03.wav|1|盗塁さしまくりですよ。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-04.wav|1|先生も野球見るんですか？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-05.wav|1|いいですね！
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-06.wav|1|はい、目指してます！
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-07.wav|1|はい！でも、最近部活の練習がハードで…。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-07-MStudent-Turn-08.wav|1|はい、そうですね。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-01.wav|1|先生、僕ってどのぐらいの大学受かりますかね。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-02.wav|1|日東駒専かあ。できればもうちょっと上のランクを目指したいです。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-03.wav|1|何を対策したらいいですかね。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-04.wav|1|中学レベルですか？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-05.wav|1|でも、大学受験の問題って、もっと難しくないですか？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-06.wav|1|そうなんですね。1日どれぐらい勉強すればいいですかね？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-07.wav|1|3時間…。結構長いですね。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-08.wav|1|うわー、大変そうだ。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-09-MStudent-Turn-09.wav|1|そうなんですね。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-02-FStudent-Turn-01.wav|2|あ、先生！出ましたよ。90点いきました！
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-02-FStudent-Turn-02.wav|2|90点とれるとは思ってなかったので、嬉しいです。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-02-FStudent-Turn-03.wav|2|えー、なんでですか？
@@ -300,26 +300,26 @@ dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-04-FStudent-Turn-05.wav|2|�
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-04-FStudent-Turn-06.wav|2|んー…。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-04-FStudent-Turn-07.wav|2|そうですね、私も、今回はちょっと甘かったと思います。
 dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-04-FStudent-Turn-08.wav|2|はい。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-01.wav|2|それも分かりますけど…。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-02.wav|2|そうなんですかね？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-03.wav|2|それは言い過ぎですよ。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-04.wav|2|はい。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-05.wav|2|先生は、オンライン英会話ってやったことありますかー？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-06.wav|2|そうなんですよ。いいですよね！わざわざ外に出る必要ないし。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-07.wav|2|ドハマリですよ！学校から帰ったら、真っ先にパソコンのスイッチをオンします。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-08.wav|2|色んな国の人と喋れるのが楽しいです。私、外国人の友達が欲しいんです。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-01.wav|2|そうですか？英語ペラペラになるのが目標ですね！
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-02.wav|2|日常会話は、問題ないです。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-03.wav|2|私も、中学の頃から始めてるので、もう、5年くらいにはなりますね。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-04.wav|2|はい、楽しいので続けてます。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-05.wav|2|大学受験の勉強って、何から対策していいか分からないんですよねー。
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-06.wav|2|英語の基礎ですか？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-07.wav|2|そうなんですね、英語得意でよかった！
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-08.wav|2|なんか、やる気が出ますね！
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-01.wav|2|そうなんですね。ほかに、今からやっておいたほうがいいことはありますか？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-02.wav|2|生活習慣ですか？勉強ではなくて？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-03.wav|2|なんでですか？
-dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-04.wav|2|なるほど！早寝早起きを心掛けますね！
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-05.wav|2|それも分かりますけど…。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-06.wav|2|そうなんですかね？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-07.wav|2|それは言い過ぎですよ。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-06-FStudent-Turn-08.wav|2|はい。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-01.wav|2|先生は、オンライン英会話ってやったことありますかー？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-02.wav|2|そうなんですよ。いいですよね！わざわざ外に出る必要ないし。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-03.wav|2|ドハマリですよ！学校から帰ったら、真っ先にパソコンのスイッチをオンします。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-04.wav|2|色んな国の人と喋れるのが楽しいです。私、外国人の友達が欲しいんです。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-05.wav|2|そうですか？英語ペラペラになるのが目標ですね！
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-06.wav|2|日常会話は、問題ないです。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-07.wav|2|私も、中学の頃から始めてるので、もう、5年くらいにはなりますね。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-08-FStudent-Turn-08.wav|2|はい、楽しいので続けてます。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-01.wav|2|大学受験の勉強って、何から対策していいか分からないんですよねー。
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-02.wav|2|英語の基礎ですか？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-03.wav|2|そうなんですね、英語得意でよかった！
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-04.wav|2|なんか、やる気が出ますね！
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-05.wav|2|そうなんですね。ほかに、今からやっておいたほうがいいことはありますか？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-06.wav|2|生活習慣ですか？勉強ではなくて？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-07.wav|2|なんでですか？
+dataset/STUDIES/Long_dialogue/LD02/wav/LD02-Dialogue-10-FStudent-Turn-08.wav|2|なるほど！早寝早起きを心掛けますね！
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-01.wav|0|テストの結果は、返ってきてどう感じた？
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-02.wav|0|うん、現代文は前より確実に伸びたね！
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-01-Teacher-Turn-03.wav|0|ほかの人たちもたくさん勉強してるから、少しずつでも偏差値が上がってきていたら伸びてるってことだよ。
@@ -400,25 +400,25 @@ dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-MStudent-Turn-04.wav|1|�
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-MStudent-Turn-05.wav|1|わかりました。あと、建築様式が、何回やっても覚えられなくて。
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-MStudent-Turn-06.wav|1|家にならあります。
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-03-MStudent-Turn-07.wav|1|分かりました、やってみます。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-01.wav|1|ゲーム実況の動画見てました…。３時くらいまで。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-02.wav|1|いつもやってるゲームのアプデ来たから、予習しなきゃと思って。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-03.wav|1|怒らないんですか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-04.wav|1|でも、さすがに昨日は見すぎたかなとは思ってます…。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-05.wav|1|はい、がんばります。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-06.wav|1|します。先生はゲームしないんですか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-07.wav|1|え、全然ゲームとかしないと思ってました。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-08.wav|1|先生、FPSはしないんですか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-09.wav|1|えっ、もったいない。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-01.wav|1|へー。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-02.wav|1|なるほど…。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-03.wav|1|わかりました。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-04.wav|1|先生って受験の時、どうやって英単語とか覚えてましたか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-05.wav|1|難しそう…。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-06.wav|1|そういうふうにまとめるのって、分かりやすいんですか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-07.wav|1|そうなんですね。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-01.wav|1|なるほど、調べてみます！
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-02.wav|1|ありがとうございます！
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-03.wav|1|分かりました。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-03.wav|1|ゲーム実況の動画見てました…。３時くらいまで。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-04.wav|1|いつもやってるゲームのアプデ来たから、予習しなきゃと思って。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-05.wav|1|怒らないんですか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-06.wav|1|でも、さすがに昨日は見すぎたかなとは思ってます…。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-05-MStudent-Turn-09.wav|1|はい、がんばります。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-01.wav|1|します。先生はゲームしないんですか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-02.wav|1|え、全然ゲームとかしないと思ってました。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-03.wav|1|先生、FPSはしないんですか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-04.wav|1|えっ、もったいない。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-05.wav|1|へー。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-06.wav|1|なるほど…。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-07-MStudent-Turn-07.wav|1|わかりました。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-01.wav|1|先生って受験の時、どうやって英単語とか覚えてましたか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-02.wav|1|難しそう…。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-03.wav|1|そういうふうにまとめるのって、分かりやすいんですか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-04.wav|1|そうなんですね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-05.wav|1|なるほど、調べてみます！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-06.wav|1|ありがとうございます！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-09-MStudent-Turn-07.wav|1|分かりました。
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-FStudent-Turn-01.wav|2|英語は、よかったと思います！
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-FStudent-Turn-02.wav|2|本当ですかー？
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-02-FStudent-Turn-03.wav|2|そうなんです！しかも、偏差値60取ったの、初めてなんですよ！
@@ -432,21 +432,21 @@ dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-FStudent-Turn-04.wav|2|�
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-FStudent-Turn-05.wav|2|落ち着いて、解けるようになる方法とか、ないんですか？
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-FStudent-Turn-06.wav|2|あーそっか、なるほど。
 dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-04-FStudent-Turn-07.wav|2|そうですよね、がんばります！
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-FStudent-Turn-01.wav|2|えーっ？それに期待しようかな！
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-FStudent-Turn-02.wav|2|先生って、好きなアイドルとか、推しとかいないんですか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-FStudent-Turn-03.wav|2|えーっ、好きなグループとかも？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-FStudent-Turn-04.wav|2|そうなんだ。じゃあ、動画とかは見るんですか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-FStudent-Turn-05.wav|2|あー、そういう系統ですね。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-FStudent-Turn-06.wav|2|私、あの水上に浮いてるリゾートみたいなところ行きたいんですよ。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-01.wav|2|受験終わったら、友達と旅行いきたいってはなししてるんですけど、ちゃんと合格できるかなー？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-02.wav|2|ですよねー！がんばろっと！
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-03.wav|2|先生…、受験勉強つらいです。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-04.wav|2|先生も、勉強大変でしたか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-05.wav|2|え、先生もそうだったんですね。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-06.wav|2|そっか、そうですよね。自分だけじゃないですよね。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-07.wav|2|楽しい、ですか？
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-01.wav|2|えー、信じられないです。
-dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-02.wav|2|はーい！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-06-FStudent-Turn-06.wav|2|えーっ？それに期待しようかな！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-01.wav|2|先生って、好きなアイドルとか、推しとかいないんですか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-02.wav|2|えーっ、好きなグループとかも？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-03.wav|2|そうなんだ。じゃあ、動画とかは見るんですか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-04.wav|2|あー、そういう系統ですね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-05.wav|2|私、あの水上に浮いてるリゾートみたいなところ行きたいんですよ。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-06.wav|2|受験終わったら、友達と旅行いきたいってはなししてるんですけど、ちゃんと合格できるかなー？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-08-FStudent-Turn-07.wav|2|ですよねー！がんばろっと！
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-01.wav|2|先生…、受験勉強つらいです。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-02.wav|2|先生も、勉強大変でしたか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-03.wav|2|え、先生もそうだったんですね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-04.wav|2|そっか、そうですよね。自分だけじゃないですよね。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-05.wav|2|楽しい、ですか？
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-06.wav|2|えー、信じられないです。
+dataset/STUDIES/Long_dialogue/LD03/wav/LD03-Dialogue-10-FStudent-Turn-07.wav|2|はーい！
 dataset/STUDIES/Short_dialogue/SD01/wav/SD01-Dialogue-01-Teacher-Turn-01.wav|0|良かったね！
 dataset/STUDIES/Short_dialogue/SD01/wav/SD01-Dialogue-01-Teacher-Turn-02.wav|0|そうね。今までの努力の積み重ねが実ったのね。
 dataset/STUDIES/Short_dialogue/SD01/wav/SD01-Dialogue-02-Teacher-Turn-01.wav|0|おめでとう、頑張ったね！
@@ -814,114 +814,114 @@ dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-02-MStudent-Turn-02.wav|1|
 dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-03-MStudent-Turn-01.wav|1|相手がめっちゃ強くてさあ、ボロ負け。
 dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-03-MStudent-Turn-02.wav|1|県内じゃあ一番強いかも。
 dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-04-MStudent-Turn-01.wav|1|昨日の部活の試合、1点差で負けちゃった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-04-MStudent-Turn-02.wav|1|サッカーの試合で、自分が原因で失点してしまって。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-05-MStudent-Turn-01.wav|1|みんなの足を引っ張らないように、プレーしてたんですけど。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-05-MStudent-Turn-02.wav|1|部活の試合、勝てなかった…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-06-MStudent-Turn-01.wav|1|うん。相手が本当に強かった。今までにないくらい。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-06-MStudent-Turn-02.wav|1|この前の試合でいい結果を出せなくて、自分で言うのも変ですが、結構落ち込んでいるんです。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-07-MStudent-Turn-01.wav|1|えっ、先生も落ち込むことあるの？いつもニコニコしてるから、絶対に落ち込まない性格だと思っていたけど。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-07-MStudent-Turn-02.wav|1|あそこまで行ったのに悔しい…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-08-MStudent-Turn-01.wav|1|自信持っていいのかな？
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-08-MStudent-Turn-02.wav|1|俺のどこが悪かったんだろう。サッカー、優勝できなかった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-09-MStudent-Turn-01.wav|1|でも、俺があの時に上手くパスしてれば、変わってたかも。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-09-MStudent-Turn-02.wav|1|サッカーの試合、PKで外しちゃいました。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-10-MStudent-Turn-01.wav|1|自分のせいでチームが負けちゃいました。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-10-MStudent-Turn-02.wav|1|レスリングの県大会で、予選落ちしました。情け無いです、僕。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-11-MStudent-Turn-01.wav|1|あー負けた…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-11-MStudent-Turn-02.wav|1|うん。だからそのぶん、余計悔しい…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-12-MStudent-Turn-01.wav|1|俺さ、後悔してるんだ。合唱コンクールで指揮者になったこと。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-12-MStudent-Turn-02.wav|1|優勝できなきゃ意味ないよ。みんなだって、俺のこと信頼してくれなくなったよ。きっと。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-13-MStudent-Turn-01.wav|1|ゴールキーパーなのに、守れなかった。悔しい…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-13-MStudent-Turn-02.wav|1|きっと、チームのみんなは、俺のこと憎んでる。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-14-MStudent-Turn-01.wav|1|野球、なんで勝てなかったんだろう。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-14-MStudent-Turn-02.wav|1|うん、俺だけの頭で考えてても結論は出ないからそうする。ありがとう！先生。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-15-MStudent-Turn-01.wav|1|最後の大会、いつもと同じ、二回戦負けでした。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-15-MStudent-Turn-02.wav|1|僕の場合は後からでした。その時は真っ白で、何も考えられなくて。もっと噛み締めながらプレーすれば、結果も違ったのかな。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-16-MStudent-Turn-01.wav|1|水泳大会で4位だったんだ、あんなにコーチに特訓してもらったのに、申し訳ない。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-16-MStudent-Turn-02.wav|1|そうだった。忘れてた。俺のためか。俺のための水泳大会か。次はもっと高みを目指したい！
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-17-MStudent-Turn-01.wav|1|どんなに頑張っても、無理なことってあるんですね。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-17-MStudent-Turn-02.wav|1|いや、実力の差を感じたんで、次回に向けて、もっと頑張らないとダメですね。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-18-MStudent-Turn-01.wav|1|今回の大会、全然ダメでした。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-18-MStudent-Turn-02.wav|1|ほんと、情けないです。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-19-MStudent-Turn-01.wav|1|俺、かっこ悪いくらいボロボロに負けちゃった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-19-MStudent-Turn-02.wav|1|卓球の試合で、相手のペースにのまれちゃって。恥ずかしいよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-20-MStudent-Turn-01.wav|1|また来年に向けて練習するしかないか。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-20-MStudent-Turn-02.wav|1|もっと一日の練習時間を長くする。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-21-MStudent-Turn-01.wav|1|春の大会は一回戦負けだったわ。悔しい。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-21-MStudent-Turn-02.wav|1|まあね。でも今のままじゃまたすぐ負けそうだよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-22-MStudent-Turn-01.wav|1|まさか負けるとは思わなかった…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-22-MStudent-Turn-02.wav|1|うん。自分たちが不甲斐ない…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-23-MStudent-Turn-01.wav|1|全国大会、予選敗退してしまいました。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-23-MStudent-Turn-02.wav|1|部活に使ってた体力、勉強に活かしますね。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-24-MStudent-Turn-01.wav|1|マジでありえねぇ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-24-MStudent-Turn-02.wav|1|最後の試合だったのに、出られませんでした。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-25-MStudent-Turn-01.wav|1|結局、甲子園行けなかったな。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-25-MStudent-Turn-02.wav|1|そうかな。まあ、高校生活のいい思い出にはなるよね。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-26-MStudent-Turn-01.wav|1|抑えられる自信があったのに、9回裏であんなに打たれるとは思わなかったよ。自分のせいで負けちゃったよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-26-MStudent-Turn-02.wav|1|チームのみんなに申し訳なくて、部活に行くのが怖くなってる。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-27-MStudent-Turn-01.wav|1|実は、重大なミスしちゃった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-27-MStudent-Turn-02.wav|1|俺、昨日のサッカーの決勝戦で、最後のシュートで外しちゃったんだよね。だから優勝できなかった。これで最後の試合のやつもいたのに。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-28-MStudent-Turn-01.wav|1|全然歯が立たなかったわ。レベルが違い過ぎる。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-28-MStudent-Turn-02.wav|1|相手が強いっていうか、俺たちが弱すぎるんだよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-29-MStudent-Turn-01.wav|1|あーもうだめだ。勉強も部活も、何もかもだめだ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-29-MStudent-Turn-02.wav|1|でもさ、周りのやつはどんどんできるようになってくんだよ。おれだけ取り残されて、いやになっちゃうよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-30-MStudent-Turn-01.wav|1|先生、今回の試合、ダメだったよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-30-MStudent-Turn-02.wav|1|あー、そうだよね！クジ運次第で、その可能性もあったんだよね？
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-31-MStudent-Turn-01.wav|1|野球の試合でエラーしちゃったよ。球が飛んできたら、緊張して動けなかったよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-31-MStudent-Turn-02.wav|1|チームのみんなにも迷惑をかけてしまって、つらいよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-32-MStudent-Turn-01.wav|1|号泣している先輩たちを見て、申し訳ない気持ちになったよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-32-MStudent-Turn-02.wav|1|心にぽっかりと穴があいたようで、何もする気にならないよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-33-MStudent-Turn-01.wav|1|書道大会で、入賞しかできなかった。俺としたことが。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-33-MStudent-Turn-02.wav|1|当たり前だよ。このためにずっと書いてきたんだよ？俺だって、上行きたい。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-34-MStudent-Turn-01.wav|1|テニスのダブルスの試合で、あと一歩の所で負けちゃった。ほんと、ペアのあいつに合わす顔がない。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-34-MStudent-Turn-02.wav|1|絶対、俺のせいだって思ってるよ。だから、会うのが怖い。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-35-MStudent-Turn-01.wav|1|水泳のエースのくせに、負けて恥だわ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-35-MStudent-Turn-02.wav|1|それもそうだね。エースの俺が落ち込んでても、仕方ないか。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-36-MStudent-Turn-01.wav|1|もう辞めようかなって思うくらい、陸上の成績が悪かったんだ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-36-MStudent-Turn-02.wav|1|賭ける？何を？
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-37-MStudent-Turn-01.wav|1|仲間と頑張ってきて自信があったのに、肝心の本番で失敗してしまいました。なんか悔しいです。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-37-MStudent-Turn-02.wav|1|やっぱり、僕は才能が無いのかな。情けなくなってきます。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-38-MStudent-Turn-01.wav|1|あーあ、失敗しちまった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-38-MStudent-Turn-02.wav|1|精神面に問題があったかもな。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-39-MStudent-Turn-01.wav|1|いやー、負けた、負けた。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-39-MStudent-Turn-02.wav|1|もう、野球は引退するよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-40-MStudent-Turn-01.wav|1|昨日の試合、僕のせいで負けちゃたんです。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-40-MStudent-Turn-02.wav|1|最終回で僕が三振して。せっかくの逆転チャンスだったのに…。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-41-MStudent-Turn-01.wav|1|もう、部活やめようと思う。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-41-MStudent-Turn-02.wav|1|俺が足を引っ張って、チームが試合に負けちゃった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-42-MStudent-Turn-01.wav|1|この前の日曜日、1次リーグで負けちゃったんだ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-42-MStudent-Turn-02.wav|1|あいつらのせいで、俺らの男子バスケ、負けたんだよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-43-MStudent-Turn-01.wav|1|カッコ悪い？俺が？そんなつもりなかった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-43-MStudent-Turn-02.wav|1|もうそろそろ部活も引退なんだけど、最後の大会だけ失敗しちゃって、いい結果出なかったんだよね。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-44-MStudent-Turn-01.wav|1|そうなんだよ。なんか不完全燃焼だったから、勉強にも身がはいらなくて、イマイチなんだよね。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-44-MStudent-Turn-02.wav|1|おとといの試合、負けちゃった。僕の高校最後の試合だったのに。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-45-MStudent-Turn-01.wav|1|うん、それはそうなんだけど。やっぱり最後は優勝して、強いチームとして後輩たちに引き渡したかったんだ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-45-MStudent-Turn-02.wav|1|まさかの初戦敗退。ショックすぎる。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-46-MStudent-Turn-01.wav|1|センスが無いのかなー？俺。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-46-MStudent-Turn-02.wav|1|試合で負けたことを考えると、何も手につかなくて、勉強する気にもなれません。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-47-MStudent-Turn-01.wav|1|頭ではわかってるんですけど、気持ちが追い付かないっていうか。そんな感じです。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-47-MStudent-Turn-02.wav|1|この前の試合、負けちゃったんです。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-48-MStudent-Turn-01.wav|1|はい。なんだか勉強も身が入らなくて。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-48-MStudent-Turn-02.wav|1|決勝で負けて、甲子園行けなかった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-49-MStudent-Turn-01.wav|1|また夢が叶わなかったよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-49-MStudent-Turn-02.wav|1|「結果が出ない自分が情けない」って気持ちでいっぱいです。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-50-MStudent-Turn-01.wav|1|高校最後の大会だったのに、こんな成績で、今まで頑張って練習してきたのはなんだったんだろうって。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-50-MStudent-Turn-02.wav|1|俺たち、今回のリーグ戦、1回戦目で敗退。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-51-MStudent-Turn-01.wav|1|そうなんだけどさ、やっぱり落ち込むよなぁ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-51-MStudent-Turn-02.wav|1|先生、この前のコンクール、入選できなかった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-52-MStudent-Turn-01.wav|1|もう、やめようかな。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-52-MStudent-Turn-02.wav|1|あーあ、本番じゃ緊張してしまって、全然ダメだったなあ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-53-MStudent-Turn-01.wav|1|でも、次回も失敗しそうだなあ。全然自信がないや。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-53-MStudent-Turn-02.wav|1|英語の弁論大会で予選通過出来なかった。先生にもアドバイスもらったり、教えてもらったのに、ごめんね。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-54-MStudent-Turn-01.wav|1|本当にごめんね。つらいよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-54-MStudent-Turn-02.wav|1|あーあ。終わっちゃった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-55-MStudent-Turn-01.wav|1|試合に負けてさ。今年はもう少しいけると思ってたんだけどな。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-55-MStudent-Turn-02.wav|1|大会で優勝出来なかったんだ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-56-MStudent-Turn-01.wav|1|残念過ぎて、モチベーション上がらないよ。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-56-MStudent-Turn-02.wav|1|先生、きのう試合があったんだけど、１回戦で敗退しちゃった。悔しくて、悔しくて。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-57-MStudent-Turn-01.wav|1|先生、ありがとう。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-57-MStudent-Turn-02.wav|1|サッカー部の試合で、俺のミスが致命的だった。
-dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-58-MStudent-Turn-01.wav|1|違うんだ。ゴール前で、ボールを相手に取られたんだ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-05-MStudent-Turn-01.wav|1|サッカーの試合で、自分が原因で失点してしまって。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-05-MStudent-Turn-02.wav|1|みんなの足を引っ張らないように、プレーしてたんですけど。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-06-MStudent-Turn-01.wav|1|部活の試合、勝てなかった…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-06-MStudent-Turn-02.wav|1|うん。相手が本当に強かった。今までにないくらい。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-07-MStudent-Turn-01.wav|1|この前の試合でいい結果を出せなくて、自分で言うのも変ですが、結構落ち込んでいるんです。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-07-MStudent-Turn-02.wav|1|えっ、先生も落ち込むことあるの？いつもニコニコしてるから、絶対に落ち込まない性格だと思っていたけど。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-08-MStudent-Turn-01.wav|1|あそこまで行ったのに悔しい…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-08-MStudent-Turn-02.wav|1|自信持っていいのかな？
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-09-MStudent-Turn-01.wav|1|俺のどこが悪かったんだろう。サッカー、優勝できなかった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-09-MStudent-Turn-02.wav|1|でも、俺があの時に上手くパスしてれば、変わってたかも。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-10-MStudent-Turn-01.wav|1|サッカーの試合、PKで外しちゃいました。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-10-MStudent-Turn-02.wav|1|自分のせいでチームが負けちゃいました。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-11-MStudent-Turn-01.wav|1|レスリングの県大会で、予選落ちしました。情け無いです、僕。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-12-MStudent-Turn-01.wav|1|あー負けた…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-12-MStudent-Turn-02.wav|1|うん。だからそのぶん、余計悔しい…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-13-MStudent-Turn-01.wav|1|俺さ、後悔してるんだ。合唱コンクールで指揮者になったこと。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-13-MStudent-Turn-02.wav|1|優勝できなきゃ意味ないよ。みんなだって、俺のこと信頼してくれなくなったよ。きっと。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-14-MStudent-Turn-01.wav|1|ゴールキーパーなのに、守れなかった。悔しい…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-14-MStudent-Turn-02.wav|1|きっと、チームのみんなは、俺のこと憎んでる。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-15-MStudent-Turn-01.wav|1|野球、なんで勝てなかったんだろう。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-15-MStudent-Turn-02.wav|1|うん、俺だけの頭で考えてても結論は出ないからそうする。ありがとう！先生。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-16-MStudent-Turn-01.wav|1|最後の大会、いつもと同じ、二回戦負けでした。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-16-MStudent-Turn-02.wav|1|僕の場合は後からでした。その時は真っ白で、何も考えられなくて。もっと噛み締めながらプレーすれば、結果も違ったのかな。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-17-MStudent-Turn-01.wav|1|水泳大会で4位だったんだ、あんなにコーチに特訓してもらったのに、申し訳ない。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-17-MStudent-Turn-02.wav|1|そうだった。忘れてた。俺のためか。俺のための水泳大会か。次はもっと高みを目指したい！
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-18-MStudent-Turn-01.wav|1|どんなに頑張っても、無理なことってあるんですね。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-18-MStudent-Turn-02.wav|1|いや、実力の差を感じたんで、次回に向けて、もっと頑張らないとダメですね。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-19-MStudent-Turn-01.wav|1|今回の大会、全然ダメでした。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-19-MStudent-Turn-02.wav|1|ほんと、情けないです。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-20-MStudent-Turn-01.wav|1|俺、かっこ悪いくらいボロボロに負けちゃった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-20-MStudent-Turn-02.wav|1|卓球の試合で、相手のペースにのまれちゃって。恥ずかしいよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-21-MStudent-Turn-01.wav|1|また来年に向けて練習するしかないか。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-21-MStudent-Turn-02.wav|1|もっと一日の練習時間を長くする。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-22-MStudent-Turn-01.wav|1|春の大会は一回戦負けだったわ。悔しい。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-22-MStudent-Turn-02.wav|1|まあね。でも今のままじゃまたすぐ負けそうだよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-23-MStudent-Turn-01.wav|1|まさか負けるとは思わなかった…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-23-MStudent-Turn-02.wav|1|うん。自分たちが不甲斐ない…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-24-MStudent-Turn-01.wav|1|全国大会、予選敗退してしまいました。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-24-MStudent-Turn-02.wav|1|部活に使ってた体力、勉強に活かしますね。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-25-MStudent-Turn-01.wav|1|マジでありえねぇ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-26-MStudent-Turn-01.wav|1|最後の試合だったのに、出られませんでした。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-27-MStudent-Turn-01.wav|1|結局、甲子園行けなかったな。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-27-MStudent-Turn-02.wav|1|そうかな。まあ、高校生活のいい思い出にはなるよね。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-28-MStudent-Turn-01.wav|1|抑えられる自信があったのに、9回裏であんなに打たれるとは思わなかったよ。自分のせいで負けちゃったよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-28-MStudent-Turn-02.wav|1|チームのみんなに申し訳なくて、部活に行くのが怖くなってる。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-29-MStudent-Turn-01.wav|1|実は、重大なミスしちゃった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-29-MStudent-Turn-02.wav|1|俺、昨日のサッカーの決勝戦で、最後のシュートで外しちゃったんだよね。だから優勝できなかった。これで最後の試合のやつもいたのに。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-30-MStudent-Turn-01.wav|1|全然歯が立たなかったわ。レベルが違い過ぎる。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-30-MStudent-Turn-02.wav|1|相手が強いっていうか、俺たちが弱すぎるんだよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-31-MStudent-Turn-01.wav|1|あーもうだめだ。勉強も部活も、何もかもだめだ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-31-MStudent-Turn-02.wav|1|でもさ、周りのやつはどんどんできるようになってくんだよ。おれだけ取り残されて、いやになっちゃうよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-32-MStudent-Turn-01.wav|1|先生、今回の試合、ダメだったよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-32-MStudent-Turn-02.wav|1|あー、そうだよね！クジ運次第で、その可能性もあったんだよね？
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-33-MStudent-Turn-01.wav|1|野球の試合でエラーしちゃったよ。球が飛んできたら、緊張して動けなかったよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-33-MStudent-Turn-02.wav|1|チームのみんなにも迷惑をかけてしまって、つらいよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-34-MStudent-Turn-01.wav|1|号泣している先輩たちを見て、申し訳ない気持ちになったよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-34-MStudent-Turn-02.wav|1|心にぽっかりと穴があいたようで、何もする気にならないよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-35-MStudent-Turn-01.wav|1|書道大会で、入賞しかできなかった。俺としたことが。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-35-MStudent-Turn-02.wav|1|当たり前だよ。このためにずっと書いてきたんだよ？俺だって、上行きたい。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-36-MStudent-Turn-01.wav|1|テニスのダブルスの試合で、あと一歩の所で負けちゃった。ほんと、ペアのあいつに合わす顔がない。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-36-MStudent-Turn-02.wav|1|絶対、俺のせいだって思ってるよ。だから、会うのが怖い。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-37-MStudent-Turn-01.wav|1|水泳のエースのくせに、負けて恥だわ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-37-MStudent-Turn-02.wav|1|それもそうだね。エースの俺が落ち込んでても、仕方ないか。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-38-MStudent-Turn-01.wav|1|もう辞めようかなって思うくらい、陸上の成績が悪かったんだ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-38-MStudent-Turn-02.wav|1|賭ける？何を？
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-39-MStudent-Turn-01.wav|1|仲間と頑張ってきて自信があったのに、肝心の本番で失敗してしまいました。なんか悔しいです。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-39-MStudent-Turn-02.wav|1|やっぱり、僕は才能が無いのかな。情けなくなってきます。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-40-MStudent-Turn-01.wav|1|あーあ、失敗しちまった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-40-MStudent-Turn-02.wav|1|精神面に問題があったかもな。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-41-MStudent-Turn-01.wav|1|いやー、負けた、負けた。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-41-MStudent-Turn-02.wav|1|もう、野球は引退するよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-42-MStudent-Turn-01.wav|1|昨日の試合、僕のせいで負けちゃたんです。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-42-MStudent-Turn-02.wav|1|最終回で僕が三振して。せっかくの逆転チャンスだったのに…。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-43-MStudent-Turn-01.wav|1|もう、部活やめようと思う。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-43-MStudent-Turn-02.wav|1|俺が足を引っ張って、チームが試合に負けちゃった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-44-MStudent-Turn-01.wav|1|この前の日曜日、1次リーグで負けちゃったんだ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-45-MStudent-Turn-01.wav|1|あいつらのせいで、俺らの男子バスケ、負けたんだよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-45-MStudent-Turn-02.wav|1|カッコ悪い？俺が？そんなつもりなかった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-46-MStudent-Turn-01.wav|1|もうそろそろ部活も引退なんだけど、最後の大会だけ失敗しちゃって、いい結果出なかったんだよね。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-46-MStudent-Turn-02.wav|1|そうなんだよ。なんか不完全燃焼だったから、勉強にも身がはいらなくて、イマイチなんだよね。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-47-MStudent-Turn-01.wav|1|おとといの試合、負けちゃった。僕の高校最後の試合だったのに。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-47-MStudent-Turn-02.wav|1|うん、それはそうなんだけど。やっぱり最後は優勝して、強いチームとして後輩たちに引き渡したかったんだ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-48-MStudent-Turn-01.wav|1|まさかの初戦敗退。ショックすぎる。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-48-MStudent-Turn-02.wav|1|センスが無いのかなー？俺。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-49-MStudent-Turn-01.wav|1|試合で負けたことを考えると、何も手につかなくて、勉強する気にもなれません。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-49-MStudent-Turn-02.wav|1|頭ではわかってるんですけど、気持ちが追い付かないっていうか。そんな感じです。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-50-MStudent-Turn-01.wav|1|この前の試合、負けちゃったんです。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-50-MStudent-Turn-02.wav|1|はい。なんだか勉強も身が入らなくて。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-51-MStudent-Turn-01.wav|1|決勝で負けて、甲子園行けなかった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-51-MStudent-Turn-02.wav|1|また夢が叶わなかったよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-52-MStudent-Turn-01.wav|1|「結果が出ない自分が情けない」って気持ちでいっぱいです。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-52-MStudent-Turn-02.wav|1|高校最後の大会だったのに、こんな成績で、今まで頑張って練習してきたのはなんだったんだろうって。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-53-MStudent-Turn-01.wav|1|俺たち、今回のリーグ戦、1回戦目で敗退。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-53-MStudent-Turn-02.wav|1|そうなんだけどさ、やっぱり落ち込むよなぁ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-54-MStudent-Turn-01.wav|1|先生、この前のコンクール、入選できなかった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-54-MStudent-Turn-02.wav|1|もう、やめようかな。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-55-MStudent-Turn-01.wav|1|あーあ、本番じゃ緊張してしまって、全然ダメだったなあ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-55-MStudent-Turn-02.wav|1|でも、次回も失敗しそうだなあ。全然自信がないや。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-56-MStudent-Turn-01.wav|1|英語の弁論大会で予選通過出来なかった。先生にもアドバイスもらったり、教えてもらったのに、ごめんね。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-56-MStudent-Turn-02.wav|1|本当にごめんね。つらいよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-57-MStudent-Turn-01.wav|1|あーあ。終わっちゃった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-57-MStudent-Turn-02.wav|1|試合に負けてさ。今年はもう少しいけると思ってたんだけどな。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-58-MStudent-Turn-01.wav|1|大会で優勝出来なかったんだ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-58-MStudent-Turn-02.wav|1|残念過ぎて、モチベーション上がらないよ。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-59-MStudent-Turn-01.wav|1|先生、きのう試合があったんだけど、１回戦で敗退しちゃった。悔しくて、悔しくて。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-59-MStudent-Turn-02.wav|1|先生、ありがとう。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-60-MStudent-Turn-01.wav|1|サッカー部の試合で、俺のミスが致命的だった。
+dataset/STUDIES/Short_dialogue/SD06/wav/SD06-Dialogue-60-MStudent-Turn-02.wav|1|違うんだ。ゴール前で、ボールを相手に取られたんだ。
 dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-01-Teacher-Turn-01.wav|0|今回は、すごく頑張っていたもんね！
 dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-01-Teacher-Turn-02.wav|0|ちゃんと実行できたのがすごい！よくやったね！
 dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-02-Teacher-Turn-01.wav|0|勉強、頑張っていたもんね！
@@ -1083,84 +1083,84 @@ dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-19-FStudent-Turn-02.wav|2|
 dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-20-FStudent-Turn-01.wav|2|先日のテストの結果、95点でした！自分が思ってた以上に良くて、びっくりしました。
 dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-20-FStudent-Turn-02.wav|2|今まであまり自信なかったんですが、ちょっとずつ点数が上がってきて、嬉しいです。
 dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-21-FStudent-Turn-01.wav|2|ねえ先生！今回のテストは点数がすごく良かったんです。先生のおかげです！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-21-FStudent-Turn-02.wav|2|先生、この前のテストさ、めっちゃ点数良かったんだよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-22-FStudent-Turn-01.wav|2|うん！先生に教わったところも、バッチリ出たし、問題見た瞬間、思わずガッツポーズしちゃったよ。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-22-FStudent-Turn-02.wav|2|英語が苦手だったけど、少しずつ点数上がって来たよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-23-FStudent-Turn-01.wav|2|うん！今回は80点！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-23-FStudent-Turn-02.wav|2|見てください！これ。いい点ですよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-24-FStudent-Turn-01.wav|2|これも、先生が教えてくれたからですかねー！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-24-FStudent-Turn-02.wav|2|なんと、国語で90点取っちゃいましたー！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-25-FStudent-Turn-01.wav|2|まあ、私なら、こんなの普通でしょ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-25-FStudent-Turn-02.wav|2|今まで苦手だった物理のテスト、平均点を大きく上回りました！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-26-FStudent-Turn-01.wav|2|なんだか、自分が信じられないというか、かつての自分じゃないみたいです。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-26-FStudent-Turn-02.wav|2|このあいだのテスト、100点だったよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-27-FStudent-Turn-01.wav|2|遊ぶの我慢して、勉強した甲斐があったよ。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-27-FStudent-Turn-02.wav|2|テストでいい点を取ると、気持ちがいいね！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-28-FStudent-Turn-01.wav|2|頑張るって、いいことだね！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-28-FStudent-Turn-02.wav|2|先生、聞いてください！この前のテスト、クラスで一番の成績でした！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-29-FStudent-Turn-01.wav|2|まぐれかもしれませんが、自信がついてきました。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-29-FStudent-Turn-02.wav|2|今日ね、テストの発表があって、点数が良かったんだ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-30-FStudent-Turn-01.wav|2|そう！だいぶ上がって、目標の30位以内に入ったよ。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-30-FStudent-Turn-02.wav|2|先生！テスト返って来たよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-31-FStudent-Turn-01.wav|2|わかる？見て見て！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-31-FStudent-Turn-02.wav|2|先生、この前のテストで、目標の点数を取ることができました！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-32-FStudent-Turn-01.wav|2|ありがとうございます！次のテストも、頑張ります！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-32-FStudent-Turn-02.wav|2|いい点数が取れて、ほっとしました！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-33-FStudent-Turn-01.wav|2|先生の指導どおりに勉強したのが、良かったと思います！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-33-FStudent-Turn-02.wav|2|今日はとても気分がいいんだ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-34-FStudent-Turn-01.wav|2|テストでいい点が取れて、ルンルンなの！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-34-FStudent-Turn-02.wav|2|テストで99点だった！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-35-FStudent-Turn-01.wav|2|ケアレスミスでの減点…。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-35-FStudent-Turn-02.wav|2|先生見てください！100点取ったんです！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-36-FStudent-Turn-01.wav|2|先生のおかげです！ありがとうございます！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-36-FStudent-Turn-02.wav|2|2学期の成績、少し上がったよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-37-FStudent-Turn-01.wav|2|75点！結構上がったよね？
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-37-FStudent-Turn-02.wav|2|こんな点数とったことないよ！先生のおかげだよ。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-38-FStudent-Turn-01.wav|2|ありがとう！なんか、勉強が楽しくなってきたかも？
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-38-FStudent-Turn-02.wav|2|私、ご機嫌なの。わかる？
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-39-FStudent-Turn-01.wav|2|テストの点数、すっごく良かったんだよね！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-39-FStudent-Turn-02.wav|2|すごくない？すごくない？
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-40-FStudent-Turn-01.wav|2|先生の教え方のおかげですよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-40-FStudent-Turn-02.wav|2|先生、今回いい点とれたよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-41-FStudent-Turn-01.wav|2|苦手な所だったけど、1週間かけて頑張って覚えた！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-41-FStudent-Turn-02.wav|2|先生！先生のおかげで、テストの成績めっちゃよかった！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-42-FStudent-Turn-01.wav|2|そうかなぁ…？そうかもね！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-42-FStudent-Turn-02.wav|2|やったー！こんなにいい点数とったの初めてかも！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-43-FStudent-Turn-01.wav|2|先生が色々教えてくれたおかげだよ！ありがとう！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-43-FStudent-Turn-02.wav|2|やったね！満点とったよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-44-FStudent-Turn-01.wav|2|ありがとう。これも、先生の教え方が良かったおかげだよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-44-FStudent-Turn-02.wav|2|英語のテストね、学年で5位だったんだよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-45-FStudent-Turn-01.wav|2|なんか調子よかったみたい。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-45-FStudent-Turn-02.wav|2|たくさん褒めてもらえたから、次も頑張れそう！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-46-FStudent-Turn-01.wav|2|うん！学年トップ目指す！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-46-FStudent-Turn-02.wav|2|先生！今回の期末テスト、これまでの最高点、取っちゃった！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-47-FStudent-Turn-01.wav|2|先生がいつも、私が理解できるまで根気よく教えてくれるからだよ。ありがとう！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-47-FStudent-Turn-02.wav|2|今まで一番いい点取れました！やった！見て見て！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-48-FStudent-Turn-01.wav|2|結果が良かったら、自分へのご褒美で、欲しい物買う！って決めてたんです。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-48-FStudent-Turn-02.wav|2|ねぇ先生、見てこれ！うち、すごくない？
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-49-FStudent-Turn-01.wav|2|ここ！漢字間違えただけだから、実質100点！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-49-FStudent-Turn-02.wav|2|こんなにいい点数が取れるなんて、夢みたいです！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-50-FStudent-Turn-01.wav|2|はい！いい点数取れると、もっと頑張ろうっていう気になります！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-50-FStudent-Turn-02.wav|2|じゃーん！国語で満点取っちゃいました！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-51-FStudent-Turn-01.wav|2|もう国語なんて余裕だしー。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-51-FStudent-Turn-02.wav|2|先生！このあいだのテスト、順位が上がってた！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-52-FStudent-Turn-01.wav|2|数A！先生とやった例題が出た！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-52-FStudent-Turn-02.wav|2|地理のテスト、めちゃくちゃ良かったよ！先生！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-53-FStudent-Turn-01.wav|2|それがね、なんと、95点でした！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-53-FStudent-Turn-02.wav|2|3教科とも、2学期の成績を上回ったよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-54-FStudent-Turn-01.wav|2|数学はプラス5点、英語はプラス10点！国語は、プラス3点かな！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-54-FStudent-Turn-02.wav|2|先生！いい報告があるの。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-55-FStudent-Turn-01.wav|2|みてほら！このテストの点！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-55-FStudent-Turn-02.wav|2|先生！私、苦手な古文のテストの点数が、今回すごく良かったんです！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-56-FStudent-Turn-01.wav|2|はい。でも今回、数学のテストの点数は悪くて…。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-56-FStudent-Turn-02.wav|2|もう泣きそうだよー！こんないい点数だなんて。
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-57-FStudent-Turn-01.wav|2|ここで、わかりやすく教えてもらってるからね！いつもありがとうございます！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-57-FStudent-Turn-02.wav|2|今日は、久々にいい事があったんだー！先生、なにかわかる？
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-58-FStudent-Turn-01.wav|2|そう！今回の学力テストで、前回よりもかなりいい成績が取れたの！これも、先生のおかげだよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-58-FStudent-Turn-02.wav|2|あ、先生！そういえば私、このあいだのテストで、最高得点を取れたんですよ！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-59-FStudent-Turn-01.wav|2|物理です。苦手だったんですけど、頑張って勉強しました！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-59-FStudent-Turn-02.wav|2|やったじゃん、私！
-dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-60-FStudent-Turn-01.wav|2|勉強頑張ってきて良かったー！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-22-FStudent-Turn-01.wav|2|先生、この前のテストさ、めっちゃ点数良かったんだよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-22-FStudent-Turn-02.wav|2|うん！先生に教わったところも、バッチリ出たし、問題見た瞬間、思わずガッツポーズしちゃったよ。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-23-FStudent-Turn-01.wav|2|英語が苦手だったけど、少しずつ点数上がって来たよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-23-FStudent-Turn-02.wav|2|うん！今回は80点！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-24-FStudent-Turn-01.wav|2|見てください！これ。いい点ですよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-24-FStudent-Turn-02.wav|2|これも、先生が教えてくれたからですかねー！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-25-FStudent-Turn-01.wav|2|なんと、国語で90点取っちゃいましたー！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-25-FStudent-Turn-02.wav|2|まあ、私なら、こんなの普通でしょ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-26-FStudent-Turn-01.wav|2|今まで苦手だった物理のテスト、平均点を大きく上回りました！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-26-FStudent-Turn-02.wav|2|なんだか、自分が信じられないというか、かつての自分じゃないみたいです。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-27-FStudent-Turn-01.wav|2|このあいだのテスト、100点だったよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-27-FStudent-Turn-02.wav|2|遊ぶの我慢して、勉強した甲斐があったよ。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-28-FStudent-Turn-01.wav|2|テストでいい点を取ると、気持ちがいいね！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-28-FStudent-Turn-02.wav|2|頑張るって、いいことだね！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-29-FStudent-Turn-01.wav|2|先生、聞いてください！この前のテスト、クラスで一番の成績でした！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-29-FStudent-Turn-02.wav|2|まぐれかもしれませんが、自信がついてきました。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-30-FStudent-Turn-01.wav|2|今日ね、テストの発表があって、点数が良かったんだ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-30-FStudent-Turn-02.wav|2|そう！だいぶ上がって、目標の30位以内に入ったよ。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-31-FStudent-Turn-01.wav|2|先生！テスト返って来たよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-31-FStudent-Turn-02.wav|2|わかる？見て見て！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-32-FStudent-Turn-01.wav|2|先生、この前のテストで、目標の点数を取ることができました！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-32-FStudent-Turn-02.wav|2|ありがとうございます！次のテストも、頑張ります！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-33-FStudent-Turn-01.wav|2|いい点数が取れて、ほっとしました！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-33-FStudent-Turn-02.wav|2|先生の指導どおりに勉強したのが、良かったと思います！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-34-FStudent-Turn-01.wav|2|今日はとても気分がいいんだ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-34-FStudent-Turn-02.wav|2|テストでいい点が取れて、ルンルンなの！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-35-FStudent-Turn-01.wav|2|テストで99点だった！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-35-FStudent-Turn-02.wav|2|ケアレスミスでの減点…。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-36-FStudent-Turn-01.wav|2|先生見てください！100点取ったんです！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-36-FStudent-Turn-02.wav|2|先生のおかげです！ありがとうございます！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-37-FStudent-Turn-01.wav|2|2学期の成績、少し上がったよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-37-FStudent-Turn-02.wav|2|75点！結構上がったよね？
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-38-FStudent-Turn-01.wav|2|こんな点数とったことないよ！先生のおかげだよ。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-38-FStudent-Turn-02.wav|2|ありがとう！なんか、勉強が楽しくなってきたかも？
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-39-FStudent-Turn-01.wav|2|私、ご機嫌なの。わかる？
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-39-FStudent-Turn-02.wav|2|テストの点数、すっごく良かったんだよね！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-40-FStudent-Turn-01.wav|2|すごくない？すごくない？
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-40-FStudent-Turn-02.wav|2|先生の教え方のおかげですよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-41-FStudent-Turn-01.wav|2|先生、今回いい点とれたよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-41-FStudent-Turn-02.wav|2|苦手な所だったけど、1週間かけて頑張って覚えた！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-42-FStudent-Turn-01.wav|2|先生！先生のおかげで、テストの成績めっちゃよかった！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-42-FStudent-Turn-02.wav|2|そうかなぁ…？そうかもね！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-43-FStudent-Turn-01.wav|2|やったー！こんなにいい点数とったの初めてかも！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-43-FStudent-Turn-02.wav|2|先生が色々教えてくれたおかげだよ！ありがとう！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-44-FStudent-Turn-01.wav|2|やったね！満点とったよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-44-FStudent-Turn-02.wav|2|ありがとう。これも、先生の教え方が良かったおかげだよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-45-FStudent-Turn-01.wav|2|英語のテストね、学年で5位だったんだよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-45-FStudent-Turn-02.wav|2|なんか調子よかったみたい。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-46-FStudent-Turn-01.wav|2|たくさん褒めてもらえたから、次も頑張れそう！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-46-FStudent-Turn-02.wav|2|うん！学年トップ目指す！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-47-FStudent-Turn-01.wav|2|先生！今回の期末テスト、これまでの最高点、取っちゃった！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-47-FStudent-Turn-02.wav|2|先生がいつも、私が理解できるまで根気よく教えてくれるからだよ。ありがとう！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-48-FStudent-Turn-01.wav|2|今まで一番いい点取れました！やった！見て見て！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-48-FStudent-Turn-02.wav|2|結果が良かったら、自分へのご褒美で、欲しい物買う！って決めてたんです。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-49-FStudent-Turn-01.wav|2|ねぇ先生、見てこれ！うち、すごくない？
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-49-FStudent-Turn-02.wav|2|ここ！漢字間違えただけだから、実質100点！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-50-FStudent-Turn-01.wav|2|こんなにいい点数が取れるなんて、夢みたいです！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-50-FStudent-Turn-02.wav|2|はい！いい点数取れると、もっと頑張ろうっていう気になります！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-51-FStudent-Turn-01.wav|2|じゃーん！国語で満点取っちゃいました！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-51-FStudent-Turn-02.wav|2|もう国語なんて余裕だしー。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-52-FStudent-Turn-01.wav|2|先生！このあいだのテスト、順位が上がってた！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-52-FStudent-Turn-02.wav|2|数A！先生とやった例題が出た！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-53-FStudent-Turn-01.wav|2|地理のテスト、めちゃくちゃ良かったよ！先生！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-53-FStudent-Turn-02.wav|2|それがね、なんと、95点でした！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-54-FStudent-Turn-01.wav|2|3教科とも、2学期の成績を上回ったよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-54-FStudent-Turn-02.wav|2|数学はプラス5点、英語はプラス10点！国語は、プラス3点かな！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-55-FStudent-Turn-01.wav|2|先生！いい報告があるの。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-55-FStudent-Turn-02.wav|2|みてほら！このテストの点！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-56-FStudent-Turn-01.wav|2|先生！私、苦手な古文のテストの点数が、今回すごく良かったんです！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-56-FStudent-Turn-02.wav|2|はい。でも今回、数学のテストの点数は悪くて…。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-57-FStudent-Turn-01.wav|2|もう泣きそうだよー！こんないい点数だなんて。
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-57-FStudent-Turn-02.wav|2|ここで、わかりやすく教えてもらってるからね！いつもありがとうございます！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-58-FStudent-Turn-01.wav|2|今日は、久々にいい事があったんだー！先生、なにかわかる？
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-58-FStudent-Turn-02.wav|2|そう！今回の学力テストで、前回よりもかなりいい成績が取れたの！これも、先生のおかげだよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-59-FStudent-Turn-01.wav|2|あ、先生！そういえば私、このあいだのテストで、最高得点を取れたんですよ！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-59-FStudent-Turn-02.wav|2|物理です。苦手だったんですけど、頑張って勉強しました！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-60-FStudent-Turn-01.wav|2|やったじゃん、私！
+dataset/STUDIES/Short_dialogue/SD07/wav/SD07-Dialogue-60-FStudent-Turn-02.wav|2|勉強頑張ってきて良かったー！
 dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-01-Teacher-Turn-01.wav|0|ずっと頑張って練習していたもんね。今回は残念だったけど、まだチャンスあるじゃない。それに向けて、気持ち切り替えよう？
 dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-01-Teacher-Turn-02.wav|0|努力して報われないと自暴自棄になるよね。その気持ち、わかるよ？でも、何もかも諦めると後悔すると思うの。今はつらいと思うから、私に思いの丈をぶつけて、気持ちを整理したら、きっと練習できるようになるから安心してね。一緒に前に進もうね！
 dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-02-Teacher-Turn-01.wav|0|コンクールだったら、相当緊張するもんね。
@@ -1282,116 +1282,116 @@ dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-59-Teacher-Turn-02.wav|0|�
 dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-60-Teacher-Turn-01.wav|0|そうだったんだね。つらいよね。
 dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-60-Teacher-Turn-02.wav|0|今度は私も応援するよ。だから、落ち込まないでがんばってよ。
 dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-01-FStudent-Turn-01.wav|2|水泳の大会で、結果出せなかった。あんなに頑張ったのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-01-FStudent-Turn-02.wav|2|コンクールで、いつものように演奏することが、出来なかったんです。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-02-FStudent-Turn-01.wav|2|うまくできると、思ってたんですけど。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-02-FStudent-Turn-02.wav|2|バスケの試合で、ボロ負けだったの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-03-FStudent-Turn-01.wav|2|それもあるけど、私たちのチームが上手く連携できてなかったのが、ダメだと思っているの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-03-FStudent-Turn-02.wav|2|先生聞いてよ。あと一点で負けちゃった！女子バスケットボール。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-04-FStudent-Turn-01.wav|2|私が、あの時ちゃんとパスしてれば。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-04-FStudent-Turn-02.wav|2|部活生活最後の試合だったのに、惨敗してしまいました。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-05-FStudent-Turn-01.wav|2|せっかく応援してもらったのに、期待にこたえられなくてすみませんでした。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-05-FStudent-Turn-02.wav|2|吹奏楽部でさ、急に楽譜が倒れてきて、台無しになっちゃったんだ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-06-FStudent-Turn-01.wav|2|朝に慌てて設置したから。寝坊しちゃって。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-06-FStudent-Turn-02.wav|2|あれだけ練習したのに、上手くいかなかった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-07-FStudent-Turn-01.wav|2|でも、結果を出すために、頑張ってきたのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-07-FStudent-Turn-02.wav|2|ちょっと先生聞いて！高校最後だったのに、私のミスで、チームが決勝進出できなかった。自分のせいだ。自分に引いてる。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-08-FStudent-Turn-01.wav|2|なんか、一番先輩のくせに、本番で失敗するとか申し訳なくて。出たかったな、決勝。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-08-FStudent-Turn-02.wav|2|ああ、どうしてなの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-09-FStudent-Turn-01.wav|2|だって、思った結果が、全然でなかったんですもの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-09-FStudent-Turn-02.wav|2|また予選で負けちゃったよ。惜しかったんだけど。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-10-FStudent-Turn-01.wav|2|うん。前回は、1セットも取れなかったけどね。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-10-FStudent-Turn-02.wav|2|また同じとこでミスしたのが、すごい悔しいー。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-11-FStudent-Turn-01.wav|2|はーい。そうします。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-11-FStudent-Turn-02.wav|2|先週のテニスの試合、初戦で負けちゃいました。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-12-FStudent-Turn-01.wav|2|また負けると思うと、試合に出たくないです。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-12-FStudent-Turn-02.wav|2|ねえ先生。私、もうダメかも。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-13-FStudent-Turn-01.wav|2|こんなに頑張ってるのに、結果が出ないから。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-13-FStudent-Turn-02.wav|2|１回戦で負けるとは思わなかった。ショック。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-14-FStudent-Turn-01.wav|2|前回は勝っている相手だった。勝てると思ったのに、残念。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-14-FStudent-Turn-02.wav|2|コンクール、都大会には進めなかった…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-15-FStudent-Turn-01.wav|2|もう、なんもやる気になんないよ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-15-FStudent-Turn-02.wav|2|先生。せっかく、高校最後のコンクールだったのに、ミスしちゃったんだよね。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-16-FStudent-Turn-01.wav|2|それ以外はうまくいったけど。でも、賞は取れなかったから、あんま思い出したくない。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-16-FStudent-Turn-02.wav|2|この前の大会、全然ダメだった。頑張ったのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-17-FStudent-Turn-01.wav|2|私、負けてばかりだから、悲しくなる。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-17-FStudent-Turn-02.wav|2|自信があったのに、コンクールに入賞できなかったんです。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-18-FStudent-Turn-01.wav|2|でも、結果が出なくちゃ、意味がないですよ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-18-FStudent-Turn-02.wav|2|コンクール、負けちゃったぁ…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-19-FStudent-Turn-01.wav|2|うん。先生も応援してくれてたのに。ごめんね。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-19-FStudent-Turn-02.wav|2|この前の大会、結果が出なくて…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-20-FStudent-Turn-01.wav|2|頑張ったのに、ダメだった…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-20-FStudent-Turn-02.wav|2|あんなに頑張ったのに。努力は実らないのかなぁ…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-21-FStudent-Turn-01.wav|2|コンクールで入賞できなかった。悲しいよ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-21-FStudent-Turn-02.wav|2|まあそうだけど。少しミスもあったな。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-22-FStudent-Turn-01.wav|2|この前の試合は完封負け。1点も取れなかったの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-22-FStudent-Turn-02.wav|2|でもさあ、流石に0点ってヤバくない？
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-23-FStudent-Turn-01.wav|2|もう、部活辞めようかなあ？
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-23-FStudent-Turn-02.wav|2|また、試合で負けちゃって。今回はいけると思ったのになあ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-24-FStudent-Turn-01.wav|2|先生。コンクール、予選落ちしたわ…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-24-FStudent-Turn-02.wav|2|課題曲が、上手く演奏できなかった。緊張や、プレッシャーにも、勝てなかった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-25-FStudent-Turn-01.wav|2|はあ、すごく悔しいよ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-25-FStudent-Turn-02.wav|2|昨日のバレーボールの大会、1回戦で敗退したの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-26-FStudent-Turn-01.wav|2|私のせいで、試合に負けちゃって…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-26-FStudent-Turn-02.wav|2|みんなの、迷惑になっちゃって…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-27-FStudent-Turn-01.wav|2|バスケの試合、負けちゃった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-27-FStudent-Turn-02.wav|2|最後のコンクール、金賞逃しました…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-28-FStudent-Turn-01.wav|2|はい！やり切りました！
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-28-FStudent-Turn-02.wav|2|3位だった。納得がいかない。もうやる気が出ない。勉強にも、身が入らない。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-29-FStudent-Turn-01.wav|2|そうなんですよ、先生。私、試合まで勉強の時間まで削って、練習をしてきたのに。それでも3位って…。自分では、1位を取れるんじゃないかと思っていたのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-29-FStudent-Turn-02.wav|2|どうしよう、間に合わないよ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-30-FStudent-Turn-01.wav|2|そうかな？できるか不安で。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-30-FStudent-Turn-02.wav|2|コンクール、ダメだったの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-31-FStudent-Turn-01.wav|2|確かに、周りは上手かった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-31-FStudent-Turn-02.wav|2|結果が出せなくて、部活に対する意欲を失っちゃいました。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-32-FStudent-Turn-01.wav|2|そうでしょうか。試合なんだから、やっぱり結果がすべてなんじゃないでしょうか。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-32-FStudent-Turn-02.wav|2|こんなに頑張る必要あるのかな。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-33-FStudent-Turn-01.wav|2|うん。じゃあ、報われるのかな。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-33-FStudent-Turn-02.wav|2|このままじゃ、コンクールでビリだ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-34-FStudent-Turn-01.wav|2|先週の、吹奏楽コンクール、準優勝でした。優勝できませんでした…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-34-FStudent-Turn-02.wav|2|はい。でも、自信がなくなっちゃって。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-35-FStudent-Turn-01.wav|2|ああ、いくら練習しても駄目だ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-35-FStudent-Turn-02.wav|2|いくら練習しても、うまくなれないんです。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-36-FStudent-Turn-01.wav|2|先生。私、もう耐えられない。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-36-FStudent-Turn-02.wav|2|うん、苦しいけど…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-37-FStudent-Turn-01.wav|2|ダブルスだめだったよ、負けちゃった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-37-FStudent-Turn-02.wav|2|私のミスが多かったから、責任感じちゃってさ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-38-FStudent-Turn-01.wav|2|ねえねえ。合唱コンクールでね、指揮者やってるんだけど、みんなが上手く歌ってくれなかったの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-38-FStudent-Turn-02.wav|2|うん、そうだね！楽しかったし、いい経験だった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-39-FStudent-Turn-01.wav|2|頑張ったのに、上手くいきませんでした。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-39-FStudent-Turn-02.wav|2|でも、負けたら意味ありません。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-40-FStudent-Turn-01.wav|2|先生。私、今度も主役逃した。泣きそう…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-40-FStudent-Turn-02.wav|2|うん、とってもやりたい役だったのに。でも、主役になった友達の方が、やっぱり役にピッタリだった。私は準主役だけど、仕方ない…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-41-FStudent-Turn-01.wav|2|すごく頑張って練習したのに、結果が出なくて、ほんとにがっかりです。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-41-FStudent-Turn-02.wav|2|そうですね。でも、せっかくの大会で、結果が残せなかったことを考えると、ネガティブな気分に襲われます。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-42-FStudent-Turn-01.wav|2|まいったなー。気まずいよー。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-42-FStudent-Turn-02.wav|2|この前の大会で優勝できなくて。優勝候補だったから、先輩たち、なんか酷く落ち込んでいて。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-43-FStudent-Turn-01.wav|2|私は頑張ったのに。みんなが、理解してくれないの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-43-FStudent-Turn-02.wav|2|私のミスで負けてしまった。最悪だ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-44-FStudent-Turn-01.wav|2|絶対、みんな私の事を悪く言ってるなあ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-44-FStudent-Turn-02.wav|2|最後のスリーポイントを、私が外して負けちゃった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-45-FStudent-Turn-01.wav|2|うん。でも、私があれを決めてれば、逆転勝ちしてたんだよ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-45-FStudent-Turn-02.wav|2|先生、この前の試合、２回戦で負けちゃった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-46-FStudent-Turn-01.wav|2|結構強い人だったけど、あと少しで勝てそうだったのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-46-FStudent-Turn-02.wav|2|女子サッカーでさ、なんで敗北したと思う？
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-47-FStudent-Turn-01.wav|2|私なんて、毎日12時間練習したのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-47-FStudent-Turn-02.wav|2|この前の秋大会の準決勝、3タームで足をくじいて、そのままベンチ入り。試合も逆転負けするし、もう最悪。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-48-FStudent-Turn-01.wav|2|この前先生に話した、昨日のテニスの試合、負けちゃったの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-48-FStudent-Turn-02.wav|2|うん。でも、勝てると思ってた相手だったから、負けて自信なくしちゃった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-49-FStudent-Turn-01.wav|2|卓球でさ、ダブルスだったんだけど、私がミスしちゃったの。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-49-FStudent-Turn-02.wav|2|でも、みんなに迷惑をかけた。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-50-FStudent-Turn-01.wav|2|第一試合、勝てなかった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-50-FStudent-Turn-02.wav|2|でも、勝ちたかった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-51-FStudent-Turn-01.wav|2|私のせいで、試合に負けちゃった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-51-FStudent-Turn-02.wav|2|でも、でも！あの時私が…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-52-FStudent-Turn-01.wav|2|へこむわ。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-52-FStudent-Turn-02.wav|2|この前のコンクール、大事なところでミスしちゃった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-53-FStudent-Turn-01.wav|2|水泳コンクールで２位だったの。ずっと優勝目指してたのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-53-FStudent-Turn-02.wav|2|でも、一位がよかった。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-54-FStudent-Turn-01.wav|2|2回戦敗退。去年は準優勝だったのに。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-54-FStudent-Turn-02.wav|2|でも、やっぱり、悔しいな。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-55-FStudent-Turn-01.wav|2|先生は、合唱コンクールやったことある？私、ピアノ演奏だったんだけど、間違えちゃってさ…。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-55-FStudent-Turn-02.wav|2|だから、優勝できなくて…。苦しいよ。明日から、どういう顔で、登校すればいいのかな？
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-56-FStudent-Turn-01.wav|2|もう私、だめです。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-56-FStudent-Turn-02.wav|2|私、どうすればいいんでしょうか？
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-57-FStudent-Turn-01.wav|2|大会あったんだけど、負けちゃったんだよね。
-dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-57-FStudent-Turn-02.wav|2|がんばったんだけど、すっごい悔しい。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-02-FStudent-Turn-01.wav|2|コンクールで、いつものように演奏することが、出来なかったんです。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-02-FStudent-Turn-02.wav|2|うまくできると、思ってたんですけど。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-03-FStudent-Turn-01.wav|2|バスケの試合で、ボロ負けだったの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-03-FStudent-Turn-02.wav|2|それもあるけど、私たちのチームが上手く連携できてなかったのが、ダメだと思っているの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-04-FStudent-Turn-01.wav|2|先生聞いてよ。あと一点で負けちゃった！女子バスケットボール。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-04-FStudent-Turn-02.wav|2|私が、あの時ちゃんとパスしてれば。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-05-FStudent-Turn-01.wav|2|部活生活最後の試合だったのに、惨敗してしまいました。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-05-FStudent-Turn-02.wav|2|せっかく応援してもらったのに、期待にこたえられなくてすみませんでした。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-06-FStudent-Turn-01.wav|2|吹奏楽部でさ、急に楽譜が倒れてきて、台無しになっちゃったんだ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-06-FStudent-Turn-02.wav|2|朝に慌てて設置したから。寝坊しちゃって。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-07-FStudent-Turn-01.wav|2|あれだけ練習したのに、上手くいかなかった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-07-FStudent-Turn-02.wav|2|でも、結果を出すために、頑張ってきたのに。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-08-FStudent-Turn-01.wav|2|ちょっと先生聞いて！高校最後だったのに、私のミスで、チームが決勝進出できなかった。自分のせいだ。自分に引いてる。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-08-FStudent-Turn-02.wav|2|なんか、一番先輩のくせに、本番で失敗するとか申し訳なくて。出たかったな、決勝。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-09-FStudent-Turn-01.wav|2|ああ、どうしてなの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-09-FStudent-Turn-02.wav|2|だって、思った結果が、全然でなかったんですもの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-10-FStudent-Turn-01.wav|2|また予選で負けちゃったよ。惜しかったんだけど。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-10-FStudent-Turn-02.wav|2|うん。前回は、1セットも取れなかったけどね。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-11-FStudent-Turn-01.wav|2|また同じとこでミスしたのが、すごい悔しいー。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-11-FStudent-Turn-02.wav|2|はーい。そうします。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-12-FStudent-Turn-01.wav|2|先週のテニスの試合、初戦で負けちゃいました。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-12-FStudent-Turn-02.wav|2|また負けると思うと、試合に出たくないです。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-13-FStudent-Turn-01.wav|2|ねえ先生。私、もうダメかも。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-13-FStudent-Turn-02.wav|2|こんなに頑張ってるのに、結果が出ないから。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-14-FStudent-Turn-01.wav|2|１回戦で負けるとは思わなかった。ショック。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-14-FStudent-Turn-02.wav|2|前回は勝っている相手だった。勝てると思ったのに、残念。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-15-FStudent-Turn-01.wav|2|コンクール、都大会には進めなかった…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-15-FStudent-Turn-02.wav|2|もう、なんもやる気になんないよ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-16-FStudent-Turn-01.wav|2|先生。せっかく、高校最後のコンクールだったのに、ミスしちゃったんだよね。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-16-FStudent-Turn-02.wav|2|それ以外はうまくいったけど。でも、賞は取れなかったから、あんま思い出したくない。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-17-FStudent-Turn-01.wav|2|この前の大会、全然ダメだった。頑張ったのに。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-17-FStudent-Turn-02.wav|2|私、負けてばかりだから、悲しくなる。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-18-FStudent-Turn-01.wav|2|自信があったのに、コンクールに入賞できなかったんです。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-18-FStudent-Turn-02.wav|2|でも、結果が出なくちゃ、意味がないですよ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-19-FStudent-Turn-01.wav|2|コンクール、負けちゃったぁ…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-19-FStudent-Turn-02.wav|2|うん。先生も応援してくれてたのに。ごめんね。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-20-FStudent-Turn-01.wav|2|この前の大会、結果が出なくて…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-21-FStudent-Turn-01.wav|2|頑張ったのに、ダメだった…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-21-FStudent-Turn-02.wav|2|あんなに頑張ったのに。努力は実らないのかなぁ…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-22-FStudent-Turn-01.wav|2|コンクールで入賞できなかった。悲しいよ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-22-FStudent-Turn-02.wav|2|まあそうだけど。少しミスもあったな。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-23-FStudent-Turn-01.wav|2|この前の試合は完封負け。1点も取れなかったの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-23-FStudent-Turn-02.wav|2|でもさあ、流石に0点ってヤバくない？
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-24-FStudent-Turn-01.wav|2|もう、部活辞めようかなあ？
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-24-FStudent-Turn-02.wav|2|また、試合で負けちゃって。今回はいけると思ったのになあ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-25-FStudent-Turn-01.wav|2|先生。コンクール、予選落ちしたわ…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-25-FStudent-Turn-02.wav|2|課題曲が、上手く演奏できなかった。緊張や、プレッシャーにも、勝てなかった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-26-FStudent-Turn-01.wav|2|はあ、すごく悔しいよ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-26-FStudent-Turn-02.wav|2|昨日のバレーボールの大会、1回戦で敗退したの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-27-FStudent-Turn-01.wav|2|私のせいで、試合に負けちゃって…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-27-FStudent-Turn-02.wav|2|みんなの、迷惑になっちゃって…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-28-FStudent-Turn-01.wav|2|バスケの試合、負けちゃった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-29-FStudent-Turn-01.wav|2|最後のコンクール、金賞逃しました…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-29-FStudent-Turn-02.wav|2|はい！やり切りました！
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-30-FStudent-Turn-01.wav|2|3位だった。納得がいかない。もうやる気が出ない。勉強にも、身が入らない。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-30-FStudent-Turn-02.wav|2|そうなんですよ、先生。私、試合まで勉強の時間まで削って、練習をしてきたのに。それでも3位って…。自分では、1位を取れるんじゃないかと思っていたのに。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-31-FStudent-Turn-01.wav|2|どうしよう、間に合わないよ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-31-FStudent-Turn-02.wav|2|そうかな？できるか不安で。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-32-FStudent-Turn-01.wav|2|コンクール、ダメだったの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-32-FStudent-Turn-02.wav|2|確かに、周りは上手かった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-33-FStudent-Turn-01.wav|2|結果が出せなくて、部活に対する意欲を失っちゃいました。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-33-FStudent-Turn-02.wav|2|そうでしょうか。試合なんだから、やっぱり結果がすべてなんじゃないでしょうか。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-34-FStudent-Turn-01.wav|2|こんなに頑張る必要あるのかな。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-34-FStudent-Turn-02.wav|2|うん。じゃあ、報われるのかな。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-35-FStudent-Turn-01.wav|2|このままじゃ、コンクールでビリだ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-36-FStudent-Turn-01.wav|2|先週の、吹奏楽コンクール、準優勝でした。優勝できませんでした…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-36-FStudent-Turn-02.wav|2|はい。でも、自信がなくなっちゃって。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-37-FStudent-Turn-01.wav|2|ああ、いくら練習しても駄目だ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-37-FStudent-Turn-02.wav|2|いくら練習しても、うまくなれないんです。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-38-FStudent-Turn-01.wav|2|先生。私、もう耐えられない。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-38-FStudent-Turn-02.wav|2|うん、苦しいけど…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-39-FStudent-Turn-01.wav|2|ダブルスだめだったよ、負けちゃった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-39-FStudent-Turn-02.wav|2|私のミスが多かったから、責任感じちゃってさ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-40-FStudent-Turn-01.wav|2|ねえねえ。合唱コンクールでね、指揮者やってるんだけど、みんなが上手く歌ってくれなかったの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-40-FStudent-Turn-02.wav|2|うん、そうだね！楽しかったし、いい経験だった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-41-FStudent-Turn-01.wav|2|頑張ったのに、上手くいきませんでした。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-41-FStudent-Turn-02.wav|2|でも、負けたら意味ありません。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-42-FStudent-Turn-01.wav|2|先生。私、今度も主役逃した。泣きそう…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-42-FStudent-Turn-02.wav|2|うん、とってもやりたい役だったのに。でも、主役になった友達の方が、やっぱり役にピッタリだった。私は準主役だけど、仕方ない…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-43-FStudent-Turn-01.wav|2|すごく頑張って練習したのに、結果が出なくて、ほんとにがっかりです。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-43-FStudent-Turn-02.wav|2|そうですね。でも、せっかくの大会で、結果が残せなかったことを考えると、ネガティブな気分に襲われます。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-44-FStudent-Turn-01.wav|2|まいったなー。気まずいよー。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-44-FStudent-Turn-02.wav|2|この前の大会で優勝できなくて。優勝候補だったから、先輩たち、なんか酷く落ち込んでいて。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-45-FStudent-Turn-01.wav|2|私は頑張ったのに。みんなが、理解してくれないの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-46-FStudent-Turn-01.wav|2|私のミスで負けてしまった。最悪だ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-46-FStudent-Turn-02.wav|2|絶対、みんな私の事を悪く言ってるなあ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-47-FStudent-Turn-01.wav|2|最後のスリーポイントを、私が外して負けちゃった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-47-FStudent-Turn-02.wav|2|うん。でも、私があれを決めてれば、逆転勝ちしてたんだよ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-48-FStudent-Turn-01.wav|2|先生、この前の試合、２回戦で負けちゃった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-48-FStudent-Turn-02.wav|2|結構強い人だったけど、あと少しで勝てそうだったのに。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-49-FStudent-Turn-01.wav|2|女子サッカーでさ、なんで敗北したと思う？
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-49-FStudent-Turn-02.wav|2|私なんて、毎日12時間練習したのに。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-50-FStudent-Turn-01.wav|2|この前の秋大会の準決勝、3タームで足をくじいて、そのままベンチ入り。試合も逆転負けするし、もう最悪。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-51-FStudent-Turn-01.wav|2|この前先生に話した、昨日のテニスの試合、負けちゃったの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-51-FStudent-Turn-02.wav|2|うん。でも、勝てると思ってた相手だったから、負けて自信なくしちゃった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-52-FStudent-Turn-01.wav|2|卓球でさ、ダブルスだったんだけど、私がミスしちゃったの。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-52-FStudent-Turn-02.wav|2|でも、みんなに迷惑をかけた。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-53-FStudent-Turn-01.wav|2|第一試合、勝てなかった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-53-FStudent-Turn-02.wav|2|でも、勝ちたかった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-54-FStudent-Turn-01.wav|2|私のせいで、試合に負けちゃった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-54-FStudent-Turn-02.wav|2|でも、でも！あの時私が…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-55-FStudent-Turn-01.wav|2|へこむわ。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-55-FStudent-Turn-02.wav|2|この前のコンクール、大事なところでミスしちゃった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-56-FStudent-Turn-01.wav|2|水泳コンクールで２位だったの。ずっと優勝目指してたのに。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-56-FStudent-Turn-02.wav|2|でも、一位がよかった。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-57-FStudent-Turn-01.wav|2|2回戦敗退。去年は準優勝だったのに。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-57-FStudent-Turn-02.wav|2|でも、やっぱり、悔しいな。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-58-FStudent-Turn-01.wav|2|先生は、合唱コンクールやったことある？私、ピアノ演奏だったんだけど、間違えちゃってさ…。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-58-FStudent-Turn-02.wav|2|だから、優勝できなくて…。苦しいよ。明日から、どういう顔で、登校すればいいのかな？
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-59-FStudent-Turn-01.wav|2|もう私、だめです。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-59-FStudent-Turn-02.wav|2|私、どうすればいいんでしょうか？
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-60-FStudent-Turn-01.wav|2|大会あったんだけど、負けちゃったんだよね。
+dataset/STUDIES/Short_dialogue/SD12/wav/SD12-Dialogue-60-FStudent-Turn-02.wav|2|がんばったんだけど、すっごい悔しい。

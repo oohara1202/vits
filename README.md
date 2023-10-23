@@ -102,7 +102,7 @@ This model is used for voice conversion.
 # preprocess dataset
 mkdir dataset
 . prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES_22k STUDIES
-python prep_dataset/06_prep_studies.py
+python prep_dataset/05_prep_studies.py
 
 # train
 nohup python train_ms.py -c configs/studies_vc.json -m studies_vc > logs/studies_vc.out
