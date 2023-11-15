@@ -1,6 +1,6 @@
 pretrained_models
 dataset
-generated_wav
+wav
 dump
 *.out
 *.wav
