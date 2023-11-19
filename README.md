@@ -66,7 +66,10 @@ nohup python train_ms.py -c configs/studies-teacher_base.json -m studies-teacher
 nohup python train_embed.py -c configs/studies-teacher_xvector.json -m studies-teacher_xvector > logs/studies-teacher_xvector.out
 
 # finetune
-TODO
+## original
+nohup python train_ms.py -c configs/studies-teacher_base_ft.json -m studies-teacher_base_ft -f studies-calls_base > logs/studies-teacher_base_ft.out
+## with x-vector
+nohup python train_embed.py -c configs/studies-teacher_xvector_ft.json -m studies-teacher_xvector_ft -f studies-calls_xvector > logs/studies-teacher_xvector_ft.out
 ```
 
 ## STUDIES + CALLS training
