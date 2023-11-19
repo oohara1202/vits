@@ -111,6 +111,11 @@ def run(rank, n_gpus, hps):
   except:
     epoch_str = 1
     global_step = 0
+    # ファインチューニング用
+    if hps.use_finetune:
+      logger.info(f'FINE-TUNE from: {hps.ft_model}')
+      _ = utils.load_checkpoint(utils.latest_checkpoint_path(hps.ft_model, "G_*.pth"), net_g, optim_g)
+      _ = utils.load_checkpoint(utils.latest_checkpoint_path(hps.ft_model, "D_*.pth"), net_d, optim_d)
 
   scheduler_g = torch.optim.lr_scheduler.ExponentialLR(optim_g, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)
   scheduler_d = torch.optim.lr_scheduler.ExponentialLR(optim_d, gamma=hps.train.lr_decay, last_epoch=epoch_str-2)

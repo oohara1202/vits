@@ -155,6 +155,9 @@ def get_hparams(init=True):
                       help='JSON file for configuration')
   parser.add_argument('-m', '--model', type=str, required=True,
                       help='Model name')
+  # ファインチューニング用
+  parser.add_argument('-f', '--finetune', type=str, default=None,
+                      help='Init model name for finetune')
   
   args = parser.parse_args()
   model_dir = os.path.join("./logs", args.model)
@@ -176,6 +179,14 @@ def get_hparams(init=True):
   
   hparams = HParams(**config)
   hparams.model_dir = model_dir
+
+  # ファインチューニング用
+  if args.finetune:
+    hparams.use_finetune = True
+    hparams.ft_model = os.path.join("./logs", args.finetune)
+  else:
+    hparams.use_finetune = False
+
   return hparams
 
 
