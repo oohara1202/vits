@@ -13,6 +13,32 @@ from torch.nn import Conv1d, ConvTranspose1d, AvgPool1d, Conv2d
 from torch.nn.utils import weight_norm, remove_weight_norm, spectral_norm
 from commons import init_weights, get_padding
 
+# Layer-levelかつFrame-levelのSSL特徴量をUtterance-levelに集約
+class UtteranceLevelFeaturizer(nn.Module):
+  def __init__(self, layer_num=13):
+    super().__init__()
+    self.layer_num = layer_num
+    self.weights = nn.Parameter(torch.zeros(self.layer_num))
+
+  def _weighted_sum(self, feature):
+    # feature:
+    #   [Batch, Layer, Frame, Feature] --> [Layer, Batch, Frame, Feature]
+    feature = feature.transpose(0, 1)
+    _, *origin_shape = feature.shape
+    feature = feature.contiguous().view(self.layer_num, -1)
+    norm_weights = F.softmax(self.weights, dim=-1)
+    weighted_feature = (norm_weights.unsqueeze(-1) * feature).sum(dim=0)
+    weighted_feature = weighted_feature.view(*origin_shape)
+
+    return weighted_feature  # [Batch, frame, Feature]
+
+  def forward(self, feature, features_len):
+    # features_lenの使い道は未知数
+    feature_BxTxH = self._weighted_sum(feature)
+    feature = torch.mean(feature_BxTxH, dim=1)
+
+    return feature
+
 
 class StochasticDurationPredictor(nn.Module):
   def __init__(self, in_channels, filter_channels, kernel_size, p_dropout, n_flows=4, gin_channels=0):
@@ -413,7 +439,8 @@ class SynthesizerTrn(nn.Module):
     gin_channels=0,
     use_sdp=True,
     use_embed=False,  # for embedding conditioning
-    embed_dim=0,      # for embedding conditioning
+    use_embed_ssl=False,  # for conditioning with ssl feature
+    embed_dim=None,   # for embedding conditioning
     **kwargs):
 
     super().__init__()
@@ -439,6 +466,7 @@ class SynthesizerTrn(nn.Module):
     self.use_sdp = use_sdp
 
     self.use_embed = use_embed  # for embedding conditioning
+    self.use_embed_ssl = use_embed_ssl  # for conditioning with ssl feature
     self.embed_dim = embed_dim  # for embedding conditioning
 
     self.enc_p = TextEncoder(n_vocab,
@@ -462,14 +490,20 @@ class SynthesizerTrn(nn.Module):
     if use_embed:
       self.spemb_proj = torch.nn.Linear(embed_dim, gin_channels)
       # self.spemb_proj = torch.nn.LazyLinear(gin_channels)  # parallelだと相性悪し
+    elif use_embed_ssl:
+      self.ulf = UtteranceLevelFeaturizer()
+      self.spemb_proj = torch.nn.Linear(embed_dim, gin_channels)
     # single-speakerでもmulti-speakerでもembedding vectorを使うためにif文を変更
     elif n_speakers > 1:
       self.emb_g = nn.Embedding(n_speakers, gin_channels)
 
-  def forward(self, x, x_lengths, y, y_lengths, sid=None, embeds=None):
+  def forward(self, x, x_lengths, y, y_lengths, sid=None, embeds=None, embeds_ssl_lengths=None):
     x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
     # change for embedding conditioning
     if self.use_embed:
+      g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
+    elif self.use_embed_ssl:
+      embeds = self.ulf(embeds, embeds_ssl_lengths)
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
     elif self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
@@ -508,10 +542,13 @@ class SynthesizerTrn(nn.Module):
     o = self.dec(z_slice, g=g)
     return o, l_length, attn, ids_slice, x_mask, y_mask, (z, z_p, m_p, logs_p, m_q, logs_q)
 
-  def infer(self, x, x_lengths, sid=None, embeds=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
+  def infer(self, x, x_lengths, sid=None, embeds=None, embeds_ssl_lengths=None, noise_scale=1, length_scale=1, noise_scale_w=1., max_len=None):
     x, m_p, logs_p, x_mask = self.enc_p(x, x_lengths)
     # change for embedding conditioning
     if self.use_embed:
+      g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
+    elif self.use_embed_ssl:
+      embeds = self.ulf(embeds, embeds_ssl_lengths)
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
     elif self.n_speakers > 0:
       g = self.emb_g(sid).unsqueeze(-1) # [b, h, 1]
