@@ -20,24 +20,27 @@ class UtteranceLevelFeaturizer(nn.Module):
     self.layer_num = layer_num
     self.weights = nn.Parameter(torch.zeros(self.layer_num))
 
-  def _weighted_sum(self, feature):
-    # feature:
-    #   [Batch, Layer, Frame, Feature] --> [Layer, Batch, Frame, Feature]
-    feature = feature.transpose(0, 1)
-    _, *origin_shape = feature.shape
-    feature = feature.contiguous().view(self.layer_num, -1)
+  def _weighted_sum(self, embeds_ssl):  # [batch(32), layer(13), frame(any), feature(768)]
+    embeds_ssl = embeds_ssl.transpose(0, 1)  # [layer(13), batch(32), frame(any), feature(768)]
+    _, *origin_shape = embeds_ssl.shape
+    embeds_ssl = embeds_ssl.contiguous().view(self.layer_num, -1)  # [layer(13), any(any)]
     norm_weights = F.softmax(self.weights, dim=-1)
-    weighted_feature = (norm_weights.unsqueeze(-1) * feature).sum(dim=0)
-    weighted_feature = weighted_feature.view(*origin_shape)
+    weighted_embeds_ssl = (norm_weights.unsqueeze(-1) * embeds_ssl).sum(dim=0)  # [any(any)]
+    weighted_embeds_ssl = weighted_embeds_ssl.view(*origin_shape)  # [batch(32), frame(any), feature(768)]
+   
+    return weighted_embeds_ssl
 
-    return weighted_feature  # [Batch, frame, Feature]
+  def forward(self, embeds_ssl, embeds_ssl_lengths):
+    embeds_ssl_BxTxH = self._weighted_sum(embeds_ssl)
+    
+    # averaged pooling
+    agg_vec_list = []
+    for i in range(len(embeds_ssl_BxTxH)):
+      agg_vec = torch.mean(embeds_ssl_BxTxH[i][:embeds_ssl_lengths[i]], dim=0)
+      agg_vec_list.append(agg_vec)
+    embeds_ssl = torch.stack(agg_vec_list)
 
-  def forward(self, feature, features_len):
-    # features_lenの使い道は未知数
-    feature_BxTxH = self._weighted_sum(feature)
-    feature = torch.mean(feature_BxTxH, dim=1)
-
-    return feature
+    return embeds_ssl
 
 
 class StochasticDurationPredictor(nn.Module):
@@ -438,9 +441,9 @@ class SynthesizerTrn(nn.Module):
     n_speakers=0,
     gin_channels=0,
     use_sdp=True,
-    use_embed=False,  # for embedding conditioning
-    use_embed_ssl=False,  # for conditioning with ssl feature
-    embed_dim=None,   # for embedding conditioning
+    use_embed=False,      # for embedding conditioning
+    use_embed_ssl=False,  # for conditioning with SSL feature
+    embed_dim=None,       # for embedding conditioning
     **kwargs):
 
     super().__init__()
@@ -465,9 +468,9 @@ class SynthesizerTrn(nn.Module):
 
     self.use_sdp = use_sdp
 
-    self.use_embed = use_embed  # for embedding conditioning
-    self.use_embed_ssl = use_embed_ssl  # for conditioning with ssl feature
-    self.embed_dim = embed_dim  # for embedding conditioning
+    self.use_embed = use_embed          # for embedding conditioning
+    self.use_embed_ssl = use_embed_ssl  # for conditioning with SSL feature
+    self.embed_dim = embed_dim          # for embedding conditioning
 
     self.enc_p = TextEncoder(n_vocab,
         inter_channels,
@@ -490,6 +493,7 @@ class SynthesizerTrn(nn.Module):
     if use_embed:
       self.spemb_proj = torch.nn.Linear(embed_dim, gin_channels)
       # self.spemb_proj = torch.nn.LazyLinear(gin_channels)  # parallelだと相性悪し
+    # change for conditioning with SSL feature
     elif use_embed_ssl:
       self.ulf = UtteranceLevelFeaturizer()
       self.spemb_proj = torch.nn.Linear(embed_dim, gin_channels)
@@ -502,6 +506,7 @@ class SynthesizerTrn(nn.Module):
     # change for embedding conditioning
     if self.use_embed:
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
+    # change for conditioning with SSL feature
     elif self.use_embed_ssl:
       embeds = self.ulf(embeds, embeds_ssl_lengths)
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
@@ -547,6 +552,7 @@ class SynthesizerTrn(nn.Module):
     # change for embedding conditioning
     if self.use_embed:
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]
+    # change for conditioning with SSL feature
     elif self.use_embed_ssl:
       embeds = self.ulf(embeds, embeds_ssl_lengths)
       g = self.spemb_proj(F.normalize(embeds)).unsqueeze(-1) # [b, h, 1]

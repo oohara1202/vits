@@ -45,27 +45,34 @@ def main():
     else:
         for t in ['gt', 'gen']:  # ground truthと合成音声を比較する用
             os.makedirs(os.path.join(dname, 'spk0', t), exist_ok=True)
- 
+
     # Referenceのembeddingを使うかどうか
     try:
         use_embed = hps.data.use_embed
+        try:
+            use_embed_ssl = hps.data.use_embed_ssl
+        except:
+            use_embed_ssl = False
         embed_dim = hps.data.embed_dim
     except:
-        use_embed = None
+        use_embed = False
         embed_dim = None
 
     # embeddingベクトルの読み込み
     if use_embed:
         embed_dir = hps.data.embed_dir
         embed_dict = _get_embed_dict(embed_dir, test_files)
-
+    elif use_embed_ssl:
+        embed_dir = hps.data.embed_dir
+    model_path = 'logs/jvs_xvector/G_30000.pth'
     net_g = SynthesizerTrn(
         len(symbols),
         hps.data.filter_length // 2 + 1,
         hps.train.segment_size // hps.data.hop_length,
         n_speakers = hps.data.n_speakers,
-        use_embed = use_embed,  # for embedding conditioning
-        embed_dim = embed_dim,  # for embedding conditioning
+        use_embed = use_embed,          # for embedding conditioning
+        use_embed_ssl = use_embed_ssl,  # for embedding conditioning
+        embed_dim = embed_dim,          # for embedding conditioning
         **hps.model).cuda()
     _ = net_g.eval()
     _ = utils.load_checkpoint(model_path, net_g, None)
@@ -93,8 +100,13 @@ def main():
             dst_path = os.path.join(dname, 'spk0', 'gt', fname)
         
         embeds = None                    # embedding
+        embeds_ssl_lengths = None        #
         if use_embed:                    #
             embeds = embed_dict[fpath]   # 
+            embeds = embeds.unsqueeze(0).cuda()
+        elif use_embed_ssl:              #
+            embeds = _get_embed_ssl(fpath, embed_dir, test_files)
+            embeds_ssl_lengths = torch.LongTensor(embeds.size(1)).unsqueeze(0).cuda()
             embeds = embeds.unsqueeze(0).cuda()
 
         # ground truthのシンボリックリンクを貼る
@@ -107,7 +119,7 @@ def main():
             x_tst = text_norm.cuda().unsqueeze(0)
             x_tst_lengths = torch.LongTensor([text_norm.size(0)]).cuda()
             # inference
-            audio = net_g.infer(x_tst, x_tst_lengths, sid=sid, embeds=embeds, noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0,0].data.cpu().float().numpy()
+            audio = net_g.infer(x_tst, x_tst_lengths, sid=sid, embeds=embeds, embeds_ssl_lengths=embeds_ssl_lengths, noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0,0].data.cpu().float().numpy()
             scipy.io.wavfile.write(os.path.join(save_dir, fname), hps.data.sampling_rate, audio)
 
 def _get_parser():
@@ -140,6 +152,20 @@ def _get_embed_dict(embed_dir, test_files):
     assert os.path.exists(embed_file)
     with open(embed_file, 'rb') as f:
         return pickle.load(f)
+
+# audiopathに対して保存していたSSLモデル特徴量を返す
+def _get_embed_ssl(audiopath, embed_dir, test_files):
+        feature_path = os.path.join(
+            embed_dir,
+            os.path.basename(test_files),
+            os.path.basename(audiopath)+'.pkl',
+        )
+        assert os.path.exists(feature_path)
+
+        with open(feature_path, 'rb') as f:
+            # [layer(13), frame(any), feature(768)]
+            embeds_ssl = pickle.load(f)
+        return embeds_ssl
 
 if __name__ == "__main__":
     main()

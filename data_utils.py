@@ -554,10 +554,10 @@ class TextAudioEmbedCollate():
             return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, embeds, ids_sorted_decreasing
         return text_padded, text_lengths, spec_padded, spec_lengths, wav_padded, wav_lengths, embeds
 
-"""ssl feature vector version"""
+"""SSL model feature version"""
 class TextAudioSSLEmbedLoader(torch.utils.data.Dataset):
     """
-        1) loads audio, ssl feature vector, text pairs
+        1) loads audio, SSL model feature, text pairs
         2) normalizes text and converts them to sequences of integers
         3) computes spectrograms from audio files.
     """
@@ -579,8 +579,8 @@ class TextAudioSSLEmbedLoader(torch.utils.data.Dataset):
         self.min_text_len = getattr(hparams, "min_text_len", 1)
         self.max_text_len = getattr(hparams, "max_text_len", 190)
 
-        self.files_path = files_path        # for conditioning with ssl feature
-        self.embed_dir = hparams.embed_dir  # for conditioning with ssl feature
+        self.files_path = files_path        # for conditioning with SSL feature
+        self.embed_dir = hparams.embed_dir  # for conditioning with SSL feature
 
         random.seed(1234)
         random.shuffle(self.audiopaths_and_text)
@@ -610,7 +610,7 @@ class TextAudioSSLEmbedLoader(torch.utils.data.Dataset):
         audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
         text = self.get_text(text)
         spec, wav = self.get_audio(audiopath)
-        embeds_ssl = self.get_embed_ssl(audiopath)  ###
+        embeds_ssl = self.get_embeds_ssl(audiopath)  # for conditioning with SSL feature
         return (text, spec, wav, embeds_ssl)
 
     def get_audio(self, filename):
@@ -641,7 +641,8 @@ class TextAudioSSLEmbedLoader(torch.utils.data.Dataset):
         text_norm = torch.LongTensor(text_norm)
         return text_norm
 
-    def get_embed_ssl(self, audiopath):
+    # for conditioning with SSL feature
+    def get_embeds_ssl(self, audiopath):
         feature_path = os.path.join(
             self.embed_dir,
             os.path.basename(self.files_path),
@@ -650,9 +651,9 @@ class TextAudioSSLEmbedLoader(torch.utils.data.Dataset):
         assert os.path.exists(feature_path)
 
         with open(feature_path, 'rb') as f:
-            # [Layer, 1, frame, feature] --> [Layer, frame, feature]
-            feature = torch.squeeze(torch.stack(pickle.load(f), dim=0))
-        return feature
+            # [layer(13), frame(any), feature(768)]
+            embeds_ssl = pickle.load(f)
+        return embeds_ssl
 
     def __getitem__(self, index):
         return self.get_audio_text_embed_pair(self.audiopaths_and_text[index])
@@ -668,10 +669,10 @@ class TextAudioSSLEmbedCollate():
         self.return_ids = return_ids
 
     def __call__(self, batch):
-        """Collate's training batch from normalized text, audio and embedding vector
+        """Collate's training batch from normalized text, audio and SSL model feature
         PARAMS
         ------
-        batch: [text_normalized, spec_normalized, wav_normalized, embed]
+        batch: [text_normalized, spec_normalized, wav_normalized, embeds_ssl]
         """
         # Right zero-pad all one-hot text sequences to max input length
         _, ids_sorted_decreasing = torch.sort(
@@ -681,20 +682,21 @@ class TextAudioSSLEmbedCollate():
         max_text_len = max([len(x[0]) for x in batch])
         max_spec_len = max([x[1].size(1) for x in batch])
         max_wav_len = max([x[2].size(1) for x in batch])
-        max_embeds_ssl_len = max([x[3].size(1) for x in batch])
+        # batch: [batch(32), layer(13), frame(any), feature(768)]
+        max_embeds_ssl_len = max([x[3].size(1) for x in batch])  # for conditioning with SSL feature
 
         text_lengths = torch.LongTensor(len(batch))
         spec_lengths = torch.LongTensor(len(batch))
         wav_lengths = torch.LongTensor(len(batch))
-        embeds_ssl_lengths = torch.LongTensor(len(batch))  # for conditioning with ssl feature
+        embeds_ssl_lengths = torch.LongTensor(len(batch))  # for conditioning with SSL feature
 
         text_padded = torch.LongTensor(len(batch), max_text_len)
         spec_padded = torch.FloatTensor(len(batch), batch[0][1].size(0), max_spec_len)
         wav_padded = torch.FloatTensor(len(batch), 1, max_wav_len)
-        # [Batch, Layer, frame, feature]
+        # batch: [batch(32), layer(13), frame(any), feature(768)]
         embeds_ssl_padded = torch.FloatTensor(
             len(batch), batch[0][3].size(0), max_embeds_ssl_len, batch[0][3].size(2)
-        )  # for conditioning with ssl feature
+        )  # for conditioning with SSL feature
         text_padded.zero_()
         spec_padded.zero_()
         wav_padded.zero_()
@@ -714,9 +716,9 @@ class TextAudioSSLEmbedCollate():
             wav_padded[i, :, :wav.size(1)] = wav
             wav_lengths[i] = wav.size(1)
 
-            # for conditioning with ssl feature
+            # for conditioning with SSL feature
             embeds_ssl = row[3]
-            embeds_ssl_padded[i, :, :embeds_ssl.size(1), :]
+            embeds_ssl_padded[i, :, :embeds_ssl.size(1), :] = embeds_ssl
             embeds_ssl_lengths[i] = embeds_ssl.size(1)
         
         if self.return_ids:

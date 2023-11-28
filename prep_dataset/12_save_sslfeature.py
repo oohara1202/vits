@@ -1,12 +1,12 @@
 # filelistsディレクトリに従ってSSLモデル特徴量を抽出・保存
-# frame-level特徴量であることに注意！
-# 次元数デカすぎてファイルごとに保存
+# Layer-levelかつFrame-level特徴量であることに注意！
+# 次元数デカすぎてDictにしたためられなかったのでファイルごとに保存
 import os
 import argparse
 import glob
 import pickle
 
-from extract_sslfeature import ExtractSSLFeature
+from extract_sslfeature import ExtractSSLModelFeature
 
 def main():
     ############################################
@@ -28,17 +28,17 @@ def main():
     dump_dirname = os.path.join(dump_dirname, os.path.basename(args.dirpath))
     os.makedirs(dump_dirname, exist_ok=True)  
 
-    extractor = ExtractSSLFeature()
+    extractor = ExtractSSLModelFeature()
 
     for cleaned_file in cleaned_files:
         save_dirname = os.path.join(dump_dirname, os.path.basename(cleaned_file))
         os.makedirs(save_dirname, exist_ok=True)  
-        print(f'Extracting ssl model feature: {cleaned_file}')
+        print(f'Extracting SSL model feature: {cleaned_file}')
         with open(cleaned_file, encoding='utf-8') as f:
             for line in f:
                 audiopath = line.strip().split('|')[0]
 
-                sslfeature = extractor(audiopath)  # 長さ13のtuple，中身はtorch.Size([1, frame, 768])
+                sslfeature = extractor(audiopath)  # [layer(13), frame(any), feature(768)]
 
                 # SSLモデル特徴量を「ファイルごとに」pickleで保存
                 save_sslfeature(
