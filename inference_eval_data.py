@@ -1,6 +1,5 @@
 # python inference_eval_data.py logs/jsut_base
 import os
-import argparse
 import scipy
 import torch
 import pickle
@@ -11,15 +10,17 @@ from models import SynthesizerTrn
 from text.symbols import symbols
 from text import text_to_sequence
 
+import inference_utils
+
 def main():
-    args = _get_parser().parse_args()
+    args = inference_utils.get_parser().parse_args()
     model_dir = args.model_dir
 
     # latestモデルのフルパス
     print('Model: ', end='')
     model_path = utils.latest_checkpoint_path(model_dir, 'G_*.pth')
     
-    hps = utils.get_hparams_from_file(_get_config(model_path))
+    hps = utils.get_hparams_from_file(inference_utils.get_config(model_path))
 
     # testデータのfilelistのpathを取得
     test_files = hps.data.training_files.replace('_train_', '_test_')
@@ -64,7 +65,7 @@ def main():
         embed_dict = _get_embed_dict(embed_dir, test_files)
     elif use_embed_ssl:
         embed_dir = hps.data.embed_dir
-    model_path = 'logs/jvs_xvector/G_30000.pth'
+
     net_g = SynthesizerTrn(
         len(symbols),
         hps.data.filter_length // 2 + 1,
@@ -106,7 +107,8 @@ def main():
             embeds = embeds.unsqueeze(0).cuda()
         elif use_embed_ssl:              #
             embeds = _get_embed_ssl(fpath, embed_dir, test_files)
-            embeds_ssl_lengths = torch.LongTensor(embeds.size(1)).unsqueeze(0).cuda()
+            embeds_ssl_lengths = torch.LongTensor(1).cuda()
+            embeds_ssl_lengths[0] = embeds.size(1)
             embeds = embeds.unsqueeze(0).cuda()
 
         # ground truthのシンボリックリンクを貼る
@@ -121,21 +123,6 @@ def main():
             # inference
             audio = net_g.infer(x_tst, x_tst_lengths, sid=sid, embeds=embeds, embeds_ssl_lengths=embeds_ssl_lengths, noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0,0].data.cpu().float().numpy()
             scipy.io.wavfile.write(os.path.join(save_dir, fname), hps.data.sampling_rate, audio)
-
-def _get_parser():
-    parser = argparse.ArgumentParser(description='Inference evalation data.')
-    parser.add_argument(
-        'model_dir',
-        type=str,
-        help='Path of model directory',
-    )
-    return parser
-
-# 与えられたモデルのconfig.jsonを返す
-def _get_config(model_path):
-    config_file = os.path.join(os.path.dirname(model_path), 'config.json')
-    assert os.path.exists(config_file)
-    return config_file
 
 # テキストを所定のsequenceへ変換
 def _get_normed_text(text, hps):
