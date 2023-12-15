@@ -2,6 +2,7 @@ pretrained_models
 dataset
 wav
 dump
+test.py
 *.out
 *.wav
 
