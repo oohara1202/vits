@@ -57,6 +57,7 @@ def main():
         embed_dim = hps.data.embed_dim
     except:
         use_embed = False
+        use_embed_ssl = False
         embed_dim = None
 
     # embeddingベクトルの読み込み
