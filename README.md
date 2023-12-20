@@ -1,17 +1,5 @@
 # Commands
 
-## SER
-
-```bash
-# preprocess dataset
-mkdir dataset
-. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/jtes_v1.1_22k jtes_v1.1
-python prep_dataset/05_prep_jtes.py
-
-python ser_train_v1.py -c configs/ser.json -m ser_v1
-python ser_train_v2.py -c configs/ser.json -m ser_v2
-```
-
 ## JSUT training
 
 ```bash
@@ -40,12 +28,16 @@ python prep_dataset/02_prep_jvs.py
 
 # (optional) extract x-vector
 python prep_dataset/11_save_xvector.py filelists/jvs
+# (optional) extract SSL model feature
+python prep_dataset/12_save_sslfeature.py filelists/jvs
 
 # train
 ## original
 nohup python train_ms.py -c configs/jvs_base.json -m jvs_base > logs/jvs_base.out
 ## with x-vector
 nohup python train_embed.py -c configs/jvs_xvector.json -m jvs_xvector > logs/jvs_xvector.out
+## with SSL model feature
+nohup python train_embed_ssl.py -c configs/jvs_sslfeature.json -m jvs_sslfeature > logs/jvs_sslfeature.out
 ```
 
 ## STUDIES (female-teacher model) training
@@ -58,18 +50,32 @@ python prep_dataset/03_prep_studies-teacher.py
 
 # (optional) extract x-vector
 python prep_dataset/11_save_xvector.py filelists/studies-teacher
+# (optional) extract SSL model feature
+python prep_dataset/12_save_sslfeature.py filelists/studies-teacher
 
 # train
 ## original
 nohup python train_ms.py -c configs/studies-teacher_base.json -m studies-teacher_base > logs/studies-teacher_base.out
 ## with x-vector
 nohup python train_embed.py -c configs/studies-teacher_xvector.json -m studies-teacher_xvector > logs/studies-teacher_xvector.out
+## with SSL model feature
+nohup python train_embed_ssl.py -c configs/studies-teacher_sslfeature.json -m studies-teacher_sslfeature > logs/studies-teacher_sslfeature.out
+## with SER posterior probability
+nohup python train_embed.py -c configs/studies-teacher_serpp.json -m studies-teacher_serpp > logs/studies-teacher_serpp.out
+## with Emotion representation
+nohup python train_embed.py -c configs/studies-teacher_emorepresentation.json -m studies-teacher_emorepresentation > logs/studies-teacher_emorepresentation.out
 
-# finetune
+# fine-tune from STUDIES + CALLS
 ## original
 nohup python train_ms.py -c configs/studies-teacher_base_ft.json -m studies-teacher_base_ft -f studies-calls_base > logs/studies-teacher_base_ft.out
 ## with x-vector
 nohup python train_embed.py -c configs/studies-teacher_xvector_ft.json -m studies-teacher_xvector_ft -f studies-calls_xvector > logs/studies-teacher_xvector_ft.out
+## with SSL model feature
+nohup python train_embed_ssl.py -c configs/studies-teacher_sslfeature_ft.json -m studies-teacher_sslfeature_ft -f studies-calls_sslfeature > logs/studies-teacher_sslfeature_ft.out
+## with SER posterior probability
+nohup python train_embed.py -c configs/studies-teacher_serpp_ft.json -m studies-teacher_serpp_ft -f studies-calls_serpp > logs/studies-teacher_serpp_ft.out
+## with Emotion representation
+nohup python train_embed.py -c configs/studies-teacher_emorepresentation_ft.json -m studies-teacher_emorepresentation_ft -f studies-calls_emorepresentation > logs/studies-teacher_emorepresentation_ft.out
 ```
 
 ## STUDIES + CALLS training
@@ -89,12 +95,22 @@ python prep_dataset/21_integrate_studies_calls.py
 
 # (optional) extract x-vector
 python prep_dataset/11_save_xvector.py filelists/studies-calls
+# (optional) extract SSL model feature
+python prep_dataset/12_save_sslfeature.py filelists/studies-calls
+# (optional) extract SER posterior probability and Emotion representation
+## Please check "../s3prl" programs
 
 # train
 ## original
 nohup python train_ms.py -c configs/studies-calls_base.json -m studies-calls_base > logs/studies-calls_base.out
 ## with x-vector
 nohup python train_embed.py -c configs/studies-calls_xvector.json -m studies-calls_xvector > logs/studies-calls_xvector.out
+## with SSL model feature
+nohup python train_embed_ssl.py -c configs/studies-calls_sslfeature.json -m studies-calls_sslfeature > logs/studies-calls_sslfeature.out
+## with SER posterior probability
+nohup python train_embed.py -c configs/studies-calls_serpp.json -m studies-calls_serpp > logs/studies-calls_serpp.out
+## with Emotion representation
+nohup python train_embed.py -c configs/studies-calls_emorepresentation.json -m studies-calls_emorepresentation > logs/studies-calls_emorepresentation.out
 ```
 
 ## STUDIES (three speaker model) training
