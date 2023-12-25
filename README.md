@@ -40,6 +40,41 @@ nohup python train_embed.py -c configs/jvs_xvector.json -m jvs_xvector > logs/jv
 nohup python train_embed_ssl.py -c configs/jvs_sslfeature.json -m jvs_sslfeature > logs/jvs_sslfeature.out
 ```
 
+## STUDIES + CALLS training
+
+```bash
+# preprocess STUDIES-theacher
+mkdir dataset
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES_22k STUDIES
+python prep_dataset/03_prep_studies-teacher.py
+
+# preprocess CALLS
+. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES-2_22k CALLS
+python prep_dataset/04_prep_calls.py
+
+# integrate two datasets
+python prep_dataset/21_integrate_studies_calls.py
+
+# (optional) extract x-vector
+python prep_dataset/11_save_xvector.py filelists/studies-calls
+# (optional) extract SSL model feature
+python prep_dataset/12_save_sslfeature.py filelists/studies-calls
+# (optional) extract SER posterior probability and Emotion representation
+## Please check "../s3prl" programs
+
+# train
+## original
+nohup python train_ms.py -c configs/studies-calls_base.json -m studies-calls_base > logs/studies-calls_base.out
+## with x-vector
+nohup python train_embed.py -c configs/studies-calls_xvector.json -m studies-calls_xvector > logs/studies-calls_xvector.out
+## with SSL model feature
+nohup python train_embed_ssl.py -c configs/studies-calls_sslfeature.json -m studies-calls_sslfeature > logs/studies-calls_sslfeature.out
+## with SER posterior probability
+nohup python train_embed.py -c configs/studies-calls_serpp.json -m studies-calls_serpp > logs/studies-calls_serpp.out
+## with Emotion representation
+nohup python train_embed.py -c configs/studies-calls_emorepresentation.json -m studies-calls_emorepresentation > logs/studies-calls_emorepresentation.out
+```
+
 ## STUDIES (female-teacher model) training
 
 ```bash
@@ -76,41 +111,6 @@ nohup python train_embed_ssl.py -c configs/studies-teacher_sslfeature_ft.json -m
 nohup python train_embed.py -c configs/studies-teacher_serpp_ft.json -m studies-teacher_serpp_ft -f studies-calls_serpp > logs/studies-teacher_serpp_ft.out
 ## with Emotion representation
 nohup python train_embed.py -c configs/studies-teacher_emorepresentation_ft.json -m studies-teacher_emorepresentation_ft -f studies-calls_emorepresentation > logs/studies-teacher_emorepresentation_ft.out
-```
-
-## STUDIES + CALLS training
-
-```bash
-# preprocess STUDIES-theacher
-mkdir dataset
-. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES_22k STUDIES
-python prep_dataset/03_prep_studies-teacher.py
-
-# preprocess CALLS
-. prep_dataset/00_copy_dataset.sh /work/abelab4/s_koha/s_koha_work/dataset/STUDIES-2_22k CALLS
-python prep_dataset/04_prep_calls.py
-
-# integrate two datasets
-python prep_dataset/21_integrate_studies_calls.py
-
-# (optional) extract x-vector
-python prep_dataset/11_save_xvector.py filelists/studies-calls
-# (optional) extract SSL model feature
-python prep_dataset/12_save_sslfeature.py filelists/studies-calls
-# (optional) extract SER posterior probability and Emotion representation
-## Please check "../s3prl" programs
-
-# train
-## original
-nohup python train_ms.py -c configs/studies-calls_base.json -m studies-calls_base > logs/studies-calls_base.out
-## with x-vector
-nohup python train_embed.py -c configs/studies-calls_xvector.json -m studies-calls_xvector > logs/studies-calls_xvector.out
-## with SSL model feature
-nohup python train_embed_ssl.py -c configs/studies-calls_sslfeature.json -m studies-calls_sslfeature > logs/studies-calls_sslfeature.out
-## with SER posterior probability
-nohup python train_embed.py -c configs/studies-calls_serpp.json -m studies-calls_serpp > logs/studies-calls_serpp.out
-## with Emotion representation
-nohup python train_embed.py -c configs/studies-calls_emorepresentation.json -m studies-calls_emorepresentation > logs/studies-calls_emorepresentation.out
 ```
 
 ## STUDIES (three speaker model) training
