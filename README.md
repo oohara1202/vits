@@ -73,6 +73,10 @@ nohup python train_embed_ssl.py -c configs/studies-calls_sslfeature.json -m stud
 nohup python train_embed.py -c configs/studies-calls_serpp.json -m studies-calls_serpp > logs/studies-calls_serpp.out
 ## with Emotion representation
 nohup python train_embed.py -c configs/studies-calls_emorepresentation.json -m studies-calls_emorepresentation > logs/studies-calls_emorepresentation.out
+## with SER posterior probability (JTES SER model)
+nohup python train_embed.py -c configs/studies-calls_jserpp.json -m studies-calls_jserpp > logs/studies-calls_jserpp.out
+## with Emotion representation (JTES SER model)
+nohup python train_embed.py -c configs/studies-calls_jemorepresentation.json -m studies-calls_jemorepresentation > logs/studies-calls_jemorepresentation.out
 ```
 
 ## STUDIES (female-teacher model) training
@@ -111,6 +115,10 @@ nohup python train_embed_ssl.py -c configs/studies-teacher_sslfeature_ft.json -m
 nohup python train_embed.py -c configs/studies-teacher_serpp_ft.json -m studies-teacher_serpp_ft -f studies-calls_serpp > logs/studies-teacher_serpp_ft.out
 ## with Emotion representation
 nohup python train_embed.py -c configs/studies-teacher_emorepresentation_ft.json -m studies-teacher_emorepresentation_ft -f studies-calls_emorepresentation > logs/studies-teacher_emorepresentation_ft.out
+## with SER posterior probability ("JTES" SER model)
+nohup python train_embed.py -c configs/studies-teacher_jserpp_ft.json -m studies-teacher_jserpp_ft -f studies-calls_jserpp > logs/studies-teacher_jserpp_ft.out
+## with Emotion representation ("JTES" SER model)
+nohup python train_embed.py -c configs/studies-teacher_jemorepresentation_ft.json -m studies-teacher_jemorepresentation_ft -f studies-calls_jemorepresentation > logs/studies-teacher_jemorepresentation_ft.out
 ```
 
 ## STUDIES (three speaker model) training
