@@ -135,6 +135,17 @@ python prep_dataset/05_prep_studies.py
 nohup python train_ms.py -c configs/studies_vc.json -m studies_vc > logs/studies_vc.out
 ```
 
+Also, we can train another LITE-DATA model.
+This model do not consisit of the student's emotional speech, only "Neutral" speech.
+
+```bash
+# preprocess dataset
+python prep_dataset/06_prep_studies-lite.py
+
+# train
+nohup python train_ms.py -c configs/studies_vc-lite.json -m studies_vc-lite > logs/studies_vc-lite.out
+```
+
 ## LJSpeech training
 
 ``` bash

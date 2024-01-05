@@ -11,8 +11,8 @@ def main():
     # validationとtestのディレクトリ名
     VAL_DIRS = ['LD04']
     TEST_DIRS = ['LD01', 'LD02', 'LD03', 'SD01', 'SD06', 'SD07', 'SD12']
-    dst_dirname = 'filelists/studies'        # 出力ディレクトリ
-    dst_filename = 'studies_audio_sid_text'  # 出力ファイル名（一部）
+    dst_dirname = 'filelists/studies-lite'        # 出力ディレクトリ
+    dst_filename = 'studies-lite_audio_sid_text'  # 出力ファイル名（一部）
     speakers = ['Teacher', 'MStudent', 'FStudent']
     enSpk2jpSpk = {'Teacher':'講師', 'FStudent':'女子生徒', 'MStudent':'男子生徒'}
     speaker2id = {'講師':0, '男子生徒':1, '女子生徒':2}  # 話者-->ID
@@ -63,6 +63,11 @@ def main():
                         
                         # 怒り（Angry）は除外
                         if emotion == '怒り':
+                            i+=1
+                            continue
+
+                        # 生徒の感情音声を除外
+                        if 'Student' in spk and emotion != '平静':
                             i+=1
                             continue
                         
