@@ -8,9 +8,11 @@ import commons
 import utils
 from models import SynthesizerTrn
 from text.symbols import symbols
-from text import text_to_sequence
+
 
 import inference_utils
+
+OUT_DIR = 'wav/eval_data'
 
 def main():
     args = inference_utils.get_parser().parse_args()
@@ -29,7 +31,7 @@ def main():
     # wavファイルの保存directory作成
     d = os.path.basename(model_dir)
     assert len(d) != 0  # logs/jsut_base/ のようにスラッシュで終わっていると怒る
-    dname = os.path.join('wav', d)
+    dname = os.path.join(OUT_DIR, d)
     os.makedirs(dname, exist_ok=True)
 
     # multi-speakerかどうか
@@ -89,7 +91,7 @@ def main():
         fpath = line_splitted[0]         # ファイルパス
         fname = os.path.basename(fpath)  # ファイル名
         text = line_splitted[-1]         # テキスト
-        text_norm = _get_normed_text(text, hps)
+        text_norm = inference_utils.get_normed_text(text, hps)
 
         sid = None                       # 話者ID
         if multi_spk:                    #
@@ -124,14 +126,6 @@ def main():
             # inference
             audio = net_g.infer(x_tst, x_tst_lengths, sid=sid, embeds=embeds, embeds_ssl_lengths=embeds_ssl_lengths, noise_scale=.667, noise_scale_w=0.8, length_scale=1)[0][0,0].data.cpu().float().numpy()
             scipy.io.wavfile.write(os.path.join(save_dir, fname), hps.data.sampling_rate, audio)
-
-# テキストを所定のsequenceへ変換
-def _get_normed_text(text, hps):
-    text_norm = text_to_sequence(text, hps.data.text_cleaners)
-    if hps.data.add_blank:
-        text_norm = commons.intersperse(text_norm, 0)
-    text_norm = torch.LongTensor(text_norm)
-    return text_norm
 
 # 予め保存していたembeddingベクトルを返す
 def _get_embed_dict(embed_dir, test_files):

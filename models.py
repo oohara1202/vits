@@ -31,6 +31,13 @@ class UtteranceLevelFeaturizer(nn.Module):
     return weighted_embeds_ssl
 
   def forward(self, embeds_ssl, embeds_ssl_lengths):
+    ###################################################
+    # This if sentence is only used to inference 
+    # with "UTTERANCE-LEVEL" SSL-model Feature 
+    if len(embeds_ssl.shape) == 2:
+       return embeds_ssl
+    ###################################################
+    
     embeds_ssl_BxTxH = self._weighted_sum(embeds_ssl)
     
     # averaged pooling

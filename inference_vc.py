@@ -11,6 +11,8 @@ from utils import load_wav_to_torch
 
 import inference_utils
 
+OUT_DIR = 'wav/vc'
+
 def main():
     args = inference_utils.get_parser().parse_args()
     model_dir = args.model_dir
@@ -23,12 +25,15 @@ def main():
 
     # testデータのfilelistのpathを取得
     test_files = hps.data.training_files.replace('_train_', '_test_')
+    if 'studies-lite' in test_files:
+        test_files = test_files.replace('studies-lite', 'studies')
+        print(f'Used filelist: {test_files}')
     assert os.path.isfile(test_files)
 
     # wavファイルの保存directory作成
     d = os.path.basename(model_dir)
     assert len(d) != 0  # logs/jsut_base/ のようにスラッシュで終わっていると怒る
-    dname = os.path.join('wav', d)
+    dname = os.path.join(OUT_DIR, d)
     os.makedirs(dname, exist_ok=True)
 
     # 話者分directory作成
