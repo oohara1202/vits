@@ -69,8 +69,6 @@ def main():
 
     for emotion in emotion_list:
         print(f'Emotion: {emotion}')
-        if not emotion == 'Sad':
-            continue
         save_dir = os.path.join(dname, emotion)
         os.makedirs(save_dir, exist_ok=True)
 
