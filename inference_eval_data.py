@@ -9,7 +9,6 @@ import utils
 from models import SynthesizerTrn
 from text.symbols import symbols
 
-
 import inference_utils
 
 OUT_DIR = 'wav/eval_data'
