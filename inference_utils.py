@@ -12,6 +12,18 @@ def get_parser():
         type=str,
         help='Path of model directory',
     )
+    parser.add_argument(
+        '-f',
+        '--fcxlab',
+        type=str,
+        help='Path of full context label',
+    )
+    parser.add_argument(
+        '-e',
+        '--embed',
+        type=str,
+        help='Path of embedding vector',
+    )
     return parser
 
 # 与えられたモデルのconfig.jsonを返す
